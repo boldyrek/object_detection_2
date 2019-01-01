@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-murraychev-ca-used-Chevrolet-2010-Chevrolet-Equinox-a4facf780a0e0ae96a2fe7421d345272-htm-2018-11-22-14_08_52.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2383</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>803</ymin>
+            <xmax>1099</xmax>
+            <ymax>833</ymax>
+        </bndbox>
+    </object>
+</annotation>

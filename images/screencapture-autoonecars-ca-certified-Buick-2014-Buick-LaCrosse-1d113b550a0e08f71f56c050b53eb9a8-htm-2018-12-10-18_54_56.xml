@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoonecars-ca-certified-Buick-2014-Buick-LaCrosse-1d113b550a0e08f71f56c050b53eb9a8-htm-2018-12-10-18_54_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3311</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>862</xmin>
+            <ymin>745</ymin>
+            <xmax>880</xmax>
+            <ymax>776</ymax>
+        </bndbox>
+    </object>
+</annotation>

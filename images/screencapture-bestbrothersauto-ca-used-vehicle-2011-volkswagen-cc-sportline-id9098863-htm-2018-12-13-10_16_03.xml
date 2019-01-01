@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bestbrothersauto-ca-used-vehicle-2011-volkswagen-cc-sportline-id9098863-htm-2018-12-13-10_16_03.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3628</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>797</xmin>
+            <ymin>578</ymin>
+            <xmax>840</xmax>
+            <ymax>623</ymax>
+        </bndbox>
+    </object>
+</annotation>

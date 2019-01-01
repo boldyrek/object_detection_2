@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-LEXUS-2013-LEXUS-RX-350-3d8f53270a0e0a406cafd9daee8ccd91-htm-2018-12-01-06_59_35.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3646</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>749</ymin>
+            <xmax>982</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>
+</annotation>

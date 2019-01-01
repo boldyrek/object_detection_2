@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-certified-Ford-2015-Ford-Escape-5468e5f80a0e0c582359b2c8d0b452c8-htm-2018-11-22-13_15_29.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3769</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>748</ymin>
+            <xmax>1104</xmax>
+            <ymax>779</ymax>
+        </bndbox>
+    </object>
+</annotation>

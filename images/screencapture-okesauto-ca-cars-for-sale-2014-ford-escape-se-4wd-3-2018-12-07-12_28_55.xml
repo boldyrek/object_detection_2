@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-okesauto-ca-cars-for-sale-2014-ford-escape-se-4wd-3-2018-12-07-12_28_55.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1971</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1243</xmin>
+            <ymin>857</ymin>
+            <xmax>1255</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+</annotation>

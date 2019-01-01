@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-villagechryslerdodgejeepram-ca-used-Dodge-2018-Dodge-Journey-8b477a2d0a0e0aea01ace074944a4c01-htm-2018-12-14-12_27_23.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4048</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>848</ymin>
+            <xmax>881</xmax>
+            <ymax>872</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-planetford-ca-used-Volkswagen-2013-Volkswagen-Jetta-c3917de70a0e08b91f5cda976ce28f5e-htm-2018-12-07-12_49_51.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5276</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1024</xmin>
+            <ymin>735</ymin>
+            <xmax>1040</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

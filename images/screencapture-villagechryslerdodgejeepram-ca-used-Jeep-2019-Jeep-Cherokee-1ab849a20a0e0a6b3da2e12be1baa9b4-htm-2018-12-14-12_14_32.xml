@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-villagechryslerdodgejeepram-ca-used-Jeep-2019-Jeep-Cherokee-1ab849a20a0e0a6b3da2e12be1baa9b4-htm-2018-12-14-12_14_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>6176</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>849</ymin>
+            <xmax>881</xmax>
+            <ymax>872</ymax>
+        </bndbox>
+    </object>
+</annotation>

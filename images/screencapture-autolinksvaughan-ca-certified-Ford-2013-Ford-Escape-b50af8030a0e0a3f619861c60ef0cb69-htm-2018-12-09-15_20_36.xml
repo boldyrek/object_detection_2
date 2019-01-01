@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autolinksvaughan-ca-certified-Ford-2013-Ford-Escape-b50af8030a0e0a3f619861c60ef0cb69-htm-2018-12-09-15_20_36.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2228</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>957</xmin>
+            <ymin>802</ymin>
+            <xmax>974</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

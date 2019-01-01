@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-number7honda-used-Toyota-2009-Toyota-Corolla-Woodbridge-fa8723090a0e08f76a32b06d8d8aa66e-htm-2018-11-22-12_51_10.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3257</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1078</xmin>
+            <ymin>914</ymin>
+            <xmax>1100</xmax>
+            <ymax>951</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mycar-ca-used-vehicle-2008-gmc-sierra-1500-sle-id9090896-htm-2018-12-06-09_01_29.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7094</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>608</ymin>
+            <xmax>942</xmax>
+            <ymax>653</ymax>
+        </bndbox>
+    </object>
+</annotation>

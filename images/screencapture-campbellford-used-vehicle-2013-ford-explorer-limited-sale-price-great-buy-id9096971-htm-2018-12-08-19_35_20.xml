@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-campbellford-used-vehicle-2013-ford-explorer-limited-sale-price-great-buy-id9096971-htm-2018-12-08-19_35_20.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2534</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>600</ymin>
+            <xmax>937</xmax>
+            <ymax>644</ymax>
+        </bndbox>
+    </object>
+</annotation>

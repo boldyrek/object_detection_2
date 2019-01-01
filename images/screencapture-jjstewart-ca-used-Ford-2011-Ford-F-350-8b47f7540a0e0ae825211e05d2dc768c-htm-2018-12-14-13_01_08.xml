@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-jjstewart-ca-used-Ford-2011-Ford-F-350-8b47f7540a0e0ae825211e05d2dc768c-htm-2018-12-14-13_01_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3482</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>846</ymin>
+            <xmax>883</xmax>
+            <ymax>871</ymax>
+        </bndbox>
+    </object>
+</annotation>

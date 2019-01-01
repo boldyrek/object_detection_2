@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lanouechev-vehicle-details-used-2014-chevrolet-malibu-lt-leather-seats-tilbury-on-id-27563529-2018-12-14-11_33_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3435</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>815</xmin>
+            <ymin>880</ymin>
+            <xmax>839</xmax>
+            <ymax>904</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Subaru-Legacy-Ottawa-Ontario-5_41910237_20151103120223859-2018-12-13-18_57_46.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3665</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>593</ymin>
+            <xmax>913</xmax>
+            <ymax>613</ymax>
+        </bndbox>
+    </object>
+</annotation>

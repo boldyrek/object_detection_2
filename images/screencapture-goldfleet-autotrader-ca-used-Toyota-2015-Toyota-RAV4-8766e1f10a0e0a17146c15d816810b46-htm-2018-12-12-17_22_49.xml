@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-goldfleet-autotrader-ca-used-Toyota-2015-Toyota-RAV4-8766e1f10a0e0a17146c15d816810b46-htm-2018-12-12-17_22_49.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3435</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1085</xmin>
+            <ymin>737</ymin>
+            <xmax>1104</xmax>
+            <ymax>771</ymax>
+        </bndbox>
+    </object>
+</annotation>

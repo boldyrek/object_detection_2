@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-certified-Ram-2013-Ram-1500-10bfe1d80a0e0a4208e7cdf3c3a2c287-htm-2018-12-07-17_46_53.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3075</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>988</xmin>
+            <ymin>776</ymin>
+            <xmax>1003</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

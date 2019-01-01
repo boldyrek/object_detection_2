@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-paramountfinecars-ca-certified-Porsche-2011-Porsche-Panamera-b73808fe0a0e08be358282a6b70c8221-htm-2018-12-01-20_25_08.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1489</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>789</ymin>
+            <xmax>983</xmax>
+            <ymax>826</ymax>
+        </bndbox>
+    </object>
+</annotation>

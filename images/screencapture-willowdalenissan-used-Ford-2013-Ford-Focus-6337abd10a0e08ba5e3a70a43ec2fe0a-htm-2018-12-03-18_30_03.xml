@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-willowdalenissan-used-Ford-2013-Ford-Focus-6337abd10a0e08ba5e3a70a43ec2fe0a-htm-2018-12-03-18_30_03.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2880</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>1174</ymin>
+            <xmax>982</xmax>
+            <ymax>1208</ymax>
+        </bndbox>
+    </object>
+</annotation>

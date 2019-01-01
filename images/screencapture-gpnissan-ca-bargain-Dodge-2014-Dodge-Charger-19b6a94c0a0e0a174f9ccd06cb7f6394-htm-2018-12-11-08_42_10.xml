@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gpnissan-ca-bargain-Dodge-2014-Dodge-Charger-19b6a94c0a0e0a174f9ccd06cb7f6394-htm-2018-12-11-08_42_10.jpg</filename>
+    <size>
+        <width>1482</width>
+        <height>4064</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>875</ymin>
+            <xmax>886</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

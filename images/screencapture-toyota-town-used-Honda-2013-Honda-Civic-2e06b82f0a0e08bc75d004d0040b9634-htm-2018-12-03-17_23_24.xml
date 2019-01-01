@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-toyota-town-used-Honda-2013-Honda-Civic-2e06b82f0a0e08bc75d004d0040b9634-htm-2018-12-03-17_23_24.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>806</xmin>
+            <ymin>756</ymin>
+            <xmax>822</xmax>
+            <ymax>787</ymax>
+        </bndbox>
+    </object>
+</annotation>

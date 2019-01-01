@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-hondawelland-ca-used-Toyota-2014-Toyota-Camry-a785c4ad0a0e08b97b37551a1f750dce-htm-2018-12-07-13_38_41.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2253</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>1069</ymin>
+            <xmax>985</xmax>
+            <ymax>1104</ymax>
+        </bndbox>
+    </object>
+</annotation>

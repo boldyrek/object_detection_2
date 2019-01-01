@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-certified-Chevrolet-2017-Chevrolet-Equinox-60389a1d0a0e0c594c8ed2cf1bae6c2c-htm-2018-12-13-16_00_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2653</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>624</xmin>
+            <ymin>680</ymin>
+            <xmax>638</xmax>
+            <ymax>703</ymax>
+        </bndbox>
+    </object>
+</annotation>

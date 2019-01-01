@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stcatharinesmazda-used-Subaru-2014-Subaru-Forester-efeb9b700a0e08bb50a701531feb1dea-htm-2018-11-22-13_01_59.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4466</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1080</xmin>
+            <ymin>731</ymin>
+            <xmax>1105</xmax>
+            <ymax>766</ymax>
+        </bndbox>
+    </object>
+</annotation>

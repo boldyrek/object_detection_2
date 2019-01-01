@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-denhamford-ca-used-Ford-2017-Ford-Edge-wetaskiwin-f5bcb6080a0e0a174f9ccd0607d2b7ea-htm-2018-12-06-08_18_10.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3644</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>992</xmin>
+            <ymin>886</ymin>
+            <xmax>1007</xmax>
+            <ymax>909</ymax>
+        </bndbox>
+    </object>
+</annotation>

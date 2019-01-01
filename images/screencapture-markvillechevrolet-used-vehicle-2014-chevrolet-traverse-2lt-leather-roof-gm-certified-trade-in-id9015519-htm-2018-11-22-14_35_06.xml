@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-markvillechevrolet-used-vehicle-2014-chevrolet-traverse-2lt-leather-roof-gm-certified-trade-in-id9015519-htm-2018-11-22-14_35_06.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2822</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>605</ymin>
+            <xmax>1053</xmax>
+            <ymax>630</ymax>
+        </bndbox>
+    </object>
+</annotation>

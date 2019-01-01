@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-goodwillsusedcars-ca-used-Chevrolet-2013-Chevrolet-Silverado-1500-deaf7a2e0a0e08bc600393080718e5df-htm-2018-12-03-19_11_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3577</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>825</ymin>
+            <xmax>985</xmax>
+            <ymax>860</ymax>
+        </bndbox>
+    </object>
+</annotation>

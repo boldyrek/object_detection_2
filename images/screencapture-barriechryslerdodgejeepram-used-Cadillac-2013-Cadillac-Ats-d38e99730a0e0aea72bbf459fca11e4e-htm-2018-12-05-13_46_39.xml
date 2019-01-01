@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-barriechryslerdodgejeepram-used-Cadillac-2013-Cadillac-Ats-d38e99730a0e0aea72bbf459fca11e4e-htm-2018-12-05-13_46_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4619</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>827</ymin>
+            <xmax>983</xmax>
+            <ymax>851</ymax>
+        </bndbox>
+    </object>
+</annotation>

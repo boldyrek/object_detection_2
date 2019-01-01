@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-pfaffvw-inventory-used-2008-volkswagen-jetta-2-5l-at-tip-4-door-sedan-3vwhm31kx8m117423-2018-11-30-16_44_20.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3097</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>919</ymin>
+            <xmax>1070</xmax>
+            <ymax>953</ymax>
+        </bndbox>
+    </object>
+</annotation>

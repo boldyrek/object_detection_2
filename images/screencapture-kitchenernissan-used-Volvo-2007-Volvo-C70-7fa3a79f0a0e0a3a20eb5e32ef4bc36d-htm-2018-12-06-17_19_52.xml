@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kitchenernissan-used-Volvo-2007-Volvo-C70-7fa3a79f0a0e0a3a20eb5e32ef4bc36d-htm-2018-12-06-17_19_52.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2634</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>781</ymin>
+            <xmax>984</xmax>
+            <ymax>812</ymax>
+        </bndbox>
+    </object>
+</annotation>

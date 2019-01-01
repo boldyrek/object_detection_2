@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-maplehonda-certified-Honda-2014-Honda-Accord-Sedan-413f43140a0e0a3d6b32adb3cd95db7d-htm-2018-12-10-12_44_18.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3862</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>948</xmin>
+            <ymin>695</ymin>
+            <xmax>962</xmax>
+            <ymax>718</ymax>
+        </bndbox>
+    </object>
+</annotation>

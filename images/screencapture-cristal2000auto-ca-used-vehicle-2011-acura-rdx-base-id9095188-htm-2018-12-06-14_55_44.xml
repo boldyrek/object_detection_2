@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cristal2000auto-ca-used-vehicle-2011-acura-rdx-base-id9095188-htm-2018-12-06-14_55_44.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8784</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>550</ymin>
+            <xmax>943</xmax>
+            <ymax>595</ymax>
+        </bndbox>
+    </object>
+</annotation>

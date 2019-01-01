@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-bargain-Mazda-2007-Mazda-CX-7-8b1921e70a0e0a41031cc0b88e885057-htm-2018-12-12-17_16_27.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1874</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>645</ymin>
+            <xmax>639</xmax>
+            <ymax>669</ymax>
+        </bndbox>
+    </object>
+</annotation>

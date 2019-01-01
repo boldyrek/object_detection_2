@@ -1,0 +1,7 @@
+path,annotations
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/2.jpg,"[{'label':'car','type':'rectangle','coordinates':{'x':968,'y':489,'width':31,'height':53}}]"
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/screencapture-416autoplex-ca-used-Volkswagen-2012-Volkswagen-Touareg-e7cc2e890a0e08ba69fe50b898915b83-htm-2018-12-07-12_13_27.jpg,"[{'label':'arrow','type':'rectangle','coordinates':{'x':972,'y':726,'width':31,'height':43}}]"
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/screencapture-5stardealer-ca-certified-Volkswagen-2011-Volkswagen-Jetta-8d3493b50a0e08bd0aa4aaa10cae7086-htm-2018-12-01-20_27_35.jpg,"[{'label':'arrow','type':'rectangle','coordinates':{'x':934,'y':911,'width':14,'height':24}}]"
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/screencapture-albertahonda-used-Nissan-2012-Nissan-Pathfinder-ba3812210a0e0a6b04eb17fb2d2eab16-htm-2018-12-07-17_30_28.jpg,"[{'label':'arrow','type':'rectangle','coordinates':{'x':974,'y':812,'width':18,'height':30}}]"
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/screencapture-automobilecarrera-used-Volkswagen-2014-Volkswagen-Tiguan-da2191b20a0e0c5b09bcfabc55085ab1-htm-2018-12-07-17_49_17.jpg,"[{'label':'arrow','type':'rectangle','coordinates':{'x':970,'y':706,'width':20,'height':35}}]"
+/Users/dmitrii/Downloads/pics_of_cars/train/no-nav/screencapture-automobilecarrera-used-Volkswagen-2014-Volkswagen-Tiguan-da2191b20a0e0c5b09bcfabc55085ab1-htm-2018-12-07-18_03_21.jpg,"[{'label':'arrow','type':'rectangle','coordinates':{'x':970,'y':707,'width':20,'height':34}}]"

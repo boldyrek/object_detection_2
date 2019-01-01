@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-platinumcars-ca-used-Audi-2013-Audi-A7-1877605e0a0e0c592cf33189f1d4df28-htm-2018-12-05-10_45_12.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4437</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1030</xmin>
+            <ymin>839</ymin>
+            <xmax>1072</xmax>
+            <ymax>882</ymax>
+        </bndbox>
+    </object>
+</annotation>

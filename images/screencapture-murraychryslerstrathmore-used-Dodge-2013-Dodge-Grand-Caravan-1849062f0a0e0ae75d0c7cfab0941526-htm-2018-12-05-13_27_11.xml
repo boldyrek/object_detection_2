@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-murraychryslerstrathmore-used-Dodge-2013-Dodge-Grand-Caravan-1849062f0a0e0ae75d0c7cfab0941526-htm-2018-12-05-13_27_11.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2482</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>825</ymin>
+            <xmax>979</xmax>
+            <ymax>854</ymax>
+        </bndbox>
+    </object>
+</annotation>

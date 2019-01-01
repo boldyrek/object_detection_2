@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-jimthompsonchrysler-certified-Kia-2015-Kia-Rio-Kingston-ON-098d6dd40a0e08b93210bf348ddc2865-htm-2018-11-23-16_17_10.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2876</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>893</ymin>
+            <xmax>1105</xmax>
+            <ymax>916</ymax>
+        </bndbox>
+    </object>
+</annotation>

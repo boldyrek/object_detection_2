@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kiaofbrampton-ca-used-Kia-2013-Kia-Optima-561b7a1c0a0e08be0dc69aefbc431903-htm-2018-12-08-20_27_49.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1023</xmin>
+            <ymin>735</ymin>
+            <xmax>1041</xmax>
+            <ymax>758</ymax>
+        </bndbox>
+    </object>
+</annotation>

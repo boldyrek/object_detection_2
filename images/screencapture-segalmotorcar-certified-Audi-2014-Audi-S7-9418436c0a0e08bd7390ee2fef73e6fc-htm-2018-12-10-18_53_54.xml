@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-segalmotorcar-certified-Audi-2014-Audi-S7-9418436c0a0e08bd7390ee2fef73e6fc-htm-2018-12-10-18_53_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3460</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>811</ymin>
+            <xmax>879</xmax>
+            <ymax>840</ymax>
+        </bndbox>
+    </object>
+</annotation>

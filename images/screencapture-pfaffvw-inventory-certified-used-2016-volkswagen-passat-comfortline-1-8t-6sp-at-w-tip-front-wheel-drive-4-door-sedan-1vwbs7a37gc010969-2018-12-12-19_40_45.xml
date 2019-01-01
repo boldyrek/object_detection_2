@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffvw-inventory-certified-used-2016-volkswagen-passat-comfortline-1-8t-6sp-at-w-tip-front-wheel-drive-4-door-sedan-1vwbs7a37gc010969-2018-12-12-19_40_45.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3167</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>944</xmin>
+            <ymin>955</ymin>
+            <xmax>956</xmax>
+            <ymax>972</ymax>
+        </bndbox>
+    </object>
+</annotation>

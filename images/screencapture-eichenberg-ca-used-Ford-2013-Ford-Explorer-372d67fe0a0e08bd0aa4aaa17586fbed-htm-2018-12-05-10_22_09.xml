@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-eichenberg-ca-used-Ford-2013-Ford-Explorer-372d67fe0a0e08bd0aa4aaa17586fbed-htm-2018-12-05-10_22_09.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3662</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>747</ymin>
+            <xmax>983</xmax>
+            <ymax>770</ymax>
+        </bndbox>
+    </object>
+</annotation>

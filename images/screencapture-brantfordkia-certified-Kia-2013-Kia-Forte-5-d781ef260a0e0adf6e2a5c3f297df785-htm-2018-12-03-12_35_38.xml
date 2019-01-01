@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-brantfordkia-certified-Kia-2013-Kia-Forte-5-d781ef260a0e0adf6e2a5c3f297df785-htm-2018-12-03-12_35_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3249</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>929</xmin>
+            <ymin>832</ymin>
+            <xmax>974</xmax>
+            <ymax>891</ymax>
+        </bndbox>
+    </object>
+</annotation>

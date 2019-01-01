@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-donnellyford-used-vehicle-2017-mitsubishi-lancer-id8965219-htm-2018-11-23-17_00_39.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2672</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>558</ymin>
+            <xmax>1064</xmax>
+            <ymax>602</ymax>
+        </bndbox>
+    </object>
+</annotation>

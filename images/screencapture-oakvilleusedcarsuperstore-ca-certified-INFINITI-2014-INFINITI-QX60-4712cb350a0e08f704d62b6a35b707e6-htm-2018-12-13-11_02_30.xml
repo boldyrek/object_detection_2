@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvilleusedcarsuperstore-ca-certified-INFINITI-2014-INFINITI-QX60-4712cb350a0e08f704d62b6a35b707e6-htm-2018-12-13-11_02_30.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3659</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>837</ymin>
+            <xmax>880</xmax>
+            <ymax>866</ymax>
+        </bndbox>
+    </object>
+</annotation>

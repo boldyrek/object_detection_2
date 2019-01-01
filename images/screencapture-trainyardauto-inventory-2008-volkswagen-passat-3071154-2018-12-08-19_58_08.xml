@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-trainyardauto-inventory-2008-volkswagen-passat-3071154-2018-12-08-19_58_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4181</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>605</xmin>
+            <ymin>700</ymin>
+            <xmax>616</xmax>
+            <ymax>717</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lexusofrichmondhill-used-Chevrolet-2013-Chevrolet-Traverse-b18bf6530a0e0a403fcada761f51ef55-htm-2018-12-05-10_14_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2334</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>797</ymin>
+            <xmax>982</xmax>
+            <ymax>832</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-boltonhyundai-certified-Hyundai-2014-Hyundai-Accent-4485eab90a0e08f721a6a0de1d3c084f-htm-2018-12-10-18_58_41.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5485</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>921</xmin>
+            <ymin>735</ymin>
+            <xmax>935</xmax>
+            <ymax>757</ymax>
+        </bndbox>
+    </object>
+</annotation>

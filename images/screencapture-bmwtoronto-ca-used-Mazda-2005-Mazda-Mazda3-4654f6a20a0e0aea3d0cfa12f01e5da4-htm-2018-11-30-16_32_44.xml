@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bmwtoronto-ca-used-Mazda-2005-Mazda-Mazda3-4654f6a20a0e0aea3d0cfa12f01e5da4-htm-2018-11-30-16_32_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2734</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>843</ymin>
+            <xmax>979</xmax>
+            <ymax>858</ymax>
+        </bndbox>
+    </object>
+</annotation>

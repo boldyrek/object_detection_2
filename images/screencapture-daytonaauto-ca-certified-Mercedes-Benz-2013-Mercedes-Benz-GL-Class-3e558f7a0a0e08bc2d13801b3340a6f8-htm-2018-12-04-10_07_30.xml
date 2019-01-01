@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-daytonaauto-ca-certified-Mercedes-Benz-2013-Mercedes-Benz-GL-Class-3e558f7a0a0e08bc2d13801b3340a6f8-htm-2018-12-04-10_07_30.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4246</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>749</ymin>
+            <xmax>983</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>
+</annotation>

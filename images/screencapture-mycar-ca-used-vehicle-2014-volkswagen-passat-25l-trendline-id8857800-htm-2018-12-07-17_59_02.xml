@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mycar-ca-used-vehicle-2014-volkswagen-passat-25l-trendline-id8857800-htm-2018-12-07-17_59_02.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>7904</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>902</xmin>
+            <ymin>602</ymin>
+            <xmax>944</xmax>
+            <ymax>647</ymax>
+        </bndbox>
+    </object>
+</annotation>

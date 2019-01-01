@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oxforddodge-ca-used-Ram-2017-Ram-1500-89ce2b950a0e08bb0f93130bde664183-htm-2018-12-14-11_34_31.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4235</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>875</ymin>
+            <xmax>881</xmax>
+            <ymax>897</ymax>
+        </bndbox>
+    </object>
+</annotation>

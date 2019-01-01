@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-niagarachrysler-ca-certified-Dodge-2013-Dodge-Grand-Caravan-444ee64c0a0e0ae773a94efa17214476-htm-2018-12-05-11_52_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4272</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>800</ymin>
+            <xmax>984</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

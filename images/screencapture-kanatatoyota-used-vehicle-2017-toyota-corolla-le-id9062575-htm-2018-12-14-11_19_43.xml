@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-kanatatoyota-used-vehicle-2017-toyota-corolla-le-id9062575-htm-2018-12-14-11_19_43.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8052</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>1049</ymin>
+            <xmax>833</xmax>
+            <ymax>1058</ymax>
+        </bndbox>
+    </object>
+</annotation>

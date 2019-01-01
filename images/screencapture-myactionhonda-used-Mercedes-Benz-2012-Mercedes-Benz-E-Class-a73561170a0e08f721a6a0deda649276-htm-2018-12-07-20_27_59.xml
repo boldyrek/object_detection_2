@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-myactionhonda-used-Mercedes-Benz-2012-Mercedes-Benz-E-Class-a73561170a0e08f721a6a0deda649276-htm-2018-12-07-20_27_59.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2020</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>745</xmin>
+            <ymin>669</ymin>
+            <xmax>758</xmax>
+            <ymax>693</ymax>
+        </bndbox>
+    </object>
+</annotation>

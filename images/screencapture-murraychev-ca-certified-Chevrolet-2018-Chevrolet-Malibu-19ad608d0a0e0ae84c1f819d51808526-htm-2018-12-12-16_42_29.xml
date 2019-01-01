@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-murraychev-ca-certified-Chevrolet-2018-Chevrolet-Malibu-19ad608d0a0e0ae84c1f819d51808526-htm-2018-12-12-16_42_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2849</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>857</xmin>
+            <ymin>863</ymin>
+            <xmax>876</xmax>
+            <ymax>895</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bmwkingston-ca-used-vehicle-2013-bmw-x1-xdrive28i-id9091808-htm-2018-12-10-13_23_15.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8131</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>885</xmin>
+            <ymin>673</ymin>
+            <xmax>927</xmax>
+            <ymax>715</ymax>
+        </bndbox>
+    </object>
+</annotation>

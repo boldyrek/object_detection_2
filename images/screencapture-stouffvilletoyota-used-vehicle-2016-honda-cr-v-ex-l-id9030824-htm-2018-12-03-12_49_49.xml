@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-stouffvilletoyota-used-vehicle-2016-honda-cr-v-ex-l-id9030824-htm-2018-12-03-12_49_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7714</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>926</xmin>
+            <ymin>844</ymin>
+            <xmax>943</xmax>
+            <ymax>928</ymax>
+        </bndbox>
+    </object>
+</annotation>

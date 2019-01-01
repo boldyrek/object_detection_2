@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-400chryslerdealer-used-Dodge-2018-Dodge-Grand-Caravan-866b1a600a0e0a174c891a97a24aaf38-htm-2018-12-13-11_01_11.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4742</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>861</xmin>
+            <ymin>917</ymin>
+            <xmax>885</xmax>
+            <ymax>944</ymax>
+        </bndbox>
+    </object>
+</annotation>

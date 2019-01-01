@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-octaneauto-ca-used-vehicle-2012-volkswagen-jetta-25l-sportline-id9052025-htm-2018-11-28-17_20_26.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7791</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>604</ymin>
+            <xmax>1053</xmax>
+            <ymax>630</ymax>
+        </bndbox>
+    </object>
+</annotation>

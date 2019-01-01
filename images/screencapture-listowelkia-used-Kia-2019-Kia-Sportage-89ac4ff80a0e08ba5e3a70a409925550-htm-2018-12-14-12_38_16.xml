@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-listowelkia-used-Kia-2019-Kia-Sportage-89ac4ff80a0e08ba5e3a70a409925550-htm-2018-12-14-12_38_16.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>811</ymin>
+            <xmax>880</xmax>
+            <ymax>840</ymax>
+        </bndbox>
+    </object>
+</annotation>

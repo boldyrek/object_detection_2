@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-skafauto-ca-certified-Ram-2012-Ram-1500-5186e90f0a0e08f704d62b6aae3b8ec8-htm-2018-12-07-13_57_01.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2230</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>754</ymin>
+            <xmax>984</xmax>
+            <ymax>790</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-elginchrysler-ca-certified-Jeep-2011-Jeep-Grand-Cherokee-st-thomas-on-6465f3fc0a0e0a172f9264f55fe328d7-htm-2018-12-06-08_52_21.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3030</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>820</ymin>
+            <xmax>983</xmax>
+            <ymax>842</ymax>
+        </bndbox>
+    </object>
+</annotation>

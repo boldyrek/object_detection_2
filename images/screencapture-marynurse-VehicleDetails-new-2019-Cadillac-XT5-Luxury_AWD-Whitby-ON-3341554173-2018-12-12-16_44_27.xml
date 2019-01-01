@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-marynurse-VehicleDetails-new-2019-Cadillac-XT5-Luxury_AWD-Whitby-ON-3341554173-2018-12-12-16_44_27.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3377</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>782</ymin>
+            <xmax>696</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+</annotation>

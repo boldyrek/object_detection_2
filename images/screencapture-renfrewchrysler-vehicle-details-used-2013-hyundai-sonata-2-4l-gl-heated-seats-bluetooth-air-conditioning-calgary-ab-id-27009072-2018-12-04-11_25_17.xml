@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-renfrewchrysler-vehicle-details-used-2013-hyundai-sonata-2-4l-gl-heated-seats-bluetooth-air-conditioning-calgary-ab-id-27009072-2018-12-04-11_25_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2643</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>519</ymin>
+            <xmax>710</xmax>
+            <ymax>566</ymax>
+        </bndbox>
+    </object>
+</annotation>

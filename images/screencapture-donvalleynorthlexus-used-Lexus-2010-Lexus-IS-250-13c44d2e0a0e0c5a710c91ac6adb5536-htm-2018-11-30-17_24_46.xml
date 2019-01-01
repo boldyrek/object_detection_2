@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-donvalleynorthlexus-used-Lexus-2010-Lexus-IS-250-13c44d2e0a0e0c5a710c91ac6adb5536-htm-2018-11-30-17_24_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2234</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>795</ymin>
+            <xmax>981</xmax>
+            <ymax>832</ymax>
+        </bndbox>
+    </object>
+</annotation>

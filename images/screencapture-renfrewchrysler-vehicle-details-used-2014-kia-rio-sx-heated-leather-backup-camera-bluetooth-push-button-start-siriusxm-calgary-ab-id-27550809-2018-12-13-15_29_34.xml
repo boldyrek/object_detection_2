@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-renfrewchrysler-vehicle-details-used-2014-kia-rio-sx-heated-leather-backup-camera-bluetooth-push-button-start-siriusxm-calgary-ab-id-27550809-2018-12-13-15_29_34.jpg</filename>
+    <size>
+        <width>1562</width>
+        <height>2669</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>582</xmin>
+            <ymin>525</ymin>
+            <xmax>598</xmax>
+            <ymax>551</ymax>
+        </bndbox>
+    </object>
+</annotation>

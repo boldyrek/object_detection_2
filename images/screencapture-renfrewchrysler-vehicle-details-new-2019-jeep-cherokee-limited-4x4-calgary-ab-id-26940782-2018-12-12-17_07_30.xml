@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-renfrewchrysler-vehicle-details-new-2019-jeep-cherokee-limited-4x4-calgary-ab-id-26940782-2018-12-12-17_07_30.jpg</filename>
+    <size>
+        <width>1562</width>
+        <height>3130</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>582</xmin>
+            <ymin>526</ymin>
+            <xmax>598</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+    </object>
+</annotation>

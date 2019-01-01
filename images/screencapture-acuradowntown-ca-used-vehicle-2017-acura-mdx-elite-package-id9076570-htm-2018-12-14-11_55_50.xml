@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-acuradowntown-ca-used-vehicle-2017-acura-mdx-elite-package-id9076570-htm-2018-12-14-11_55_50.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>9550</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>796</xmin>
+            <ymin>617</ymin>
+            <xmax>839</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>
+</annotation>

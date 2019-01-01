@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-betterwayautosales-certified-Dodge-2014-Dodge-Grand-Caravan-hamilton-f4bf074b0a0e0c59710f29dfc503737b-htm-2018-11-22-14_31_12.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4499</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1083</xmin>
+            <ymin>816</ymin>
+            <xmax>1104</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>

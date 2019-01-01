@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-amherstburggm-VehicleDetails-certified-2018-Chevrolet-Silverado_1500-Crew_Cab_Short_Box_4_Wheel_Drive_LTZ_w-2LZ-Amherstburg-ON-3336279163-2018-12-14-12_31_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3942</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>677</xmin>
+            <ymin>787</ymin>
+            <xmax>698</xmax>
+            <ymax>817</ymax>
+        </bndbox>
+    </object>
+</annotation>

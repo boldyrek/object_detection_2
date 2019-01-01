@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-legacyfordponoka-ca-used-Ford-2015-Ford-Flex-e7426e610a0e0aea0c91cf7d330c3d74-htm-2018-11-22-14_42_36.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3642</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>866</ymin>
+            <xmax>1104</xmax>
+            <ymax>895</ymax>
+        </bndbox>
+    </object>
+</annotation>

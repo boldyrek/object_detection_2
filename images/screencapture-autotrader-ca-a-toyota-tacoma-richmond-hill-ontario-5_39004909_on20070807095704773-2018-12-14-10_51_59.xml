@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-toyota-tacoma-richmond-hill-ontario-5_39004909_on20070807095704773-2018-12-14-10_51_59.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2938</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>584</ymin>
+            <xmax>911</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

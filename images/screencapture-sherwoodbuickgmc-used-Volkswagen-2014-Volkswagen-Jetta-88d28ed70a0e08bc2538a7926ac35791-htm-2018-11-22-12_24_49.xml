@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-sherwoodbuickgmc-used-Volkswagen-2014-Volkswagen-Jetta-88d28ed70a0e08bc2538a7926ac35791-htm-2018-11-22-12_24_49.jpg</filename>
+    <size>
+        <width>1930</width>
+        <height>4765</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1095</xmin>
+            <ymin>982</ymin>
+            <xmax>1110</xmax>
+            <ymax>1011</ymax>
+        </bndbox>
+    </object>
+</annotation>

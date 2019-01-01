@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-dixiechrysler-ca-certified-Ram-2014-Ram-1500-7fe18a8f0a0e0ae7143e79525164cd82-htm-2018-12-10-18_18_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4160</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>840</ymin>
+            <xmax>883</xmax>
+            <ymax>863</ymax>
+        </bndbox>
+    </object>
+</annotation>

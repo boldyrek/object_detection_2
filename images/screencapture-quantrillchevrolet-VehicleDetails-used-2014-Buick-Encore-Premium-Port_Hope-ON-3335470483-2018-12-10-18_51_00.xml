@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-quantrillchevrolet-VehicleDetails-used-2014-Buick-Encore-Premium-Port_Hope-ON-3335470483-2018-12-10-18_51_00.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2892</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>678</xmin>
+            <ymin>739</ymin>
+            <xmax>697</xmax>
+            <ymax>765</ymax>
+        </bndbox>
+    </object>
+</annotation>

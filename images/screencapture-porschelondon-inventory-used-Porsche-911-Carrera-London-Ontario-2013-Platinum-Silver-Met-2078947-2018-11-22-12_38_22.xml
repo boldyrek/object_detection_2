@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-porschelondon-inventory-used-Porsche-911-Carrera-London-Ontario-2013-Platinum-Silver-Met-2078947-2018-11-22-12_38_22.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2987</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>805</xmin>
+            <ymin>691</ymin>
+            <xmax>826</xmax>
+            <ymax>755</ymax>
+        </bndbox>
+    </object>
+</annotation>

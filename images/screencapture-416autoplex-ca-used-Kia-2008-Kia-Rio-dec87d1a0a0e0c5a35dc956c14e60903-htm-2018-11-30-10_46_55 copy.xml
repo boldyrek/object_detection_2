@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-416autoplex-ca-used-Kia-2008-Kia-Rio-dec87d1a0a0e0c5a35dc956c14e60903-htm-2018-11-30-10_46_55 copy.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2983</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>710</ymin>
+            <xmax>981</xmax>
+            <ymax>743</ymax>
+        </bndbox>
+    </object>
+</annotation>

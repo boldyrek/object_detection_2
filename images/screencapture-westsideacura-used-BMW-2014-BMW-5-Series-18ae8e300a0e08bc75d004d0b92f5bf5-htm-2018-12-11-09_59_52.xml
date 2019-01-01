@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-westsideacura-used-BMW-2014-BMW-5-Series-18ae8e300a0e08bc75d004d0b92f5bf5-htm-2018-12-11-09_59_52.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5165</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>862</xmin>
+            <ymin>746</ymin>
+            <xmax>875</xmax>
+            <ymax>767</ymax>
+        </bndbox>
+    </object>
+</annotation>

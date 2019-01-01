@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-luxeautolounge-inventory-2007-pontiac-torrent-3128731-2018-12-06-09_24_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2695</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>484</ymin>
+            <xmax>630</xmax>
+            <ymax>528</ymax>
+        </bndbox>
+    </object>
+</annotation>

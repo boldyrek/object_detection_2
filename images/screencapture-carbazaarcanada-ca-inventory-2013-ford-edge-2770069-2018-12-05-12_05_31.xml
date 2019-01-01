@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carbazaarcanada-ca-inventory-2013-ford-edge-2770069-2018-12-05-12_05_31.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3020</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>584</xmin>
+            <ymin>564</ymin>
+            <xmax>631</xmax>
+            <ymax>609</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-napiliauto-ca-used-Hyundai-2010-Hyundai-Santa-Fe-766310c60a0e08bd07a981199b842a29-htm-2018-12-06-12_57_21.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3095</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>786</ymin>
+            <xmax>984</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

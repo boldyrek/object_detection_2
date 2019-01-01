@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-honda-civic-sedan-carignan-quebec-5_39572400_20121026135422108-2018-12-12-20_41_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3487</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>889</xmin>
+            <ymin>595</ymin>
+            <xmax>912</xmax>
+            <ymax>610</ymax>
+        </bndbox>
+    </object>
+</annotation>

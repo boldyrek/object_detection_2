@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-markmotorsporsche-inventory-certified-Porsche-Macan-Turbo-Ottawa-Ontario-2017-Jet-Black-Metallic-7534547-2018-12-12-17_26_15.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>799</xmin>
+            <ymin>472</ymin>
+            <xmax>813</xmax>
+            <ymax>490</ymax>
+        </bndbox>
+    </object>
+</annotation>

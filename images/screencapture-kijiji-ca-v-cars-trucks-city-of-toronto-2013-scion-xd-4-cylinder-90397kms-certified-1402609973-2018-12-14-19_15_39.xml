@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kijiji-ca-v-cars-trucks-city-of-toronto-2013-scion-xd-4-cylinder-90397kms-certified-1402609973-2018-12-14-19_15_39.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4215</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1331</xmin>
+            <ymin>2072</ymin>
+            <xmax>1404</xmax>
+            <ymax>2144</ymax>
+        </bndbox>
+    </object>
+</annotation>

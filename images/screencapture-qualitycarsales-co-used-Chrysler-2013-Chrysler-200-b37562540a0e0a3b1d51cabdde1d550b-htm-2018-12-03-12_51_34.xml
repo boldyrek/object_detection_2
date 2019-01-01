@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-qualitycarsales-co-used-Chrysler-2013-Chrysler-200-b37562540a0e0a3b1d51cabdde1d550b-htm-2018-12-03-12_51_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1867</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>736</ymin>
+            <xmax>926</xmax>
+            <ymax>760</ymax>
+        </bndbox>
+    </object>
+</annotation>

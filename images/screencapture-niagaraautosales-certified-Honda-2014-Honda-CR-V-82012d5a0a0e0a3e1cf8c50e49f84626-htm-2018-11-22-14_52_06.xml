@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-niagaraautosales-certified-Honda-2014-Honda-CR-V-82012d5a0a0e0a3e1cf8c50e49f84626-htm-2018-11-22-14_52_06.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3248</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>755</ymin>
+            <xmax>1103</xmax>
+            <ymax>785</ymax>
+        </bndbox>
+    </object>
+</annotation>

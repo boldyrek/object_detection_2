@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bayviewauto-ca-used-vehicle-2013-volkswagen-jetta-20-tdi-comfortline-id9065137-htm-2018-12-04-11_33_08.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7004</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>912</xmin>
+            <ymin>916</ymin>
+            <xmax>936</xmax>
+            <ymax>940</ymax>
+        </bndbox>
+    </object>
+</annotation>

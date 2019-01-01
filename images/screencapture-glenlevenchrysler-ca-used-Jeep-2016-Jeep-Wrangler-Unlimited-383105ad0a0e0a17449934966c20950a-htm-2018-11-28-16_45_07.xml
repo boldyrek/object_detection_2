@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-glenlevenchrysler-ca-used-Jeep-2016-Jeep-Wrangler-Unlimited-383105ad0a0e0a17449934966c20950a-htm-2018-11-28-16_45_07.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4514</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>799</ymin>
+            <xmax>1105</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

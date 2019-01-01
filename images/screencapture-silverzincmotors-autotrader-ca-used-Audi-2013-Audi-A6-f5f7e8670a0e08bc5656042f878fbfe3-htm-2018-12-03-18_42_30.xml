@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-silverzincmotors-autotrader-ca-used-Audi-2013-Audi-A6-f5f7e8670a0e08bc5656042f878fbfe3-htm-2018-12-03-18_42_30.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1517</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>910</xmin>
+            <ymin>745</ymin>
+            <xmax>919</xmax>
+            <ymax>755</ymax>
+        </bndbox>
+    </object>
+</annotation>

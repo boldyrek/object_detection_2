@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-hyundaiofoakville-used-Subaru-2015-Subaru-Impreza-efd7da2c0a0e0a3a2274b7ffe3295b90-htm-2018-11-22-12_18_13.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2224</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1084</xmin>
+            <ymin>773</ymin>
+            <xmax>1104</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-deejaysautosalesandservices-autotrader-ca-bargain-Chevrolet-2013-Chevrolet-Cruze-c31b5b5d0a0e0a3f4301abf6bdc56dd9-htm-2018-12-03-12_28_59.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3117</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>709</ymin>
+            <xmax>982</xmax>
+            <ymax>742</ymax>
+        </bndbox>
+    </object>
+</annotation>

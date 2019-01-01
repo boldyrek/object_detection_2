@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvillevolkswagen-used-Audi-2013-Audi-A4-allroad-5b1f22ee0a0e0a3a32e2a636a6778d05-htm-2018-12-05-11_48_52.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1987</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>784</ymin>
+            <xmax>977</xmax>
+            <ymax>813</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-Toyota-2015-Toyota-Highlander-cd6e74640a0e0a3d4329a4b6bf9b4def-htm-2018-11-22-12_39_13.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3889</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>749</ymin>
+            <xmax>1103</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>
+</annotation>

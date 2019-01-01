@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-nissanofsarnia-used-Ford-2014-Ford-Mustang-ef9a7b500a0e0a3a2274b7ffb807d381-htm-2018-12-07-12_31_41.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1218</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>720</xmin>
+            <ymin>587</ymin>
+            <xmax>735</xmax>
+            <ymax>601</ymax>
+        </bndbox>
+    </object>
+</annotation>

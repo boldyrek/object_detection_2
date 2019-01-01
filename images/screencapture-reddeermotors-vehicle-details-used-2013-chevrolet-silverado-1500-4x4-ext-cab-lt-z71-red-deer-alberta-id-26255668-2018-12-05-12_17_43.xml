@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-reddeermotors-vehicle-details-used-2013-chevrolet-silverado-1500-4x4-ext-cab-lt-z71-red-deer-alberta-id-26255668-2018-12-05-12_17_43.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2297</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>567</ymin>
+            <xmax>709</xmax>
+            <ymax>612</ymax>
+        </bndbox>
+    </object>
+</annotation>

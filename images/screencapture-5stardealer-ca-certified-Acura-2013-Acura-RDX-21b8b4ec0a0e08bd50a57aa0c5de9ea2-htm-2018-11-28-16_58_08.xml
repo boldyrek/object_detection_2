@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-5stardealer-ca-certified-Acura-2013-Acura-RDX-21b8b4ec0a0e08bd50a57aa0c5de9ea2-htm-2018-11-28-16_58_08.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4615</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>1349</ymin>
+            <xmax>1116</xmax>
+            <ymax>1387</ymax>
+        </bndbox>
+    </object>
+</annotation>

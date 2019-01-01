@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-Volkswagen-2013-Volkswagen-Golf-b408dc620a0e0a3e0d2c064fd6169a1a-htm-2018-12-07-13_58_24.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3724</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>745</ymin>
+            <xmax>985</xmax>
+            <ymax>781</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-durhamkia-used-Ford-2013-Ford-Escape-8a6fed640a0e0a1776af99fecd85c3cf-htm-2018-12-04-10_43_20.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3238</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>647</ymin>
+            <xmax>982</xmax>
+            <ymax>676</ymax>
+        </bndbox>
+    </object>
+</annotation>

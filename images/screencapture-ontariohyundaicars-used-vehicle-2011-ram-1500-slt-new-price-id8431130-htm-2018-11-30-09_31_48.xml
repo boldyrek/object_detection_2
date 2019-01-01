@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariohyundaicars-used-vehicle-2011-ram-1500-slt-new-price-id8431130-htm-2018-11-30-09_31_48.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2509</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>740</ymin>
+            <xmax>931</xmax>
+            <ymax>767</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-dynastyauto-ca-used-Honda-2012-Honda-Odyssey-cb5a17f10a0e08bb47184b8b42b6ce58-htm-2018-11-23-14_57_49.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3933</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1084</xmin>
+            <ymin>788</ymin>
+            <xmax>1103</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

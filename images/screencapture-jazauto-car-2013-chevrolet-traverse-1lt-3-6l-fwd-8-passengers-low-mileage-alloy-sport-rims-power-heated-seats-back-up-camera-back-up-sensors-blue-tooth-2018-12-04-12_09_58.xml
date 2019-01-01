@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-jazauto-car-2013-chevrolet-traverse-1lt-3-6l-fwd-8-passengers-low-mileage-alloy-sport-rims-power-heated-seats-back-up-camera-back-up-sensors-blue-tooth-2018-12-04-12_09_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2638</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1317</xmin>
+            <ymin>535</ymin>
+            <xmax>1336</xmax>
+            <ymax>566</ymax>
+        </bndbox>
+    </object>
+</annotation>

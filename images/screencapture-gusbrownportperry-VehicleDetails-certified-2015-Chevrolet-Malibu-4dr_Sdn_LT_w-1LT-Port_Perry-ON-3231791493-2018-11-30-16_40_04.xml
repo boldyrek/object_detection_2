@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gusbrownportperry-VehicleDetails-certified-2015-Chevrolet-Malibu-4dr_Sdn_LT_w-1LT-Port_Perry-ON-3231791493-2018-11-30-16_40_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3143</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>841</ymin>
+            <xmax>796</xmax>
+            <ymax>867</ymax>
+        </bndbox>
+    </object>
+</annotation>

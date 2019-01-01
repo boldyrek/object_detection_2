@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-havakar-certified-Hyundai-2009-Hyundai-Tucson-c94ce6760a0e08bd068acb870a3b6de7-htm-2018-11-30-17_19_59.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2910</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1085</xmin>
+            <ymin>972</ymin>
+            <xmax>1098</xmax>
+            <ymax>994</ymax>
+        </bndbox>
+    </object>
+</annotation>

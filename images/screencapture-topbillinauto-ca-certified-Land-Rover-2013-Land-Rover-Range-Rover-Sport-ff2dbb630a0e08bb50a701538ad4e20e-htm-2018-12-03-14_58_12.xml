@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-topbillinauto-ca-certified-Land-Rover-2013-Land-Rover-Range-Rover-Sport-ff2dbb630a0e08bb50a701538ad4e20e-htm-2018-12-03-14_58_12.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>6119</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>1097</ymin>
+            <xmax>982</xmax>
+            <ymax>1127</ymax>
+        </bndbox>
+    </object>
+</annotation>

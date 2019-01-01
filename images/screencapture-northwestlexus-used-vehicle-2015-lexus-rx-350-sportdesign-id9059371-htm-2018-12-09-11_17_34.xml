@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-northwestlexus-used-vehicle-2015-lexus-rx-350-sportdesign-id9059371-htm-2018-12-09-11_17_34.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8780</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>564</ymin>
+            <xmax>933</xmax>
+            <ymax>588</ymax>
+        </bndbox>
+    </object>
+</annotation>

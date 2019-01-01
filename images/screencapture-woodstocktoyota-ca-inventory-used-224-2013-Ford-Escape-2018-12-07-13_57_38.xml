@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-woodstocktoyota-ca-inventory-used-224-2013-Ford-Escape-2018-12-07-13_57_38.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2191</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>909</xmin>
+            <ymin>384</ymin>
+            <xmax>923</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>
+</annotation>

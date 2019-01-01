@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-murraychev-ca-used-Chevrolet-2013-Chevrolet-Cruze-229151950a0e0a6b0156e180453ecdf6-htm-2018-12-04-16_30_24.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2383</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>802</ymin>
+            <xmax>978</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>
+</annotation>

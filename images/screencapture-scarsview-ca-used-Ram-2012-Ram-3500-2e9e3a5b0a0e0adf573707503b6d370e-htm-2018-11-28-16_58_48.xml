@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-scarsview-ca-used-Ram-2012-Ram-3500-2e9e3a5b0a0e0adf573707503b6d370e-htm-2018-11-28-16_58_48.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3626</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>819</ymin>
+            <xmax>1105</xmax>
+            <ymax>842</ymax>
+        </bndbox>
+    </object>
+</annotation>

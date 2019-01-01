@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Audi-Q3-Toronto-Ontario-5_41618242_20101022080026966-2018-12-13-15_21_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3366</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>889</xmin>
+            <ymin>616</ymin>
+            <xmax>912</xmax>
+            <ymax>635</ymax>
+        </bndbox>
+    </object>
+</annotation>

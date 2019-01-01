@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-leggatkiaburlington-ca-used-Nissan-2014-Nissan-Rogue-8ee59a4f0a0e0a3b29c8ca720f7ef7b5-htm-2018-12-12-19_29_13.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2996</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>840</xmin>
+            <ymin>813</ymin>
+            <xmax>857</xmax>
+            <ymax>840</ymax>
+        </bndbox>
+    </object>
+</annotation>

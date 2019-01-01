@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-dixietoyota-used-vehicle-2013-mercedes-benz-m-class-base-id9019213-htm-2018-12-04-12_19_29.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>10058</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>895</xmin>
+            <ymin>510</ymin>
+            <xmax>939</xmax>
+            <ymax>555</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-dmgpro-ca-used-vehicle-2011-mercedes-benz-gl-class-base-id9019572-htm-2018-11-30-17_21_01.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>9693</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>894</xmin>
+            <ymin>593</ymin>
+            <xmax>938</xmax>
+            <ymax>637</ymax>
+        </bndbox>
+    </object>
+</annotation>

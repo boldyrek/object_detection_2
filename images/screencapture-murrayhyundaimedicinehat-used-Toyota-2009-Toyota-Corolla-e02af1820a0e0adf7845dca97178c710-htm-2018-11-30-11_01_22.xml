@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-murrayhyundaimedicinehat-used-Toyota-2009-Toyota-Corolla-e02af1820a0e0adf7845dca97178c710-htm-2018-11-30-11_01_22.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2366</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>775</ymin>
+            <xmax>977</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

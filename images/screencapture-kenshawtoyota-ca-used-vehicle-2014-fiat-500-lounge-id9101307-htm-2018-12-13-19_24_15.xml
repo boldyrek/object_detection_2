@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kenshawtoyota-ca-used-vehicle-2014-fiat-500-lounge-id9101307-htm-2018-12-13-19_24_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>7159</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>827</xmin>
+            <ymin>1138</ymin>
+            <xmax>833</xmax>
+            <ymax>1147</ymax>
+        </bndbox>
+    </object>
+</annotation>

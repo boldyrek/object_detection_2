@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mississaugahonda-used-Honda-2009-Honda-Civic-9be389120a0e0ae825211e05abb25f58-htm-2018-12-11-08_15_43.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1792</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>858</xmin>
+            <ymin>784</ymin>
+            <xmax>874</xmax>
+            <ymax>813</ymax>
+        </bndbox>
+    </object>
+</annotation>

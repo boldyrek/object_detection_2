@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-automaxxcalgary-certified-Audi-2013-Audi-A5-59a902480a0e08b911e2f2fcfb82d70b-htm-2018-12-03-18_43_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2681</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>779</ymin>
+            <xmax>987</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kijiji-ca-v-cars-trucks-city-of-toronto-2007-toyota-corolla-ce-clean-carproof-certified-1402613348-2018-12-13-11_26_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4110</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1330</xmin>
+            <ymin>2022</ymin>
+            <xmax>1401</xmax>
+            <ymax>2092</ymax>
+        </bndbox>
+    </object>
+</annotation>

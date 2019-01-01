@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bramptonchryslerdodge-used-Subaru-2013-Subaru-BRZ-3b2aedfc0a0e0adf5737075033c6dea9-htm-2018-12-04-10_21_02.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>6274</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>848</ymin>
+            <xmax>988</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+</annotation>

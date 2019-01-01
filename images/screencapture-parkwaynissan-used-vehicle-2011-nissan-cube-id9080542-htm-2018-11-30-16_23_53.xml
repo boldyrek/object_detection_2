@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-parkwaynissan-used-vehicle-2011-nissan-cube-id9080542-htm-2018-11-30-16_23_53.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3381</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>510</ymin>
+            <xmax>941</xmax>
+            <ymax>555</ymax>
+        </bndbox>
+    </object>
+</annotation>

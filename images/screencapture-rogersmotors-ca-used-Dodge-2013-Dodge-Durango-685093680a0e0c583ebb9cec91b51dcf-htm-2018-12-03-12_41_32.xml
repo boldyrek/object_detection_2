@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-Dodge-2013-Dodge-Durango-685093680a0e0c583ebb9cec91b51dcf-htm-2018-12-03-12_41_32.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3688</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>749</ymin>
+            <xmax>982</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>
+</annotation>

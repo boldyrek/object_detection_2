@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-havakar-certified-Audi-2014-Audi-A6-f2323e930a0e08f721367233db8cd4d1-htm-2018-12-11-09_21_14.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2910</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>765</ymin>
+            <xmax>637</xmax>
+            <ymax>787</ymax>
+        </bndbox>
+    </object>
+</annotation>

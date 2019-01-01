@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-jpmotors-used-vehicle-2009-ford-f-150-xlt-id9073389-htm-2018-11-23-15_04_02.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7737</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1021</xmin>
+            <ymin>532</ymin>
+            <xmax>1063</xmax>
+            <ymax>573</ymax>
+        </bndbox>
+    </object>
+</annotation>

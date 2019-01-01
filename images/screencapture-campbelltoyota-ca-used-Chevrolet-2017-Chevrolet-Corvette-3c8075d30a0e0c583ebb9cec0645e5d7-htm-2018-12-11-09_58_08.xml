@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-campbelltoyota-ca-used-Chevrolet-2017-Chevrolet-Corvette-3c8075d30a0e0c583ebb9cec0645e5d7-htm-2018-12-11-09_58_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3335</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>856</xmin>
+            <ymin>738</ymin>
+            <xmax>882</xmax>
+            <ymax>773</ymax>
+        </bndbox>
+    </object>
+</annotation>

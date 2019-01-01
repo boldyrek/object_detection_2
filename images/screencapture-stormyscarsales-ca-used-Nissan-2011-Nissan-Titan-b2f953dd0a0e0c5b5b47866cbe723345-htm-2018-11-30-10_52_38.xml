@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stormyscarsales-ca-used-Nissan-2011-Nissan-Titan-b2f953dd0a0e0c5b5b47866cbe723345-htm-2018-11-30-10_52_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3399</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>851</ymin>
+            <xmax>983</xmax>
+            <ymax>887</ymax>
+        </bndbox>
+    </object>
+</annotation>

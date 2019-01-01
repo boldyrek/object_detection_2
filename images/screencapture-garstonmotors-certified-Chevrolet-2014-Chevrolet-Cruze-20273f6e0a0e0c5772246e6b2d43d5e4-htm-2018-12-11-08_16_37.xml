@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-garstonmotors-certified-Chevrolet-2014-Chevrolet-Cruze-20273f6e0a0e0c5772246e6b2d43d5e4-htm-2018-12-11-08_16_37.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2951</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>883</xmin>
+            <ymin>777</ymin>
+            <xmax>900</xmax>
+            <ymax>806</ymax>
+        </bndbox>
+    </object>
+</annotation>

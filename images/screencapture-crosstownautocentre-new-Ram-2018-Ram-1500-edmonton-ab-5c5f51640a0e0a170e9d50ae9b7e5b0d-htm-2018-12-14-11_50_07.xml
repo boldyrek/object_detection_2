@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-crosstownautocentre-new-Ram-2018-Ram-1500-edmonton-ab-5c5f51640a0e0a170e9d50ae9b7e5b0d-htm-2018-12-14-11_50_07.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5988</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>902</xmin>
+            <ymin>979</ymin>
+            <xmax>925</xmax>
+            <ymax>1016</ymax>
+        </bndbox>
+    </object>
+</annotation>

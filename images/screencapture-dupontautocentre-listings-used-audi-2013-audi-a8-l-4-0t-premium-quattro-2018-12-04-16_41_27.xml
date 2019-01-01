@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-dupontautocentre-listings-used-audi-2013-audi-a8-l-4-0t-premium-quattro-2018-12-04-16_41_27.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2539</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1005</xmin>
+            <ymin>977</ymin>
+            <xmax>1016</xmax>
+            <ymax>1083</ymax>
+        </bndbox>
+    </object>
+</annotation>

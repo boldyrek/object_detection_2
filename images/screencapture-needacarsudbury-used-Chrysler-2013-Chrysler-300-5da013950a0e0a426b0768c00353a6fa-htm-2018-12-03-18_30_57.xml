@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-needacarsudbury-used-Chrysler-2013-Chrysler-300-5da013950a0e0a426b0768c00353a6fa-htm-2018-12-03-18_30_57.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3307</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>878</ymin>
+            <xmax>983</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

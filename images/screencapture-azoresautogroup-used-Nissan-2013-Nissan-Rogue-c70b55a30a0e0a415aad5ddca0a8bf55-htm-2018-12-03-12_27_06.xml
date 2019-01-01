@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-azoresautogroup-used-Nissan-2013-Nissan-Rogue-c70b55a30a0e0a415aad5ddca0a8bf55-htm-2018-12-03-12_27_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3112</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>787</ymin>
+            <xmax>982</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+</annotation>

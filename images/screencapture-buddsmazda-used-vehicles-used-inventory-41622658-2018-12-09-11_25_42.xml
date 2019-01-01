@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-buddsmazda-used-vehicles-used-inventory-41622658-2018-12-09-11_25_42.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2357</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>749</xmin>
+            <ymin>462</ymin>
+            <xmax>785</xmax>
+            <ymax>499</ymax>
+        </bndbox>
+    </object>
+</annotation>

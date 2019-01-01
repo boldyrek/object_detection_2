@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-417nissan-used-GMC-2013-GMC-Terrain-d13cfdd00a0e08bd0aa4aaa1a126faa5-htm-2018-12-04-11_19_08.jpg</filename>
+    <size>
+        <width>1687</width>
+        <height>4047</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>869</ymin>
+            <xmax>996</xmax>
+            <ymax>914</ymax>
+        </bndbox>
+    </object>
+</annotation>

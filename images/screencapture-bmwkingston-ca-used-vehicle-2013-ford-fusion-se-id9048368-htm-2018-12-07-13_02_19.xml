@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bmwkingston-ca-used-vehicle-2013-ford-fusion-se-id9048368-htm-2018-12-07-13_02_19.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>7419</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>885</xmin>
+            <ymin>672</ymin>
+            <xmax>928</xmax>
+            <ymax>716</ymax>
+        </bndbox>
+    </object>
+</annotation>

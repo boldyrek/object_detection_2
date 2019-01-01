@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-5stardealer-ca-certified-Volkswagen-2011-Volkswagen-Jetta-8d3493b50a0e08bd0aa4aaa10cae7086-htm-2018-12-01-20_27_35.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2873</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>arrow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>928</xmin>
+            <ymin>900</ymin>
+            <xmax>941</xmax>
+            <ymax>923</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gpchrysler-used-Ford-2018-Ford-F-150-245a38d10a0e0ae773a94efa035000f8-htm-2018-12-12-16_31_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908</xmin>
+            <ymin>845</ymin>
+            <xmax>921</xmax>
+            <ymax>867</ymax>
+        </bndbox>
+    </object>
+</annotation>

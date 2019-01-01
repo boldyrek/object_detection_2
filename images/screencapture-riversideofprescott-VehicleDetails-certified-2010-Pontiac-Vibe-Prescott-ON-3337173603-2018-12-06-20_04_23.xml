@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-riversideofprescott-VehicleDetails-certified-2010-Pontiac-Vibe-Prescott-ON-3337173603-2018-12-06-20_04_23.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3370</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>777</xmin>
+            <ymin>832</ymin>
+            <xmax>798</xmax>
+            <ymax>861</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bramgatepreowned-ca-used-Volkswagen-2015-Volkswagen-CC-919652500a0e0ae71ba6c3c2c74cd538-htm-2018-12-13-18_54_19.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3507</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>835</xmin>
+            <ymin>467</ymin>
+            <xmax>878</xmax>
+            <ymax>509</ymax>
+        </bndbox>
+    </object>
+</annotation>

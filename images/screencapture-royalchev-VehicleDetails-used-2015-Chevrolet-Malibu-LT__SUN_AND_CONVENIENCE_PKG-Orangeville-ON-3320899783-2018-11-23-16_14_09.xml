@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-royalchev-VehicleDetails-used-2015-Chevrolet-Malibu-LT__SUN_AND_CONVENIENCE_PKG-Orangeville-ON-3320899783-2018-11-23-16_14_09.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>520</xmin>
+            <ymin>1019</ymin>
+            <xmax>528</xmax>
+            <ymax>1032</ymax>
+        </bndbox>
+    </object>
+</annotation>

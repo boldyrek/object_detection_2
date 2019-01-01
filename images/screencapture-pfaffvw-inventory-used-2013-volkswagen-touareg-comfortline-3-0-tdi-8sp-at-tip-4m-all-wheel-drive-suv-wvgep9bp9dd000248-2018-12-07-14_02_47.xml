@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffvw-inventory-used-2013-volkswagen-touareg-comfortline-3-0-tdi-8sp-at-tip-4m-all-wheel-drive-suv-wvgep9bp9dd000248-2018-12-07-14_02_47.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1049</xmin>
+            <ymin>929</ymin>
+            <xmax>1060</xmax>
+            <ymax>946</ymax>
+        </bndbox>
+    </object>
+</annotation>

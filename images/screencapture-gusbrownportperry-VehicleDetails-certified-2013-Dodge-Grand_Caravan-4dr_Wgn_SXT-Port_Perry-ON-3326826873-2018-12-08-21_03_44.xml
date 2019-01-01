@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gusbrownportperry-VehicleDetails-certified-2013-Dodge-Grand_Caravan-4dr_Wgn_SXT-Port_Perry-ON-3326826873-2018-12-08-21_03_44.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>841</ymin>
+            <xmax>797</xmax>
+            <ymax>867</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gusbrownportperry-VehicleDetails-certified-2013-Mercedes_Benz-C_Class-C_350_4MATIC_Coupe-Port_Perry-ON-3332459003-2018-12-03-12_40_53.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>841</ymin>
+            <xmax>795</xmax>
+            <ymax>867</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-claringtonnissan-used-Dodge-2014-Dodge-Grand-Caravan-2aa851cd0a0e0ae7223fbc20ead947de-htm-2018-12-11-09_59_10.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2028</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>859</xmin>
+            <ymin>738</ymin>
+            <xmax>879</xmax>
+            <ymax>770</ymax>
+        </bndbox>
+    </object>
+</annotation>

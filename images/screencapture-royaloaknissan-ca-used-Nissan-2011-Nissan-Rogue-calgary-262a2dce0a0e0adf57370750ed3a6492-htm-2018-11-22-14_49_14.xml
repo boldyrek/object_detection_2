@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-royaloaknissan-ca-used-Nissan-2011-Nissan-Rogue-calgary-262a2dce0a0e0adf57370750ed3a6492-htm-2018-11-22-14_49_14.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2415</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>865</ymin>
+            <xmax>1103</xmax>
+            <ymax>894</ymax>
+        </bndbox>
+    </object>
+</annotation>

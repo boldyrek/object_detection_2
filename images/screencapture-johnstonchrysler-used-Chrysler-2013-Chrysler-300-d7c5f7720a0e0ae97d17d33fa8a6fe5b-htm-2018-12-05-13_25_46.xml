@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-johnstonchrysler-used-Chrysler-2013-Chrysler-300-d7c5f7720a0e0ae97d17d33fa8a6fe5b-htm-2018-12-05-13_25_46.jpg</filename>
+    <size>
+        <width>1897</width>
+        <height>4950</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>830</ymin>
+            <xmax>984</xmax>
+            <ymax>853</ymax>
+        </bndbox>
+    </object>
+</annotation>

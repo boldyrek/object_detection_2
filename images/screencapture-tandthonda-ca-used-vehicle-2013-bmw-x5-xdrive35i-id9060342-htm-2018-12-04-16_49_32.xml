@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-tandthonda-ca-used-vehicle-2013-bmw-x5-xdrive35i-id9060342-htm-2018-12-04-16_49_32.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>9079</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>914</xmin>
+            <ymin>596</ymin>
+            <xmax>931</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>
+</annotation>

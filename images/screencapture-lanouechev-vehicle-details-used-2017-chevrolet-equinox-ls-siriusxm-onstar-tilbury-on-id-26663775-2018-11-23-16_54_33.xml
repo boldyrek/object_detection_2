@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lanouechev-vehicle-details-used-2017-chevrolet-equinox-ls-siriusxm-onstar-tilbury-on-id-26663775-2018-11-23-16_54_33.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1043</xmin>
+            <ymin>892</ymin>
+            <xmax>1061</xmax>
+            <ymax>916</ymax>
+        </bndbox>
+    </object>
+</annotation>

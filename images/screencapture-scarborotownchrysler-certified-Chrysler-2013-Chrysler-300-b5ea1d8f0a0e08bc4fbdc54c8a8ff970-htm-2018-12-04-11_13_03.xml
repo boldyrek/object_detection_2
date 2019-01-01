@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-scarborotownchrysler-certified-Chrysler-2013-Chrysler-300-b5ea1d8f0a0e08bc4fbdc54c8a8ff970-htm-2018-12-04-11_13_03.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4723</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>743</ymin>
+            <xmax>984</xmax>
+            <ymax>766</ymax>
+        </bndbox>
+    </object>
+</annotation>

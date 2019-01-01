@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-audioakville-certified-Audi-2014-Audi-A6-b7d5e7750a0e0a3f619861c67345b840-htm-2018-12-08-19_43_58.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2380</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>793</ymin>
+            <xmax>978</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

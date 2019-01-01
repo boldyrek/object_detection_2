@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-thrashersalesandleasing-used-Mercedes-Benz-2003-Mercedes-Benz-E-Class-fa4794ef0a0e08bc56a43089794fa43c-htm-2018-12-01-18_25_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3655</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>801</ymin>
+            <xmax>983</xmax>
+            <ymax>832</ymax>
+        </bndbox>
+    </object>
+</annotation>

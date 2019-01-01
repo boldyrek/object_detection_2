@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-murrayhyundaimedicinehat-used-Hyundai-2017-Hyundai-Santa-Fe-Sport-8f5eb3ce0a0e0a6b0dfefdb8804ca1a9-htm-2018-12-14-12_28_59.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2682</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>858</xmin>
+            <ymin>774</ymin>
+            <xmax>876</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

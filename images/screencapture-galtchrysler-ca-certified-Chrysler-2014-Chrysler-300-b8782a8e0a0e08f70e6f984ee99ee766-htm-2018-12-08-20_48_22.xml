@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-galtchrysler-ca-certified-Chrysler-2014-Chrysler-300-b8782a8e0a0e08f70e6f984ee99ee766-htm-2018-12-08-20_48_22.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4727</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>972</xmin>
+            <ymin>802</ymin>
+            <xmax>985</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

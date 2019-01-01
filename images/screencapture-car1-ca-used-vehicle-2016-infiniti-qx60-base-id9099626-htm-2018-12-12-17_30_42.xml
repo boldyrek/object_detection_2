@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-car1-ca-used-vehicle-2016-infiniti-qx60-base-id9099626-htm-2018-12-12-17_30_42.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4530</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>826</xmin>
+            <ymin>960</ymin>
+            <xmax>835</xmax>
+            <ymax>969</ymax>
+        </bndbox>
+    </object>
+</annotation>

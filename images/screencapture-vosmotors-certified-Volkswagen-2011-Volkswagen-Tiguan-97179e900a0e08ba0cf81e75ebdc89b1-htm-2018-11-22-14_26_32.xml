@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-vosmotors-certified-Volkswagen-2011-Volkswagen-Tiguan-97179e900a0e08ba0cf81e75ebdc89b1-htm-2018-11-22-14_26_32.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3859</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1117</xmin>
+            <ymin>1141</ymin>
+            <xmax>1165</xmax>
+            <ymax>1274</ymax>
+        </bndbox>
+    </object>
+</annotation>

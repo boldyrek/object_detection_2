@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-toyotaonfront-certified-Toyota-2014-Toyota-Corolla-224e4b3a0a0e08be0dc69aef5ff2dc4e-htm-2018-12-11-09_23_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4246</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>1022</ymin>
+            <xmax>880</xmax>
+            <ymax>1054</ymax>
+        </bndbox>
+    </object>
+</annotation>

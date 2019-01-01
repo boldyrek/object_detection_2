@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoramasuperstore-ca-certified-LEXUS-2013-LEXUS-RX-350-Toronto-ON-c63f63730a0e08b97b37551a4b37d9e8-htm-2018-12-01-06_52_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3513</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>800</ymin>
+            <xmax>982</xmax>
+            <ymax>829</ymax>
+        </bndbox>
+    </object>
+</annotation>

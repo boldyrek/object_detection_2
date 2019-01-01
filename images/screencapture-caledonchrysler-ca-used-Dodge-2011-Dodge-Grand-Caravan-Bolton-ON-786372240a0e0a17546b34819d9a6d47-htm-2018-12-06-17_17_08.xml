@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-caledonchrysler-ca-used-Dodge-2011-Dodge-Grand-Caravan-Bolton-ON-786372240a0e0a17546b34819d9a6d47-htm-2018-12-06-17_17_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4069</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>915</ymin>
+            <xmax>985</xmax>
+            <ymax>939</ymax>
+        </bndbox>
+    </object>
+</annotation>

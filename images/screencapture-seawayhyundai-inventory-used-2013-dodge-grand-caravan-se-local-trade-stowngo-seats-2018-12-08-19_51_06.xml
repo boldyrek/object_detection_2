@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-seawayhyundai-inventory-used-2013-dodge-grand-caravan-se-local-trade-stowngo-seats-2018-12-08-19_51_06.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5579</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>897</xmin>
+            <ymin>919</ymin>
+            <xmax>912</xmax>
+            <ymax>941</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-palladinohonda-inventory-used-2015-nissan-murano-back-up-camera-navigation-heated-seats-awd-sport-utility-5n1az2mh2fn235352-2018-12-12-19_09_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3126</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>945</xmin>
+            <ymin>930</ymin>
+            <xmax>956</xmax>
+            <ymax>947</ymax>
+        </bndbox>
+    </object>
+</annotation>

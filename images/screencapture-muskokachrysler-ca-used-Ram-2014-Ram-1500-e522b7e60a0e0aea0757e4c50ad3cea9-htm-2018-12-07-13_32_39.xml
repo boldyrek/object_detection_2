@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-muskokachrysler-ca-used-Ram-2014-Ram-1500-e522b7e60a0e0aea0757e4c50ad3cea9-htm-2018-12-07-13_32_39.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3942</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>873</ymin>
+            <xmax>986</xmax>
+            <ymax>899</ymax>
+        </bndbox>
+    </object>
+</annotation>

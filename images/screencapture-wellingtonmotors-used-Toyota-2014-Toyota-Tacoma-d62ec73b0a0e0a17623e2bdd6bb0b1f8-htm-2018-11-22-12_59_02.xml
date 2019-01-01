@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wellingtonmotors-used-Toyota-2014-Toyota-Tacoma-d62ec73b0a0e0a17623e2bdd6bb0b1f8-htm-2018-11-22-12_59_02.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5431</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1128</xmin>
+            <ymin>871</ymin>
+            <xmax>1148</xmax>
+            <ymax>905</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-strathmoreford-certified-Chevrolet-2016-Chevrolet-Equinox-835d8a130a0e0ae77fabdd203b86f54b-htm-2018-12-14-12_30_48.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3657</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>791</ymin>
+            <xmax>883</xmax>
+            <ymax>820</ymax>
+        </bndbox>
+    </object>
+</annotation>

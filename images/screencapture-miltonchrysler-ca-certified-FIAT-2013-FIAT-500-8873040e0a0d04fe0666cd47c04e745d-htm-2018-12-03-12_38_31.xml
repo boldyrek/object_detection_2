@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-miltonchrysler-ca-certified-FIAT-2013-FIAT-500-8873040e0a0d04fe0666cd47c04e745d-htm-2018-12-03-12_38_31.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4961</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>1015</ymin>
+            <xmax>984</xmax>
+            <ymax>1040</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-needacaroshawa-org-used-Toyota-2010-Toyota-Tundra-8b1fe7da0a0e0a38228d689330743ebc-htm-2018-12-01-19_16_24.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3598</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>693</ymin>
+            <xmax>982</xmax>
+            <ymax>722</ymax>
+        </bndbox>
+    </object>
+</annotation>

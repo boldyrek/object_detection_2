@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mitsubishimotorcity-used-Mitsubishi-2011-Mitsubishi-Eclipse-091d861d0a0e0a3a6114c994e22b3cc5-htm-2018-12-02-08_21_15.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2015</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>681</ymin>
+            <xmax>739</xmax>
+            <ymax>705</ymax>
+        </bndbox>
+    </object>
+</annotation>

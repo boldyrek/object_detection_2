@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-tiptopauto-ca-inventory-2010-cadillac-srx-30-performance-3GYFNEEY6AS521137-2018-12-06-09_59_02.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2467</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1326</xmin>
+            <ymin>650</ymin>
+            <xmax>1391</xmax>
+            <ymax>713</ymax>
+        </bndbox>
+    </object>
+</annotation>

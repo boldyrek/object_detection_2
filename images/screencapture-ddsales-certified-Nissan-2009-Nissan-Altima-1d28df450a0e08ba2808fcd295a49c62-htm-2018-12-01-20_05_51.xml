@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-ddsales-certified-Nissan-2009-Nissan-Altima-1d28df450a0e08ba2808fcd295a49c62-htm-2018-12-01-20_05_51.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2397</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>722</xmin>
+            <ymin>716</ymin>
+            <xmax>733</xmax>
+            <ymax>739</ymax>
+        </bndbox>
+    </object>
+</annotation>

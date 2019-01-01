@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-apollopreowned-ca-vehicle-stk8346-2016-chevrolet-silverado-1500-5-3l-vortec-4x4-z71-pkg-camera-2018-12-13-15_26_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>619</ymin>
+            <xmax>737</xmax>
+            <ymax>631</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-troystoys-net-certified-Dodge-2013-Dodge-Dart-c0607ec80a0e0a3c629b11bc375f5611-htm-2018-12-05-12_30_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2771</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>843</ymin>
+            <xmax>982</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

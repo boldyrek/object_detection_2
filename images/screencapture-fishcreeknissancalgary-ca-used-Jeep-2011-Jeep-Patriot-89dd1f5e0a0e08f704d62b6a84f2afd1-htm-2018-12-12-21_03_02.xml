@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-fishcreeknissancalgary-ca-used-Jeep-2011-Jeep-Patriot-89dd1f5e0a0e08f704d62b6a84f2afd1-htm-2018-12-12-21_03_02.jpg</filename>
+    <size>
+        <width>1482</width>
+        <height>3997</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>874</ymin>
+            <xmax>887</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

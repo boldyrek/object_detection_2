@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-heuvelmanschev-ca-VehicleDetails-certified-2014-Buick-Enclave-Premium-Chatham-ON-3214581403-2018-12-12-17_06_40.jpg</filename>
+    <size>
+        <width>1473</width>
+        <height>3815</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>569</xmin>
+            <ymin>829</ymin>
+            <xmax>585</xmax>
+            <ymax>855</ymax>
+        </bndbox>
+    </object>
+</annotation>

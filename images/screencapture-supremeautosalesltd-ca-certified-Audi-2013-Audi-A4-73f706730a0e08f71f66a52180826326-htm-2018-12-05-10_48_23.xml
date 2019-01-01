@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-supremeautosalesltd-ca-certified-Audi-2013-Audi-A4-73f706730a0e08f71f66a52180826326-htm-2018-12-05-10_48_23.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3974</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>737</ymin>
+            <xmax>983</xmax>
+            <ymax>771</ymax>
+        </bndbox>
+    </object>
+</annotation>

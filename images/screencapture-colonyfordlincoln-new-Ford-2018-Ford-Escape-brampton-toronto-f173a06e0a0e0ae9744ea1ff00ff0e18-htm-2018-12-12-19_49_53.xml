@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-colonyfordlincoln-new-Ford-2018-Ford-Escape-brampton-toronto-f173a06e0a0e0ae9744ea1ff00ff0e18-htm-2018-12-12-19_49_53.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3623</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>865</xmin>
+            <ymin>773</ymin>
+            <xmax>881</xmax>
+            <ymax>801</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ineedavan-ca-certified-Ram-2014-Ram-ProMaster-1500-7520bd000a0e08bc0fb4d9573d49618d-htm-2018-12-09-10_08_38.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1965</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>741</ymin>
+            <xmax>975</xmax>
+            <ymax>764</ymax>
+        </bndbox>
+    </object>
+</annotation>

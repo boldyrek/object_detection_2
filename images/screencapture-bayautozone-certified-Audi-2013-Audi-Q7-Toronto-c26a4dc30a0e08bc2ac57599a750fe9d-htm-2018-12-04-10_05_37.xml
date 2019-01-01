@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bayautozone-certified-Audi-2013-Audi-Q7-Toronto-c26a4dc30a0e08bc2ac57599a750fe9d-htm-2018-12-04-10_05_37.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4703</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>828</ymin>
+            <xmax>983</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

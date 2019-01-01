@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bellevilledodgechrysler-used-Jeep-2017-Jeep-Grand-Cherokee-7ca51e740a0e0adf5cfe145834b0ee95-htm-2018-12-12-17_56_50.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4285</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>826</ymin>
+            <xmax>882</xmax>
+            <ymax>849</ymax>
+        </bndbox>
+    </object>
+</annotation>

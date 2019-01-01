@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lexusofrichmondhill-certified-Lexus-2016-Lexus-RX-350-8b1dd5a80a0e0c5a7a00069c0e88b43b-htm-2018-12-12-17_51_57.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2359</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>861</xmin>
+            <ymin>797</ymin>
+            <xmax>880</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

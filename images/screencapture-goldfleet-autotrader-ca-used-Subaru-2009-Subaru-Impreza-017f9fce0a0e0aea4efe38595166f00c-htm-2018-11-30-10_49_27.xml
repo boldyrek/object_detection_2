@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-goldfleet-autotrader-ca-used-Subaru-2009-Subaru-Impreza-017f9fce0a0e0aea4efe38595166f00c-htm-2018-11-30-10_49_27.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3194</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>737</ymin>
+            <xmax>983</xmax>
+            <ymax>772</ymax>
+        </bndbox>
+    </object>
+</annotation>

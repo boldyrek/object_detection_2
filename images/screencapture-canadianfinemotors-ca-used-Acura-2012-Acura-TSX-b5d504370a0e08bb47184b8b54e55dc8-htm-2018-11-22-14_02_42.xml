@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-canadianfinemotors-ca-used-Acura-2012-Acura-TSX-b5d504370a0e08bb47184b8b54e55dc8-htm-2018-11-22-14_02_42.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2132</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1081</xmin>
+            <ymin>819</ymin>
+            <xmax>1105</xmax>
+            <ymax>855</ymax>
+        </bndbox>
+    </object>
+</annotation>

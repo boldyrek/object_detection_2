@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kijiji-ca-v-cars-trucks-peterborough-selling-2004-mazda3-hatchback-blue-as-is-1403873100-2018-12-14-12_39_21.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3735</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1328</xmin>
+            <ymin>1832</ymin>
+            <xmax>1404</xmax>
+            <ymax>1907</ymax>
+        </bndbox>
+    </object>
+</annotation>

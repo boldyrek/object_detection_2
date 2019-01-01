@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wallacechev-used-vehicle-2010-land-rover-range-rover-superchargedhtd-lthr-seatssunrfhtd-whlnav-id8966521-htm-2018-12-01-20_15_21.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1804</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908</xmin>
+            <ymin>596</ymin>
+            <xmax>926</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>
+</annotation>

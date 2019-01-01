@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-courtesymitsubishicalgary-used-Nissan-2011-Nissan-Rogue-cbd2af210a0e08b97b37551a84b1ca72-htm-2018-12-01-20_05_14.jpg</filename>
+    <size>
+        <width>1687</width>
+        <height>4312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>904</ymin>
+            <xmax>992</xmax>
+            <ymax>941</ymax>
+        </bndbox>
+    </object>
+</annotation>

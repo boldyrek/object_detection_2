@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-donnellyford-used-vehicle-2011-cadillac-srx-id9088062-htm-2018-12-06-08_46_52.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2660</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>553</ymin>
+            <xmax>941</xmax>
+            <ymax>594</ymax>
+        </bndbox>
+    </object>
+</annotation>

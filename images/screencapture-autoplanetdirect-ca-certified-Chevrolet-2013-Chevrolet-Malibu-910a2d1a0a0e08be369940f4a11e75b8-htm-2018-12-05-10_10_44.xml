@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autoplanetdirect-ca-certified-Chevrolet-2013-Chevrolet-Malibu-910a2d1a0a0e08be369940f4a11e75b8-htm-2018-12-05-10_10_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2695</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>934</ymin>
+            <xmax>974</xmax>
+            <ymax>955</ymax>
+        </bndbox>
+    </object>
+</annotation>

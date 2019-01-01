@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvilletoyota-ca-inventory-used-2011-volkswagen-golf-tdi-highline-with-satellite-radio-self-certify-fwd-hatchback-wvwdm9aj1bw152595-2018-11-30-19_59_32.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4618</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1047</xmin>
+            <ymin>930</ymin>
+            <xmax>1058</xmax>
+            <ymax>947</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bayviewauto-ca-used-vehicle-2017-subaru-impreza-touring-id9033898-htm-2018-12-13-11_06_46.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>6950</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>819</xmin>
+            <ymin>924</ymin>
+            <xmax>826</xmax>
+            <ymax>934</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autosearchers-ca-inventory-2014-ford-fusion-2927644-2018-12-09-11_25_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3544</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>535</ymin>
+            <xmax>633</xmax>
+            <ymax>578</ymax>
+        </bndbox>
+    </object>
+</annotation>

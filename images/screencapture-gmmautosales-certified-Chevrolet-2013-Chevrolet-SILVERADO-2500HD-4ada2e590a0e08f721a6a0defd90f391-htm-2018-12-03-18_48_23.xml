@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gmmautosales-certified-Chevrolet-2013-Chevrolet-SILVERADO-2500HD-4ada2e590a0e08f721a6a0defd90f391-htm-2018-12-03-18_48_23.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2272</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>544</ymin>
+            <xmax>739</xmax>
+            <ymax>566</ymax>
+        </bndbox>
+    </object>
+</annotation>

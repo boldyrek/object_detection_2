@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-certified-Acura-2012-Acura-MDX-da2b6e8e0a0e0a3d77a412b9e00e4cf6-htm-2018-12-12-20_03_24.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3134</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>884</xmin>
+            <ymin>777</ymin>
+            <xmax>899</xmax>
+            <ymax>806</ymax>
+        </bndbox>
+    </object>
+</annotation>

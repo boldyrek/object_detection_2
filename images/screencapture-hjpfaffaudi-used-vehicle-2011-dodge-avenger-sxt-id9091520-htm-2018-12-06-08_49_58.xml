@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-hjpfaffaudi-used-vehicle-2011-dodge-avenger-sxt-id9091520-htm-2018-12-06-08_49_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2405</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>760</ymin>
+            <xmax>942</xmax>
+            <ymax>806</ymax>
+        </bndbox>
+    </object>
+</annotation>

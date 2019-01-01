@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-canmorecamclarkford-used-Volkswagen-2012-Volkswagen-Jetta-75e47aea0a0e08bb0f93130bdcf12f1a-htm-2018-12-07-12_56_13.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>849</ymin>
+            <xmax>986</xmax>
+            <ymax>875</ymax>
+        </bndbox>
+    </object>
+</annotation>

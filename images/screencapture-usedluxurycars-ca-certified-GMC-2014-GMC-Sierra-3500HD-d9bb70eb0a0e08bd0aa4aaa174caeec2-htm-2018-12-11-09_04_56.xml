@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-usedluxurycars-ca-certified-GMC-2014-GMC-Sierra-3500HD-d9bb70eb0a0e08bd0aa4aaa174caeec2-htm-2018-12-11-09_04_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3193</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>907</ymin>
+            <xmax>881</xmax>
+            <ymax>939</ymax>
+        </bndbox>
+    </object>
+</annotation>

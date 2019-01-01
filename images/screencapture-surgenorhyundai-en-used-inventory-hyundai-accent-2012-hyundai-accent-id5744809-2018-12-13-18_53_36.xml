@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-surgenorhyundai-en-used-inventory-hyundai-accent-2012-hyundai-accent-id5744809-2018-12-13-18_53_36.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5079</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1143</xmin>
+            <ymin>913</ymin>
+            <xmax>1207</xmax>
+            <ymax>968</ymax>
+        </bndbox>
+    </object>
+</annotation>

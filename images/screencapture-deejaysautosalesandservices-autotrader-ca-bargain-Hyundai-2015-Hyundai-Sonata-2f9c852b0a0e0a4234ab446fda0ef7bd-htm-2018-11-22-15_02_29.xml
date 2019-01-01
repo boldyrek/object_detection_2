@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-deejaysautosalesandservices-autotrader-ca-bargain-Hyundai-2015-Hyundai-Sonata-2f9c852b0a0e0a4234ab446fda0ef7bd-htm-2018-11-22-15_02_29.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>706</ymin>
+            <xmax>1108</xmax>
+            <ymax>744</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-downtownhyundai-used-Hyundai-2014-Hyundai-Elantra-GT-309fae6c0a0e0a6b3e6461cc0164b22f-htm-2018-12-07-19_36_07.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2639</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>911</ymin>
+            <xmax>993</xmax>
+            <ymax>949</ymax>
+        </bndbox>
+    </object>
+</annotation>

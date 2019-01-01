@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-camclarkford-used-Jeep-2008-Jeep-Patriot-932b44b50a0e08bb608fed8589e8f5fd-htm-2018-11-23-16_41_22.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3073</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1086</xmin>
+            <ymin>775</ymin>
+            <xmax>1102</xmax>
+            <ymax>802</ymax>
+        </bndbox>
+    </object>
+</annotation>

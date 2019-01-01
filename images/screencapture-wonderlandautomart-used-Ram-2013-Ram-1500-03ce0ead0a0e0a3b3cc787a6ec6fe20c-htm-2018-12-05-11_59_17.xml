@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wonderlandautomart-used-Ram-2013-Ram-1500-03ce0ead0a0e0a3b3cc787a6ec6fe20c-htm-2018-12-05-11_59_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2904</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>742</ymin>
+            <xmax>983</xmax>
+            <ymax>777</ymax>
+        </bndbox>
+    </object>
+</annotation>

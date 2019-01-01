@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvilleusedcarsuperstore-ca-certified-Ford-2014-Ford-Escape-08fd58120a0e08b93210bf3455d1ad35-htm-2018-11-28-16_48_09.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3411</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>799</ymin>
+            <xmax>1103</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

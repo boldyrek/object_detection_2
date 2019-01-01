@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-burlingtontoyota-ca-used-vehicle-2013-nissan-rogue-id9079207-htm-2018-12-05-10_34_35.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2724</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>580</ymin>
+            <xmax>941</xmax>
+            <ymax>621</ymax>
+        </bndbox>
+    </object>
+</annotation>

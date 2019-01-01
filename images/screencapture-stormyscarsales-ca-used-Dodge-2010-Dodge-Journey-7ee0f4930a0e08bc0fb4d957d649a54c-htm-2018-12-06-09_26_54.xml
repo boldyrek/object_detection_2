@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stormyscarsales-ca-used-Dodge-2010-Dodge-Journey-7ee0f4930a0e08bc0fb4d957d649a54c-htm-2018-12-06-09_26_54.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3381</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>851</ymin>
+            <xmax>985</xmax>
+            <ymax>886</ymax>
+        </bndbox>
+    </object>
+</annotation>

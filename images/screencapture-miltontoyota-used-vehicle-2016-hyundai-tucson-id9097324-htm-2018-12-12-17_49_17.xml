@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-miltontoyota-used-vehicle-2016-hyundai-tucson-id9097324-htm-2018-12-12-17_49_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3253</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>809</xmin>
+            <ymin>756</ymin>
+            <xmax>829</xmax>
+            <ymax>782</ymax>
+        </bndbox>
+    </object>
+</annotation>

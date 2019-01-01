@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carsinlobo-ca-inventory-2004-toyota-corolla-3102320-2018-11-28-17_06_17.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>699</xmin>
+            <ymin>573</ymin>
+            <xmax>750</xmax>
+            <ymax>625</ymax>
+        </bndbox>
+    </object>
+</annotation>

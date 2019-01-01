@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-infinitiofwillowdale-bargain-Volkswagen-2013-Volkswagen-Passat-634d453b0a0e08b9234fccd92ff791b4-htm-2018-12-03-19_16_05.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3611</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>790</ymin>
+            <xmax>982</xmax>
+            <ymax>820</ymax>
+        </bndbox>
+    </object>
+</annotation>

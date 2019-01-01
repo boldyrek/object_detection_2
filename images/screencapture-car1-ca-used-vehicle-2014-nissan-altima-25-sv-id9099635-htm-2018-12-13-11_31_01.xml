@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-car1-ca-used-vehicle-2014-nissan-altima-25-sv-id9099635-htm-2018-12-13-11_31_01.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4460</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>796</xmin>
+            <ymin>557</ymin>
+            <xmax>840</xmax>
+            <ymax>599</ymax>
+        </bndbox>
+    </object>
+</annotation>

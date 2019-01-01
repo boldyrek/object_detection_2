@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-denhamford-ca-used-Ford-2013-Ford-F-150-wetaskiwin-be1295550a0e0ae706e7ffb72ecfb5f5-htm-2018-12-03-12_12_36.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3340</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>992</xmin>
+            <ymin>716</ymin>
+            <xmax>1005</xmax>
+            <ymax>740</ymax>
+        </bndbox>
+    </object>
+</annotation>

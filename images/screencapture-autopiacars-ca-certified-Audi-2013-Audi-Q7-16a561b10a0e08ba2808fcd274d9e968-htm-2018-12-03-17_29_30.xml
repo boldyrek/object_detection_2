@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopiacars-ca-certified-Audi-2013-Audi-Q7-16a561b10a0e08ba2808fcd274d9e968-htm-2018-12-03-17_29_30.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3948</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>743</ymin>
+            <xmax>982</xmax>
+            <ymax>772</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-worldfinecars-ca-used-vehicle-2011-porsche-911-carrera-4-id9091043-htm-2018-12-06-08_44_14.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>6924</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>561</ymin>
+            <xmax>931</xmax>
+            <ymax>586</ymax>
+        </bndbox>
+    </object>
+</annotation>

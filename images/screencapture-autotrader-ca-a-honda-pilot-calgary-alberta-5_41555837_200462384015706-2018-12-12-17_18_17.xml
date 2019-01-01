@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-honda-pilot-calgary-alberta-5_41555837_200462384015706-2018-12-12-17_18_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>585</ymin>
+            <xmax>911</xmax>
+            <ymax>599</ymax>
+        </bndbox>
+    </object>
+</annotation>

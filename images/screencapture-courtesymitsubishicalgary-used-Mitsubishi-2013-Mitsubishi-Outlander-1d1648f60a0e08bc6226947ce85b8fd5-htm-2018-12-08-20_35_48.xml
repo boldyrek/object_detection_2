@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-courtesymitsubishicalgary-used-Mitsubishi-2013-Mitsubishi-Outlander-1d1648f60a0e08bc6226947ce85b8fd5-htm-2018-12-08-20_35_48.jpg</filename>
+    <size>
+        <width>1690</width>
+        <height>4581</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>972</xmin>
+            <ymin>905</ymin>
+            <xmax>990</xmax>
+            <ymax>941</ymax>
+        </bndbox>
+    </object>
+</annotation>

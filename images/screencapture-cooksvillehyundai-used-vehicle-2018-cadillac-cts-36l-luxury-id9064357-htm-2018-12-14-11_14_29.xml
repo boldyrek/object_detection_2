@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2018-cadillac-cts-36l-luxury-id9064357-htm-2018-12-14-11_14_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2779</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>968</ymin>
+            <xmax>834</xmax>
+            <ymax>977</ymax>
+        </bndbox>
+    </object>
+</annotation>

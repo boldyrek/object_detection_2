@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-certified-Chevrolet-2013-Chevrolet-Equinox-76e7c22e0a0e0a3f269c93a96b60bb0a-htm-2018-12-11-08_10_36.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3025</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>884</xmin>
+            <ymin>776</ymin>
+            <xmax>899</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

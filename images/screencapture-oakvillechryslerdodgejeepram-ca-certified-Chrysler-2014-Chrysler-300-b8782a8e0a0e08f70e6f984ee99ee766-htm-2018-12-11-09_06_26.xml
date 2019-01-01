@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvillechryslerdodgejeepram-ca-certified-Chrysler-2014-Chrysler-300-b8782a8e0a0e08f70e6f984ee99ee766-htm-2018-12-11-09_06_26.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>856</ymin>
+            <xmax>882</xmax>
+            <ymax>881</ymax>
+        </bndbox>
+    </object>
+</annotation>

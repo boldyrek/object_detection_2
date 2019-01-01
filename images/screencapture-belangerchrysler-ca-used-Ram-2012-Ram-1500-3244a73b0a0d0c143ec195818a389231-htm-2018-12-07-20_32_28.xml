@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-belangerchrysler-ca-used-Ram-2012-Ram-1500-3244a73b0a0d0c143ec195818a389231-htm-2018-12-07-20_32_28.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3867</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>972</xmin>
+            <ymin>942</ymin>
+            <xmax>985</xmax>
+            <ymax>965</ymax>
+        </bndbox>
+    </object>
+</annotation>

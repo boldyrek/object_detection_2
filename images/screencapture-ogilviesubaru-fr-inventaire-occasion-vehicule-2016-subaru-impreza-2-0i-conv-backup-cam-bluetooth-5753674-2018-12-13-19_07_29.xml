@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ogilviesubaru-fr-inventaire-occasion-vehicule-2016-subaru-impreza-2-0i-conv-backup-cam-bluetooth-5753674-2018-12-13-19_07_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3154</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>757</xmin>
+            <ymin>651</ymin>
+            <xmax>773</xmax>
+            <ymax>671</ymax>
+        </bndbox>
+    </object>
+</annotation>

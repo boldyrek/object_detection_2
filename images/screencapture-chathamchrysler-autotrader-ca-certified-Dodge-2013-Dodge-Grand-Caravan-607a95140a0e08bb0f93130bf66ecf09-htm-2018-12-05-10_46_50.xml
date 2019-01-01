@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-chathamchrysler-autotrader-ca-certified-Dodge-2013-Dodge-Grand-Caravan-607a95140a0e08bb0f93130bf66ecf09-htm-2018-12-05-10_46_50.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2554</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>956</xmin>
+            <ymin>802</ymin>
+            <xmax>974</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

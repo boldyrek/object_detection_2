@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-kiaofstcatharines-certified-Kia-2014-Kia-Sorento-bf7d98a80a0e08f71839c2968552e54e-htm-2018-11-22-13_16_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4343</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>761</ymin>
+            <xmax>1104</xmax>
+            <ymax>790</ymax>
+        </bndbox>
+    </object>
+</annotation>

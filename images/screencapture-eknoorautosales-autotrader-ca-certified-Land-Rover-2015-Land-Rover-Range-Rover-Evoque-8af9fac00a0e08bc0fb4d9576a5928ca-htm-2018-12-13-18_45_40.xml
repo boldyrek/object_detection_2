@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-eknoorautosales-autotrader-ca-certified-Land-Rover-2015-Land-Rover-Range-Rover-Evoque-8af9fac00a0e08bc0fb4d9576a5928ca-htm-2018-12-13-18_45_40.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1840</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>802</ymin>
+            <xmax>879</xmax>
+            <ymax>830</ymax>
+        </bndbox>
+    </object>
+</annotation>

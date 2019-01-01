@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-reaumechev-VehicleDetails-new-2019-Buick-Envision-AWD_4dr_Essence-Windsor-ON-3340954833-2018-12-12-17_25_30.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3708</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>895</xmin>
+            <ymin>806</ymin>
+            <xmax>911</xmax>
+            <ymax>833</ymax>
+        </bndbox>
+    </object>
+</annotation>

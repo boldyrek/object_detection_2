@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-campbelltoyota-ca-used-Toyota-2016-Toyota-Venza-b1f5eb8b0a0e08bd0aa4aaa1621cc5be-htm-2018-11-23-16_46_05.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3550</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1081</xmin>
+            <ymin>769</ymin>
+            <xmax>1107</xmax>
+            <ymax>813</ymax>
+        </bndbox>
+    </object>
+</annotation>

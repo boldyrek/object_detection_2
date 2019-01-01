@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-sportmotors-ca-inventory-2017-hyundai-elantra-3136590-2018-12-14-13_32_53.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>6159</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>503</xmin>
+            <ymin>545</ymin>
+            <xmax>511</xmax>
+            <ymax>559</ymax>
+        </bndbox>
+    </object>
+</annotation>

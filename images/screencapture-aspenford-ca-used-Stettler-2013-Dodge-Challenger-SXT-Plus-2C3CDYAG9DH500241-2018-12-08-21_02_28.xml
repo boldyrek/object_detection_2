@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-aspenford-ca-used-Stettler-2013-Dodge-Challenger-SXT-Plus-2C3CDYAG9DH500241-2018-12-08-21_02_28.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2410</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1614</xmin>
+            <ymin>316</ymin>
+            <xmax>1632</xmax>
+            <ymax>360</ymax>
+        </bndbox>
+    </object>
+</annotation>

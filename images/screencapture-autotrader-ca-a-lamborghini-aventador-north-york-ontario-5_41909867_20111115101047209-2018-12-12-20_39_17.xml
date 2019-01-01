@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-lamborghini-aventador-north-york-ontario-5_41909867_20111115101047209-2018-12-12-20_39_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3253</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>671</ymin>
+            <xmax>911</xmax>
+            <ymax>689</ymax>
+        </bndbox>
+    </object>
+</annotation>

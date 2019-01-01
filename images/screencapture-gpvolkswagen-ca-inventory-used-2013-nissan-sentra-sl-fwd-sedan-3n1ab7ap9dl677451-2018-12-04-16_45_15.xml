@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gpvolkswagen-ca-inventory-used-2013-nissan-sentra-sl-fwd-sedan-3n1ab7ap9dl677451-2018-12-04-16_45_15.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1048</xmin>
+            <ymin>1102</ymin>
+            <xmax>1058</xmax>
+            <ymax>1119</ymax>
+        </bndbox>
+    </object>
+</annotation>

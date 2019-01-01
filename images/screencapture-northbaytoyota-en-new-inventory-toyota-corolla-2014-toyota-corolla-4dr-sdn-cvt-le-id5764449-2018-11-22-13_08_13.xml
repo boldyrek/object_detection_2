@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-northbaytoyota-en-new-inventory-toyota-corolla-2014-toyota-corolla-4dr-sdn-cvt-le-id5764449-2018-11-22-13_08_13.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3317</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1880</xmin>
+            <ymin>1694</ymin>
+            <xmax>1901</xmax>
+            <ymax>1726</ymax>
+        </bndbox>
+    </object>
+</annotation>

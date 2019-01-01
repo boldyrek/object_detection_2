@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-canadacarskw-inventory-2011-volkswagen-golf-wagon-3080009-2018-11-28-17_03_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4589</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>714</xmin>
+            <ymin>657</ymin>
+            <xmax>744</xmax>
+            <ymax>686</ymax>
+        </bndbox>
+    </object>
+</annotation>

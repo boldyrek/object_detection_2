@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-laurentianchrysler-ca-inventory-used-2014-ram-1500-st-four-wheel-drive-quad-cab-pickup-1c6rr7fg9es280515-2018-12-07-18_02_16.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4738</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>1003</ymin>
+            <xmax>1072</xmax>
+            <ymax>1039</ymax>
+        </bndbox>
+    </object>
+</annotation>

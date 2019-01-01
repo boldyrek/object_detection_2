@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-westonmotors-ca-inventory-2009-chevrolet-malibu-3096614-2018-11-23-16_15_02.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4625</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1127</xmin>
+            <ymin>1058</ymin>
+            <xmax>1185</xmax>
+            <ymax>1116</ymax>
+        </bndbox>
+    </object>
+</annotation>

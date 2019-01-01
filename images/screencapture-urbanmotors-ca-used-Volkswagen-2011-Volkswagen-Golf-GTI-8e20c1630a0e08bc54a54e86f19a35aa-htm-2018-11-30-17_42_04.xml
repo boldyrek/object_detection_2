@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-urbanmotors-ca-used-Volkswagen-2011-Volkswagen-Golf-GTI-8e20c1630a0e08bc54a54e86f19a35aa-htm-2018-11-30-17_42_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1583</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1119</xmin>
+            <ymin>628</ymin>
+            <xmax>1131</xmax>
+            <ymax>650</ymax>
+        </bndbox>
+    </object>
+</annotation>

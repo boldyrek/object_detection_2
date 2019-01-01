@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-willschev-VehicleDetails-new-2018-GMC-Sierra_1500-SLE-Grimsby-ON-3342067453-2018-12-13-18_41_45.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4180</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>665</xmin>
+            <ymin>783</ymin>
+            <xmax>682</xmax>
+            <ymax>810</ymax>
+        </bndbox>
+    </object>
+</annotation>

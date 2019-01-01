@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-speedwrenchauto-inventory-2011-dodge-grand-caravan-2979184-2018-11-23-16_24_50.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5893</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>698</xmin>
+            <ymin>570</ymin>
+            <xmax>753</xmax>
+            <ymax>623</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gpchrysler-used-Ram-2016-Ram-1500-8c97f08a0a0e0a6b7290a9e58c3cffd6-htm-2018-11-28-17_25_12.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6190</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1128</xmin>
+            <ymin>980</ymin>
+            <xmax>1147</xmax>
+            <ymax>1014</ymax>
+        </bndbox>
+    </object>
+</annotation>

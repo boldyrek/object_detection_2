@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kiaofstcatharines-used-Pontiac-2008-Pontiac-G6-20de8bc50a0e08ba2808fcd2c65d26ee-htm-2018-11-30-16_43_27.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2877</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>768</ymin>
+            <xmax>985</xmax>
+            <ymax>797</ymax>
+        </bndbox>
+    </object>
+</annotation>

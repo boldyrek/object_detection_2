@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoislandinc-cars-used-2006-Lexus-RX-400h-SUV-84160-2018-12-06-10_06_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2008</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1093</xmin>
+            <ymin>764</ymin>
+            <xmax>1122</xmax>
+            <ymax>875</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-belleriverautocentre-ca-used-Ford-2005-Ford-Escape-74c319420a0e0c5a0e20a006468bb7b2-htm-2018-12-06-12_03_58.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>745</xmin>
+            <ymin>753</ymin>
+            <xmax>756</xmax>
+            <ymax>774</ymax>
+        </bndbox>
+    </object>
+</annotation>

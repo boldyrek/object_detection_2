@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-southcentrevw-en-inventory-used-vehicle-2013-gmc-yukon-sle-4wd-1sa-5575126-2018-12-05-11_55_03.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4677</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1269</xmin>
+            <ymin>514</ymin>
+            <xmax>1290</xmax>
+            <ymax>537</ymax>
+        </bndbox>
+    </object>
+</annotation>

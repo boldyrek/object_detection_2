@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotechemporium-used-Volkswagen-2015-Volkswagen-Jetta-1fd41b980a0e0c5b611b4f92067014b0-htm-2018-11-23-16_51_33.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2916</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1078</xmin>
+            <ymin>854</ymin>
+            <xmax>1094</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

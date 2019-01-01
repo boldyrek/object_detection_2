@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopiacars-ca-certified-Volkswagen-2010-Volkswagen-Golf-cc460f3a0a0e08be358282a65db54f52-htm-2018-11-30-17_39_43.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3539</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>743</ymin>
+            <xmax>982</xmax>
+            <ymax>774</ymax>
+        </bndbox>
+    </object>
+</annotation>

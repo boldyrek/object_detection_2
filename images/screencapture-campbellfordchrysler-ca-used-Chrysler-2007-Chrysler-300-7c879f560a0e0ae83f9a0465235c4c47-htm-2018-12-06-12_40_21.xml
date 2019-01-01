@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-campbellfordchrysler-ca-used-Chrysler-2007-Chrysler-300-7c879f560a0e0ae83f9a0465235c4c47-htm-2018-12-06-12_40_21.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3806</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>972</xmin>
+            <ymin>810</ymin>
+            <xmax>985</xmax>
+            <ymax>833</ymax>
+        </bndbox>
+    </object>
+</annotation>

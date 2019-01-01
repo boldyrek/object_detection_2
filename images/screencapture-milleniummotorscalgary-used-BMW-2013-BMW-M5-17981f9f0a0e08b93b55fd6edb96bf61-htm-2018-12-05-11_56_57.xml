@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-milleniummotorscalgary-used-BMW-2013-BMW-M5-17981f9f0a0e08b93b55fd6edb96bf61-htm-2018-12-05-11_56_57.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2390</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>722</xmin>
+            <ymin>719</ymin>
+            <xmax>734</xmax>
+            <ymax>742</ymax>
+        </bndbox>
+    </object>
+</annotation>

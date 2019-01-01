@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mapleacura-used-Acura-2013-Acura-ILX-c3e5d38b0a0e08bb47184b8b663eefcf-htm-2018-12-10-18_24_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3570</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>856</xmin>
+            <ymin>1066</ymin>
+            <xmax>873</xmax>
+            <ymax>1096</ymax>
+        </bndbox>
+    </object>
+</annotation>

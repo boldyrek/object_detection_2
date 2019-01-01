@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-heuvelmanschev-ca-VehicleDetails-certified-2014-Chevrolet-Cruze-1LT-Chatham-ON-3125405153-2018-12-12-16_26_05.jpg</filename>
+    <size>
+        <width>1473</width>
+        <height>4011</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>1192</ymin>
+            <xmax>695</xmax>
+            <ymax>1217</ymax>
+        </bndbox>
+    </object>
+</annotation>

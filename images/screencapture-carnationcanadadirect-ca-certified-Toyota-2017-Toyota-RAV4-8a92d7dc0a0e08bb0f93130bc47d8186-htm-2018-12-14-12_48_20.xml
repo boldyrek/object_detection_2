@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carnationcanadadirect-ca-certified-Toyota-2017-Toyota-RAV4-8a92d7dc0a0e08bb0f93130bc47d8186-htm-2018-12-14-12_48_20.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2889</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>857</ymin>
+            <xmax>880</xmax>
+            <ymax>887</ymax>
+        </bndbox>
+    </object>
+</annotation>

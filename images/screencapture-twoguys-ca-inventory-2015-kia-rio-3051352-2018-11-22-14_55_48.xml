@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-twoguys-ca-inventory-2015-kia-rio-3051352-2018-11-22-14_55_48.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4473</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1097</xmin>
+            <ymin>977</ymin>
+            <xmax>1153</xmax>
+            <ymax>1033</ymax>
+        </bndbox>
+    </object>
+</annotation>

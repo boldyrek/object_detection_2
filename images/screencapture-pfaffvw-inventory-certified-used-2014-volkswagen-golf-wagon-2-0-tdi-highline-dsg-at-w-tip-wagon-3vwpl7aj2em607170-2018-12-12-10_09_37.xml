@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffvw-inventory-certified-used-2014-volkswagen-golf-wagon-2-0-tdi-highline-dsg-at-w-tip-wagon-3vwpl7aj2em607170-2018-12-12-10_09_37.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3325</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>944</xmin>
+            <ymin>929</ymin>
+            <xmax>955</xmax>
+            <ymax>946</ymax>
+        </bndbox>
+    </object>
+</annotation>

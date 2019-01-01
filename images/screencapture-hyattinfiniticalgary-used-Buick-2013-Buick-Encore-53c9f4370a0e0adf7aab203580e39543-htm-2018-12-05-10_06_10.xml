@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-hyattinfiniticalgary-used-Buick-2013-Buick-Encore-53c9f4370a0e0adf7aab203580e39543-htm-2018-12-05-10_06_10.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4961</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1008</xmin>
+            <ymin>949</ymin>
+            <xmax>1026</xmax>
+            <ymax>978</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newmarketvolvo-en-used-inventory-volvo-s60-2012-volvo-s60-id5691188-2018-12-14-10_57_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5159</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1412</xmin>
+            <ymin>439</ymin>
+            <xmax>1430</xmax>
+            <ymax>463</ymax>
+        </bndbox>
+    </object>
+</annotation>

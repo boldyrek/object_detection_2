@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autocrossinc-inventory-2011-toyota-sienna-2679406-2018-12-01-09_40_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4049</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>469</ymin>
+            <xmax>631</xmax>
+            <ymax>512</ymax>
+        </bndbox>
+    </object>
+</annotation>

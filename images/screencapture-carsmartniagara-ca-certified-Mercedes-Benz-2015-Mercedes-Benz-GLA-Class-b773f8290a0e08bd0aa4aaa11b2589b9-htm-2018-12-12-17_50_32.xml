@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carsmartniagara-ca-certified-Mercedes-Benz-2015-Mercedes-Benz-GLA-Class-b773f8290a0e08bd0aa4aaa11b2589b9-htm-2018-12-12-17_50_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2028</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>797</xmin>
+            <ymin>910</ymin>
+            <xmax>824</xmax>
+            <ymax>936</ymax>
+        </bndbox>
+    </object>
+</annotation>

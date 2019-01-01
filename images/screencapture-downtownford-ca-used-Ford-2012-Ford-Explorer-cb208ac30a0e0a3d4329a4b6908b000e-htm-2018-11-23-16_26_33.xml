@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-downtownford-ca-used-Ford-2012-Ford-Explorer-cb208ac30a0e0a3d4329a4b6908b000e-htm-2018-11-23-16_26_33.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3260</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>1281</ymin>
+            <xmax>1104</xmax>
+            <ymax>1312</ymax>
+        </bndbox>
+    </object>
+</annotation>

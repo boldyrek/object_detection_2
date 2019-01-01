@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-attrelltoyota-used-vehicle-2013-hyundai-tucson-gls-id9070661-htm-2018-12-03-14_50_23.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2660</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>490</ymin>
+            <xmax>942</xmax>
+            <ymax>529</ymax>
+        </bndbox>
+    </object>
+</annotation>

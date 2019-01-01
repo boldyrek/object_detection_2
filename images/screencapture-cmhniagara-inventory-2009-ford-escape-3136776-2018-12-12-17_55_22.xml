@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-cmhniagara-inventory-2009-ford-escape-3136776-2018-12-12-17_55_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4486</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>485</xmin>
+            <ymin>393</ymin>
+            <xmax>526</xmax>
+            <ymax>436</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-macmasterchev-ca-VehicleDetails-certified-2016-Chevrolet-Colorado-4WD_LT-London-ON-3303476873-2018-11-22-14_33_55.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5585</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>858</xmin>
+            <ymin>828</ymin>
+            <xmax>894</xmax>
+            <ymax>876</ymax>
+        </bndbox>
+    </object>
+</annotation>

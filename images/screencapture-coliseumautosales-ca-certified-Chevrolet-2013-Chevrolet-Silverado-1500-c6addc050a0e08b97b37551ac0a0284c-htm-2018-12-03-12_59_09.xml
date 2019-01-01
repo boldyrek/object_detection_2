@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-coliseumautosales-ca-certified-Chevrolet-2013-Chevrolet-Silverado-1500-c6addc050a0e08b97b37551ac0a0284c-htm-2018-12-03-12_59_09.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3384</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>876</ymin>
+            <xmax>983</xmax>
+            <ymax>906</ymax>
+        </bndbox>
+    </object>
+</annotation>

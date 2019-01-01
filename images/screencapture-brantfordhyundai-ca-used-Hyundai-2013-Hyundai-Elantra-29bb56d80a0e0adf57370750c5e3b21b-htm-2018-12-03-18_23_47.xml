@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-brantfordhyundai-ca-used-Hyundai-2013-Hyundai-Elantra-29bb56d80a0e0adf57370750c5e3b21b-htm-2018-12-03-18_23_47.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3783</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>1020</ymin>
+            <xmax>981</xmax>
+            <ymax>1049</ymax>
+        </bndbox>
+    </object>
+</annotation>

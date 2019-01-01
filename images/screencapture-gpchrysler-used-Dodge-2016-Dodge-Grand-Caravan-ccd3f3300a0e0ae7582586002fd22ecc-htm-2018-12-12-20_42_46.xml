@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gpchrysler-used-Dodge-2016-Dodge-Grand-Caravan-ccd3f3300a0e0ae7582586002fd22ecc-htm-2018-12-12-20_42_46.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4745</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908</xmin>
+            <ymin>836</ymin>
+            <xmax>921</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

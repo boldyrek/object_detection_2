@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-mikeyarekdodge-ca-used-Buick-2014-Buick-Regal-1ac4689e0a0e0a6b3e6461ccf1c11fc5-htm-2018-12-09-10_08_07.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>801</ymin>
+            <xmax>986</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

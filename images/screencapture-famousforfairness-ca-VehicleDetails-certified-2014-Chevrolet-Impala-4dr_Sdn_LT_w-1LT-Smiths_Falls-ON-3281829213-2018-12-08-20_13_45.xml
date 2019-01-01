@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-famousforfairness-ca-VehicleDetails-certified-2014-Chevrolet-Impala-4dr_Sdn_LT_w-1LT-Smiths_Falls-ON-3281829213-2018-12-08-20_13_45.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4319</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>947</ymin>
+            <xmax>796</xmax>
+            <ymax>974</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Ford-Edge-Cambridge-Ontario-5_42118616_20100401123616930-2018-12-14-13_20_12.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>597</ymin>
+            <xmax>910</xmax>
+            <ymax>608</ymax>
+        </bndbox>
+    </object>
+</annotation>

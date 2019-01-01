@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-agincourthyundai-used-Hyundai-2013-Hyundai-Elantra-25fe41600a0e08bb1380d5adbc56d21a-htm-2018-12-04-12_16_28.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3441</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>770</ymin>
+            <xmax>982</xmax>
+            <ymax>801</ymax>
+        </bndbox>
+    </object>
+</annotation>

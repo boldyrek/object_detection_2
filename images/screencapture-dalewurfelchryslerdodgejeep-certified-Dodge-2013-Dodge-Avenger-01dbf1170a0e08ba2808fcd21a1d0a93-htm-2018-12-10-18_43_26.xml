@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-dalewurfelchryslerdodgejeep-certified-Dodge-2013-Dodge-Avenger-01dbf1170a0e08ba2808fcd21a1d0a93-htm-2018-12-10-18_43_26.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4279</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>927</ymin>
+            <xmax>881</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

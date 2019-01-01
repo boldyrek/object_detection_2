@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-guelphhyundai-certified-BMW-2014-BMW-X3-fe8e55620a0d04fe513b7f21a619a611-htm-2018-11-22-13_12_12.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5682</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1131</xmin>
+            <ymin>1048</ymin>
+            <xmax>1146</xmax>
+            <ymax>1076</ymax>
+        </bndbox>
+    </object>
+</annotation>

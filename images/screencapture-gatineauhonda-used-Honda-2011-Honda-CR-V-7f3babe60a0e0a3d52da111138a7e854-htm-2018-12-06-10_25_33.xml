@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gatineauhonda-used-Honda-2011-Honda-CR-V-7f3babe60a0e0a3d52da111138a7e854-htm-2018-12-06-10_25_33.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>805</ymin>
+            <xmax>974</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-northbaytoyota-en-used-inventory-toyota-corolla-2015-toyota-corolla-4dr-sdn-man-s-id5684232-2018-11-22-12_11_03.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4160</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1037</xmin>
+            <ymin>697</ymin>
+            <xmax>1050</xmax>
+            <ymax>723</ymax>
+        </bndbox>
+    </object>
+</annotation>

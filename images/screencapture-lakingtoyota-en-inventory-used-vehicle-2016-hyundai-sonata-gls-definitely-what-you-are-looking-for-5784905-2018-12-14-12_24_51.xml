@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lakingtoyota-en-inventory-used-vehicle-2016-hyundai-sonata-gls-definitely-what-you-are-looking-for-5784905-2018-12-14-12_24_51.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4690</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1172</xmin>
+            <ymin>625</ymin>
+            <xmax>1181</xmax>
+            <ymax>631</ymax>
+        </bndbox>
+    </object>
+</annotation>

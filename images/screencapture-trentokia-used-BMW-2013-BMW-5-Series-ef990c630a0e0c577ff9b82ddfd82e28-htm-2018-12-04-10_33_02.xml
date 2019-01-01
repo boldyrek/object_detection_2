@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-trentokia-used-BMW-2013-BMW-5-Series-ef990c630a0e0c577ff9b82ddfd82e28-htm-2018-12-04-10_33_02.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2958</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>848</ymin>
+            <xmax>960</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-belangerchrysler-ca-used-Ford-2017-Ford-Focus-RS-75e6ac6a0a0d0cc723e8c8cdf0ce26f0-htm-2018-12-07-12_35_03.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4312</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>941</ymin>
+            <xmax>987</xmax>
+            <ymax>964</ymax>
+        </bndbox>
+    </object>
+</annotation>

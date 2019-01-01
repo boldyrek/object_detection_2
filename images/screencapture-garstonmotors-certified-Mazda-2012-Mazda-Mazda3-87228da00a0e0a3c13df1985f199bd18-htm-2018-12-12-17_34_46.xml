@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-garstonmotors-certified-Mazda-2012-Mazda-Mazda3-87228da00a0e0a3c13df1985f199bd18-htm-2018-12-12-17_34_46.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2950</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>884</xmin>
+            <ymin>776</ymin>
+            <xmax>899</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-titaniumauto-ca-inventory-2014-bmw-3-series-3134889-2018-12-14-12_33_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>6383</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>503</xmin>
+            <ymin>499</ymin>
+            <xmax>512</xmax>
+            <ymax>515</ymax>
+        </bndbox>
+    </object>
+</annotation>

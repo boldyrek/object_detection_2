@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newroads-ca-used-vehicle-2011-volkswagen-tiguan-20-tsi-id9070592-htm-2018-12-02-08_02_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2230</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>907</xmin>
+            <ymin>544</ymin>
+            <xmax>926</xmax>
+            <ymax>568</ymax>
+        </bndbox>
+    </object>
+</annotation>

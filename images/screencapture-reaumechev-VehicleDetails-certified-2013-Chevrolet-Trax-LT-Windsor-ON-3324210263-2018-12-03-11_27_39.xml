@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-reaumechev-VehicleDetails-certified-2013-Chevrolet-Trax-LT-Windsor-ON-3324210263-2018-12-03-11_27_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3065</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>777</xmin>
+            <ymin>749</ymin>
+            <xmax>795</xmax>
+            <ymax>776</ymax>
+        </bndbox>
+    </object>
+</annotation>

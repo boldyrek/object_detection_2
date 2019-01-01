@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-calgaryautoquest-ca-certified-Land-Rover-2010-Land-Rover-Range-Rover-7f5535990a0e08f704d62b6a3e12c97b-htm-2018-12-06-19_56_29.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2169</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>722</xmin>
+            <ymin>728</ymin>
+            <xmax>738</xmax>
+            <ymax>751</ymax>
+        </bndbox>
+    </object>
+</annotation>

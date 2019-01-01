@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-seefinchfirst-used-vehicle-2018-mercedes-benz-c-class-base-id8441616-htm-2018-12-14-11_57_23.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8614</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>823</xmin>
+            <ymin>820</ymin>
+            <xmax>828</xmax>
+            <ymax>829</ymax>
+        </bndbox>
+    </object>
+</annotation>

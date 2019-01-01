@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-leggatchev-ca-VehicleDetails-new-2019-Buick-Encore-Essence-Toronto-ON-3294808813-2018-12-12-19_02_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4656</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>958</ymin>
+            <xmax>697</xmax>
+            <ymax>984</ymax>
+        </bndbox>
+    </object>
+</annotation>

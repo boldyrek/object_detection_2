@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-myactionhonda-used-Honda-2013-Honda-Civic-1915c29d0a0e0a411d57a67a25a5be39-htm-2018-12-03-12_26_26.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2366</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>742</xmin>
+            <ymin>700</ymin>
+            <xmax>755</xmax>
+            <ymax>725</ymax>
+        </bndbox>
+    </object>
+</annotation>

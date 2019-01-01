@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-barrienissan-ca-used-vehicle-2015-nissan-rogue-sv-id8925899-htm-2018-11-23-14_54_23.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1009</xmin>
+            <ymin>542</ymin>
+            <xmax>1048</xmax>
+            <ymax>581</ymax>
+        </bndbox>
+    </object>
+</annotation>

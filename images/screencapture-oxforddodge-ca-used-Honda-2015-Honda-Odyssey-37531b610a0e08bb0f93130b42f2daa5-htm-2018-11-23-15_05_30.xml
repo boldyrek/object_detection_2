@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oxforddodge-ca-used-Honda-2015-Honda-Odyssey-37531b610a0e08bb0f93130b42f2daa5-htm-2018-11-23-15_05_30.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4452</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>839</ymin>
+            <xmax>1105</xmax>
+            <ymax>862</ymax>
+        </bndbox>
+    </object>
+</annotation>

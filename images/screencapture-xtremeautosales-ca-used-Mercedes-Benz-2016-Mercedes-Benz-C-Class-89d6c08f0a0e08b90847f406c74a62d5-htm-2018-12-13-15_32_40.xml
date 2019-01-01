@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-xtremeautosales-ca-used-Mercedes-Benz-2016-Mercedes-Benz-C-Class-89d6c08f0a0e08b90847f406c74a62d5-htm-2018-12-13-15_32_40.jpg</filename>
+    <size>
+        <width>1706</width>
+        <height>3077</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>805</ymin>
+            <xmax>880</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>
+</annotation>

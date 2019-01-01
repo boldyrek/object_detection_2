@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-haltonhonda-en-used-inventory-honda-civic-2013-honda-civic-id5776752-2018-12-05-13_19_40.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1240</xmin>
+            <ymin>919</ymin>
+            <xmax>1300</xmax>
+            <ymax>980</ymax>
+        </bndbox>
+    </object>
+</annotation>

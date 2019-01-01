@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-midwaynissan-bargain-Chevrolet-2013-Chevrolet-Malibu-13f33ae70a0e0a6b3bbc80b2bb6dffae-htm-2018-11-22-14_18_03.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6904</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1092</xmin>
+            <ymin>826</ymin>
+            <xmax>1106</xmax>
+            <ymax>850</ymax>
+        </bndbox>
+    </object>
+</annotation>

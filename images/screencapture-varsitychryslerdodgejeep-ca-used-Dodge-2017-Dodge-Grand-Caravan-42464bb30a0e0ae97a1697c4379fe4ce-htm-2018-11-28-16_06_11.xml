@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-varsitychryslerdodgejeep-ca-used-Dodge-2017-Dodge-Grand-Caravan-42464bb30a0e0ae97a1697c4379fe4ce-htm-2018-11-28-16_06_11.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3906</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1091</xmin>
+            <ymin>885</ymin>
+            <xmax>1105</xmax>
+            <ymax>909</ymax>
+        </bndbox>
+    </object>
+</annotation>

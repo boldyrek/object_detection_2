@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-andersonsgm-ca-VehicleDetails-used-2013-Buick-Enclave-Premium-Woodstock-ON-3208014663-2018-12-10-13_15_34.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4259</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>777</xmin>
+            <ymin>931</ymin>
+            <xmax>796</xmax>
+            <ymax>958</ymax>
+        </bndbox>
+    </object>
+</annotation>

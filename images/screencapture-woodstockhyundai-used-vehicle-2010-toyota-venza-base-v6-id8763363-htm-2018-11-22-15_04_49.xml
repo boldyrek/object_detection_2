@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-woodstockhyundai-used-vehicle-2010-toyota-venza-base-v6-id8763363-htm-2018-11-22-15_04_49.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2707</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>568</ymin>
+            <xmax>1063</xmax>
+            <ymax>612</ymax>
+        </bndbox>
+    </object>
+</annotation>

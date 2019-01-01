@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-trainyardauto-inventory-2008-honda-odyssey-2812959-2018-11-23-16_56_44.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4010</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>699</xmin>
+            <ymin>705</ymin>
+            <xmax>751</xmax>
+            <ymax>760</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-tandthonda-ca-used-vehicle-2011-volkswagen-jetta-20-tdi-highline-id9052771-htm-2018-12-01-19_03_56.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8519</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>910</xmin>
+            <ymin>595</ymin>
+            <xmax>930</xmax>
+            <ymax>621</ymax>
+        </bndbox>
+    </object>
+</annotation>

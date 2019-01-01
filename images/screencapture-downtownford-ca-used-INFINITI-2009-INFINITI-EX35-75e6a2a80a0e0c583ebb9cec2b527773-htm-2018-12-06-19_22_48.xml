@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-downtownford-ca-used-INFINITI-2009-INFINITI-EX35-75e6a2a80a0e0c583ebb9cec2b527773-htm-2018-12-06-19_22_48.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2411</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>1167</ymin>
+            <xmax>984</xmax>
+            <ymax>1198</ymax>
+        </bndbox>
+    </object>
+</annotation>

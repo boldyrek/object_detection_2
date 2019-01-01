@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-windsorhonda-used-Toyota-2014-Toyota-Corolla-563a28fb0a0e08ba5e3a70a4ebd7ce75-htm-2018-12-07-14_00_57.jpg</filename>
+    <size>
+        <width>1690</width>
+        <height>3314</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>968</xmin>
+            <ymin>877</ymin>
+            <xmax>983</xmax>
+            <ymax>906</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Volkswagen-Jetta-Toronto-Ontario-5_40644011_20101022080026966-2018-12-13-19_12_42.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3514</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>618</ymin>
+            <xmax>910</xmax>
+            <ymax>638</ymax>
+        </bndbox>
+    </object>
+</annotation>

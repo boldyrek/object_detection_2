@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-lexusoflondon-used-Nissan-2010-Nissan-Versa-0df1a6f60a0e08b93210bf347711ca7b-htm-2018-12-01-19_28_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2642</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>938</ymin>
+            <xmax>985</xmax>
+            <ymax>967</ymax>
+        </bndbox>
+    </object>
+</annotation>

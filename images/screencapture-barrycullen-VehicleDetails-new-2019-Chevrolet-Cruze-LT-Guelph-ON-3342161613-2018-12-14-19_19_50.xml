@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-barrycullen-VehicleDetails-new-2019-Chevrolet-Cruze-LT-Guelph-ON-3342161613-2018-12-14-19_19_50.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2894</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>900</ymin>
+            <xmax>699</xmax>
+            <ymax>929</ymax>
+        </bndbox>
+    </object>
+</annotation>

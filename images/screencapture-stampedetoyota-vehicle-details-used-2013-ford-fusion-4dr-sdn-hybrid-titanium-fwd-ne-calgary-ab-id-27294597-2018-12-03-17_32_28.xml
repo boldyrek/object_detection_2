@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-stampedetoyota-vehicle-details-used-2013-ford-fusion-4dr-sdn-hybrid-titanium-fwd-ne-calgary-ab-id-27294597-2018-12-03-17_32_28.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>685</xmin>
+            <ymin>601</ymin>
+            <xmax>700</xmax>
+            <ymax>627</ymax>
+        </bndbox>
+    </object>
+</annotation>

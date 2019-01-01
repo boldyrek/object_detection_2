@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-goldfleet-autotrader-ca-used-Subaru-2013-Subaru-XV-Crosstrek-658871ca0a0e0ae80c59a76339db68ac-htm-2018-12-03-11_36_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>738</ymin>
+            <xmax>983</xmax>
+            <ymax>771</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Ford-F-150-Perth-Ontario-5_36603392_20160415124622367-2018-12-11-09_20_34.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3212</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>596</ymin>
+            <xmax>910</xmax>
+            <ymax>609</ymax>
+        </bndbox>
+    </object>
+</annotation>

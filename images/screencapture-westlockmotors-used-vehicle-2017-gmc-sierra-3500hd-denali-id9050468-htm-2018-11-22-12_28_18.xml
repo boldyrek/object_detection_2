@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-westlockmotors-used-vehicle-2017-gmc-sierra-3500hd-denali-id9050468-htm-2018-11-22-12_28_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>8943</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1028</xmin>
+            <ymin>809</ymin>
+            <xmax>1047</xmax>
+            <ymax>833</ymax>
+        </bndbox>
+    </object>
+</annotation>

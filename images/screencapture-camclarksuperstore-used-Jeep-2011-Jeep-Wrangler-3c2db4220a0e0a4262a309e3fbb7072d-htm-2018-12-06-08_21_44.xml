@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-camclarksuperstore-used-Jeep-2011-Jeep-Wrangler-3c2db4220a0e0a4262a309e3fbb7072d-htm-2018-12-06-08_21_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3159</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>718</ymin>
+            <xmax>982</xmax>
+            <ymax>749</ymax>
+        </bndbox>
+    </object>
+</annotation>

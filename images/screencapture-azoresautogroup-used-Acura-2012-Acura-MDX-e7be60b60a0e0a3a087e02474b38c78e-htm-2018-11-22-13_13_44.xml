@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-azoresautogroup-used-Acura-2012-Acura-MDX-e7be60b60a0e0a3a087e02474b38c78e-htm-2018-11-22-13_13_44.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3466</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>793</ymin>
+            <xmax>1105</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

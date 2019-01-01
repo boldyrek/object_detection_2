@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lexusoflondon-certified-LEXUS-2013-LEXUS-IS-250C-cfd972870a0e08ba7f1e022d6c7f4c10-htm-2018-12-05-10_32_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2690</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>883</ymin>
+            <xmax>986</xmax>
+            <ymax>912</ymax>
+        </bndbox>
+    </object>
+</annotation>

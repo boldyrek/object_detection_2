@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-brantfordkia-used-Ram-2013-Ram-1500-1c1b53a90a0e0ae773a94efa65eb4dbe-htm-2018-12-07-13_03_34.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3454</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>930</xmin>
+            <ymin>871</ymin>
+            <xmax>977</xmax>
+            <ymax>930</ymax>
+        </bndbox>
+    </object>
+</annotation>

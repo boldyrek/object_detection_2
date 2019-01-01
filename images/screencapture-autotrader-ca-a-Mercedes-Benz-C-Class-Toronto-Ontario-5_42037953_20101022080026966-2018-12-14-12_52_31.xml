@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Mercedes-Benz-C-Class-Toronto-Ontario-5_42037953_20101022080026966-2018-12-14-12_52_31.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3658</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>620</ymin>
+            <xmax>910</xmax>
+            <ymax>633</ymax>
+        </bndbox>
+    </object>
+</annotation>

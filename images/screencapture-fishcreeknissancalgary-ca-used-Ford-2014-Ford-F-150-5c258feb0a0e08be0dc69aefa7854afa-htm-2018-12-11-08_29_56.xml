@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-fishcreeknissancalgary-ca-used-Ford-2014-Ford-F-150-5c258feb0a0e08be0dc69aefa7854afa-htm-2018-12-11-08_29_56.jpg</filename>
+    <size>
+        <width>1482</width>
+        <height>4151</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>874</ymin>
+            <xmax>887</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

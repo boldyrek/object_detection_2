@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-woodstockhyundai-used-vehicle-2010-kia-soul-id9093662-htm-2018-12-14-11_00_10.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3167</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>822</xmin>
+            <ymin>1258</ymin>
+            <xmax>839</xmax>
+            <ymax>1277</ymax>
+        </bndbox>
+    </object>
+</annotation>

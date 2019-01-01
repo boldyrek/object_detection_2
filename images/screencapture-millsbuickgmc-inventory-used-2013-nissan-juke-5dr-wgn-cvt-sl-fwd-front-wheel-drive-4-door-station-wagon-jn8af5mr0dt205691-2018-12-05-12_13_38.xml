@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-millsbuickgmc-inventory-used-2013-nissan-juke-5dr-wgn-cvt-sl-fwd-front-wheel-drive-4-door-station-wagon-jn8af5mr0dt205691-2018-12-05-12_13_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3262</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>631</xmin>
+            <ymin>996</ymin>
+            <xmax>666</xmax>
+            <ymax>1030</ymax>
+        </bndbox>
+    </object>
+</annotation>

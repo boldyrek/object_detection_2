@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-quantrillchevrolet-VehicleDetails-new-2019-Cadillac-XT5-AWD-Port_Hope-ON-3341733993-2018-12-13-10_13_44.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>806</ymin>
+            <xmax>695</xmax>
+            <ymax>832</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-calgaryautoconnection-ca-certified-Audi-2013-Audi-A4-allroad-656f5c370a0e0c594c9d7248b19d4e93-htm-2018-12-04-15_49_59.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1703</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>702</xmin>
+            <ymin>667</ymin>
+            <xmax>716</xmax>
+            <ymax>690</ymax>
+        </bndbox>
+    </object>
+</annotation>

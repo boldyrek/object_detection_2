@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-whitbyoshawahonda-used-Toyota-2016-Toyota-Venza-ebf6f4180a0e0a174f9ccd06850948fe-htm-2018-11-22-12_55_15 (1).jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5444</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1128</xmin>
+            <ymin>821</ymin>
+            <xmax>1147</xmax>
+            <ymax>855</ymax>
+        </bndbox>
+    </object>
+</annotation>

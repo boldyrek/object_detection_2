@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-betterwayautosales-certified-Chrysler-2013-Chrysler-200-hamilton-d5b0e0b60a0e0c5b09bcfabcd615f5b5-htm-2018-12-03-11_23_03.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4002</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>815</ymin>
+            <xmax>982</xmax>
+            <ymax>847</ymax>
+        </bndbox>
+    </object>
+</annotation>

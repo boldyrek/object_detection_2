@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-boltonhonda-ca-used-Toyota-2007-Toyota-Corolla-40ff096d0a0e08ba5e3a70a40a1625b8-htm-2018-12-01-20_29_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5176</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1022</xmin>
+            <ymin>735</ymin>
+            <xmax>1037</xmax>
+            <ymax>756</ymax>
+        </bndbox>
+    </object>
+</annotation>

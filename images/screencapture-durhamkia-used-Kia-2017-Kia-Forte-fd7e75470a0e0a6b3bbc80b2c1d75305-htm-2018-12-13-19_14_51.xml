@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-durhamkia-used-Kia-2017-Kia-Forte-fd7e75470a0e0a6b3bbc80b2c1d75305-htm-2018-12-13-19_14_51.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3133</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>647</ymin>
+            <xmax>879</xmax>
+            <ymax>675</ymax>
+        </bndbox>
+    </object>
+</annotation>

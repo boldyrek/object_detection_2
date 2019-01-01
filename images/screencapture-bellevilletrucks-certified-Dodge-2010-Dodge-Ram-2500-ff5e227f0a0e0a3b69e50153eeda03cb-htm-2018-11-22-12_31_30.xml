@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bellevilletrucks-certified-Dodge-2010-Dodge-Ram-2500-ff5e227f0a0e0a3b69e50153eeda03cb-htm-2018-11-22-12_31_30.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2493</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1090</xmin>
+            <ymin>1072</ymin>
+            <xmax>1101</xmax>
+            <ymax>1084</ymax>
+        </bndbox>
+    </object>
+</annotation>

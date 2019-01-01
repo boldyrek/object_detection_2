@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-leggatkiaburlington-ca-certified-Nissan-2013-Nissan-Rogue-75b33d310a0e0a420c72531e34157e58-htm-2018-12-03-12_57_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2980</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>813</ymin>
+            <xmax>960</xmax>
+            <ymax>839</ymax>
+        </bndbox>
+    </object>
+</annotation>

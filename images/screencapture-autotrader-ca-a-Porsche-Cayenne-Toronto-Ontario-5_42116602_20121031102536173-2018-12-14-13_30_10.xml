@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Porsche-Cayenne-Toronto-Ontario-5_42116602_20121031102536173-2018-12-14-13_30_10.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3035</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>596</ymin>
+            <xmax>911</xmax>
+            <ymax>609</ymax>
+        </bndbox>
+    </object>
+</annotation>

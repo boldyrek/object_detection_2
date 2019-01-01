@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-sherwoodbuickgmc-used-Ram-2013-Ram-1500-e5a6242d0a0e08bb608fed85efbdcabb-htm-2018-12-07-12_22_27.jpg</filename>
+    <size>
+        <width>1690</width>
+        <height>4252</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>973</xmin>
+            <ymin>981</ymin>
+            <xmax>992</xmax>
+            <ymax>1010</ymax>
+        </bndbox>
+    </object>
+</annotation>

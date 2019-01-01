@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-londoncitychryslerjeep-used-Dodge-2016-Dodge-Journey-bfbdb4c70a0e0a1776af99fe7bce9ff3-htm-2018-11-22-14_44_58.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1090</xmin>
+            <ymin>920</ymin>
+            <xmax>1107</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

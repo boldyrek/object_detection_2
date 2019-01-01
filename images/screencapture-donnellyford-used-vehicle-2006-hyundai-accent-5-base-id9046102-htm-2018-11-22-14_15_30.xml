@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-donnellyford-used-vehicle-2006-hyundai-accent-5-base-id9046102-htm-2018-11-22-14_15_30.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6613</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1019</xmin>
+            <ymin>551</ymin>
+            <xmax>1064</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

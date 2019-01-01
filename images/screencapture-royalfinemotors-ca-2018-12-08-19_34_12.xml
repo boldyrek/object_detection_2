@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-royalfinemotors-ca-2018-12-08-19_34_12.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1629</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>832</xmin>
+            <ymin>592</ymin>
+            <xmax>841</xmax>
+            <ymax>604</ymax>
+        </bndbox>
+    </object>
+</annotation>

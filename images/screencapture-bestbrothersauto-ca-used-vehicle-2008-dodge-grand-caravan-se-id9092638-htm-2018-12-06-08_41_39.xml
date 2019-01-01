@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bestbrothersauto-ca-used-vehicle-2008-dodge-grand-caravan-se-id9092638-htm-2018-12-06-08_41_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3359</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>573</ymin>
+            <xmax>943</xmax>
+            <ymax>618</ymax>
+        </bndbox>
+    </object>
+</annotation>

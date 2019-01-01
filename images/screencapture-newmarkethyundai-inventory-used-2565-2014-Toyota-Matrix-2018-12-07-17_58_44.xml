@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-newmarkethyundai-inventory-used-2565-2014-Toyota-Matrix-2018-12-07-17_58_44.jpg</filename>
+    <size>
+        <width>1705</width>
+        <height>1626</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>857</xmin>
+            <ymin>567</ymin>
+            <xmax>900</xmax>
+            <ymax>612</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-daleomotors-ca-used-Ford-2008-Ford-Ranger-335cd52f0a0e0a3d309e464f7be520d4-htm-2018-11-22-12_46_46.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3552</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1085</xmin>
+            <ymin>910</ymin>
+            <xmax>1104</xmax>
+            <ymax>944</ymax>
+        </bndbox>
+    </object>
+</annotation>

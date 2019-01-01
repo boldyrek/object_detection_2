@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-davidchevpreowned-bargain-Honda-2011-Honda-Ridgeline-8b199c2b0a0e0a3b7ec4eb4d76d338d7-htm-2018-12-13-10_18_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1924</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>680</ymin>
+            <xmax>637</xmax>
+            <ymax>703</ymax>
+        </bndbox>
+    </object>
+</annotation>

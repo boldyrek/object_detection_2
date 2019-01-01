@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-janexauto-used-vehicle-2011-volkswagen-jetta-20-tdi-highline-id8952853-htm-2018-11-30-17_22_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8685</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>907</xmin>
+            <ymin>954</ymin>
+            <xmax>925</xmax>
+            <ymax>978</ymax>
+        </bndbox>
+    </object>
+</annotation>

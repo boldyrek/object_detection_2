@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-urbanmotors-ca-used-Audi-2013-Audi-A4-allroad-dea480f90a0e08bd49cd090588e7b1ac-htm-2018-12-03-18_08_09.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1742</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>743</xmin>
+            <ymin>671</ymin>
+            <xmax>755</xmax>
+            <ymax>694</ymax>
+        </bndbox>
+    </object>
+</annotation>

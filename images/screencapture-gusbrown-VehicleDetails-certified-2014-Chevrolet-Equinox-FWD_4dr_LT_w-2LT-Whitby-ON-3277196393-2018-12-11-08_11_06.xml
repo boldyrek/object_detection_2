@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gusbrown-VehicleDetails-certified-2014-Chevrolet-Equinox-FWD_4dr_LT_w-2LT-Whitby-ON-3277196393-2018-12-11-08_11_06.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>681</xmin>
+            <ymin>824</ymin>
+            <xmax>696</xmax>
+            <ymax>850</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Jeep-Wrangler-Toronto-Ontario-5_39814149_20170412155535341-2018-12-14-13_32_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3060</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>888</xmin>
+            <ymin>617</ymin>
+            <xmax>910</xmax>
+            <ymax>637</ymax>
+        </bndbox>
+    </object>
+</annotation>

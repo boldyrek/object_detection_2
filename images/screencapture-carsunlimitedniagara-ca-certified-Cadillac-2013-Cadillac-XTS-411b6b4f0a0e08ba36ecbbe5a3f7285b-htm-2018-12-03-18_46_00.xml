@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carsunlimitedniagara-ca-certified-Cadillac-2013-Cadillac-XTS-411b6b4f0a0e08ba36ecbbe5a3f7285b-htm-2018-12-03-18_46_00.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3761</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>780</ymin>
+            <xmax>983</xmax>
+            <ymax>810</ymax>
+        </bndbox>
+    </object>
+</annotation>

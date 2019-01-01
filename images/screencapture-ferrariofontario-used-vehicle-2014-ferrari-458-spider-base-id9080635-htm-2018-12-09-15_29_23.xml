@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-ferrariofontario-used-vehicle-2014-ferrari-458-spider-base-id9080635-htm-2018-12-09-15_29_23.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>6390</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>893</xmin>
+            <ymin>546</ymin>
+            <xmax>936</xmax>
+            <ymax>589</ymax>
+        </bndbox>
+    </object>
+</annotation>

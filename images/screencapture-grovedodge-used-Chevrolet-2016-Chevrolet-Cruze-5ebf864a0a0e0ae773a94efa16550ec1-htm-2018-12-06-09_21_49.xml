@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-grovedodge-used-Chevrolet-2016-Chevrolet-Cruze-5ebf864a0a0e0ae773a94efa16550ec1-htm-2018-12-06-09_21_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5355</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1007</xmin>
+            <ymin>1020</ymin>
+            <xmax>1026</xmax>
+            <ymax>1053</ymax>
+        </bndbox>
+    </object>
+</annotation>

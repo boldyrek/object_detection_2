@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-airportkia-ca-used-Chrysler-2013-Chrysler-Town-Country-e9edeaae0a0e08bb50a70153bb5c24c0-htm-2018-12-03-14_53_03.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3180</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>894</ymin>
+            <xmax>986</xmax>
+            <ymax>926</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-paramountfinecars-ca-certified-Porsche-2013-Porsche-Cayenne-1ea0f78f0a0e08b9234fccd9d8f22775-htm-2018-12-05-12_02_47.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1795</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>790</ymin>
+            <xmax>984</xmax>
+            <ymax>827</ymax>
+        </bndbox>
+    </object>
+</annotation>

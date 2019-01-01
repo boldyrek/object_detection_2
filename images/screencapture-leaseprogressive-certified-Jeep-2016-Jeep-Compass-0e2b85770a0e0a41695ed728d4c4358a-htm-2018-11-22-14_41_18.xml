@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-leaseprogressive-certified-Jeep-2016-Jeep-Compass-0e2b85770a0e0a41695ed728d4c4358a-htm-2018-11-22-14_41_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2495</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1091</xmin>
+            <ymin>816</ymin>
+            <xmax>1107</xmax>
+            <ymax>847</ymax>
+        </bndbox>
+    </object>
+</annotation>

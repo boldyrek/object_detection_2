@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carbazaarcanada-ca-inventory-2009-chevrolet-equinox-2929105-2018-12-01-20_28_55.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2612</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>587</xmin>
+            <ymin>566</ymin>
+            <xmax>628</xmax>
+            <ymax>608</ymax>
+        </bndbox>
+    </object>
+</annotation>

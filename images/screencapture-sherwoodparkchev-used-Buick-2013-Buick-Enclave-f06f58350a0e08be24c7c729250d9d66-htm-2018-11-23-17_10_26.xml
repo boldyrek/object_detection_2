@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-sherwoodparkchev-used-Buick-2013-Buick-Enclave-f06f58350a0e08be24c7c729250d9d66-htm-2018-11-23-17_10_26.jpg</filename>
+    <size>
+        <width>1935</width>
+        <height>4372</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1098</xmin>
+            <ymin>1025</ymin>
+            <xmax>1113</xmax>
+            <ymax>1055</ymax>
+        </bndbox>
+    </object>
+</annotation>

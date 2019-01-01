@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-maplehonda-used-Kia-2015-Kia-Soul-56e316030a0e0a384b17103d5f98e56b-htm-2018-12-06-10_03_15.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3325</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>956</xmin>
+            <ymin>786</ymin>
+            <xmax>976</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

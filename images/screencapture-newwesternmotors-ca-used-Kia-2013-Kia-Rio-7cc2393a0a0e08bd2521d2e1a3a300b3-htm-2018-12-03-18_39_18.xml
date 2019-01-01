@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newwesternmotors-ca-used-Kia-2013-Kia-Rio-7cc2393a0a0e08bd2521d2e1a3a300b3-htm-2018-12-03-18_39_18.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5350</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>822</ymin>
+            <xmax>984</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

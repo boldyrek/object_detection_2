@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-kia-optima-moncton-new-brunswick-5_28651995_20070327055452062-2018-12-09-17_32_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3117</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>994</xmin>
+            <ymin>472</ymin>
+            <xmax>1016</xmax>
+            <ymax>486</ymax>
+        </bndbox>
+    </object>
+</annotation>

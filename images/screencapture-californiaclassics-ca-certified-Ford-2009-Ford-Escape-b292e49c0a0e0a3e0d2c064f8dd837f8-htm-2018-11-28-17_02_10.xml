@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-californiaclassics-ca-certified-Ford-2009-Ford-Escape-b292e49c0a0e0a3e0d2c064f8dd837f8-htm-2018-11-28-17_02_10.jpg</filename>
+    <size>
+        <width>1930</width>
+        <height>3445</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>810</ymin>
+            <xmax>1102</xmax>
+            <ymax>838</ymax>
+        </bndbox>
+    </object>
+</annotation>

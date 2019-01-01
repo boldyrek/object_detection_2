@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-toppicksauto-used-vehicle-2012-dodge-grand-caravan-sesxt-id8975642-htm-2018-11-22-14_32_57.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>8295</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1013</xmin>
+            <ymin>689</ymin>
+            <xmax>1058</xmax>
+            <ymax>734</ymax>
+        </bndbox>
+    </object>
+</annotation>

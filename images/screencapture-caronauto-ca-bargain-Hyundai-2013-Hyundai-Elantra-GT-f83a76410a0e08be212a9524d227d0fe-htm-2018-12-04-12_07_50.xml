@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-caronauto-ca-bargain-Hyundai-2013-Hyundai-Elantra-GT-f83a76410a0e08be212a9524d227d0fe-htm-2018-12-04-12_07_50.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3652</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>743</ymin>
+            <xmax>986</xmax>
+            <ymax>773</ymax>
+        </bndbox>
+    </object>
+</annotation>

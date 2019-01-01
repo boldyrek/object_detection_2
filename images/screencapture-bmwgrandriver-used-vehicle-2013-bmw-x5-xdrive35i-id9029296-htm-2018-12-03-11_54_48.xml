@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bmwgrandriver-used-vehicle-2013-bmw-x5-xdrive35i-id9029296-htm-2018-12-03-11_54_48.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2835</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>895</xmin>
+            <ymin>599</ymin>
+            <xmax>937</xmax>
+            <ymax>642</ymax>
+        </bndbox>
+    </object>
+</annotation>

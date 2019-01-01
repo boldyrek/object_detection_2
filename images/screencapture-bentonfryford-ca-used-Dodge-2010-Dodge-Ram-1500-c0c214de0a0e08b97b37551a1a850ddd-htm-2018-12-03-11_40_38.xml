@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bentonfryford-ca-used-Dodge-2010-Dodge-Ram-1500-c0c214de0a0e08b97b37551a1a850ddd-htm-2018-12-03-11_40_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3861</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>959</xmin>
+            <ymin>818</ymin>
+            <xmax>984</xmax>
+            <ymax>853</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-georgetownchev-used-vehicle-2014-dodge-journey-sxt-id9070461-htm-2018-11-28-17_18_44.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>8582</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>631</ymin>
+            <xmax>1052</xmax>
+            <ymax>655</ymax>
+        </bndbox>
+    </object>
+</annotation>

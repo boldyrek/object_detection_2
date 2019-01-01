@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-listowelkia-used-Volkswagen-2013-Volkswagen-Golf-32aad1e30a0e08bc0fb4d9577c0dbbf3-htm-2018-12-07-13_29_30.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3863</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>1200</ymin>
+            <xmax>984</xmax>
+            <ymax>1229</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gatineaugm-VehicleDetails-certified-2016-Chevrolet-Cruze-LT-Gatineau-QC-3138838863-2018-12-14-13_08_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4180</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>1005</ymin>
+            <xmax>696</xmax>
+            <ymax>1031</ymax>
+        </bndbox>
+    </object>
+</annotation>

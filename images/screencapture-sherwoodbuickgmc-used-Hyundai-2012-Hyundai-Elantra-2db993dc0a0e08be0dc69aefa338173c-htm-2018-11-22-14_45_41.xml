@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-sherwoodbuickgmc-used-Hyundai-2012-Hyundai-Elantra-2db993dc0a0e08be0dc69aefa338173c-htm-2018-11-22-14_45_41.jpg</filename>
+    <size>
+        <width>1930</width>
+        <height>4398</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1094</xmin>
+            <ymin>1000</ymin>
+            <xmax>1111</xmax>
+            <ymax>1033</ymax>
+        </bndbox>
+    </object>
+</annotation>

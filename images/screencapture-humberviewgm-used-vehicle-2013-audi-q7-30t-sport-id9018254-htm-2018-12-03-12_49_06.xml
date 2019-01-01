@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-humberviewgm-used-vehicle-2013-audi-q7-30t-sport-id9018254-htm-2018-12-03-12_49_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2891</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>912</xmin>
+            <ymin>579</ymin>
+            <xmax>932</xmax>
+            <ymax>605</ymax>
+        </bndbox>
+    </object>
+</annotation>

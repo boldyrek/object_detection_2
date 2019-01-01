@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kingstonhonda-used-vehicle-2004-chrysler-sebring-id8974678-htm-2018-11-22-14_20_40 (1).jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1493</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1018</xmin>
+            <ymin>518</ymin>
+            <xmax>1064</xmax>
+            <ymax>562</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-classichonda-ca-bargain-Honda-2008-Honda-CR-V-ef95c3230a0e0a3a2274b7ffbc9747e4-htm-2018-11-22-14_06_52.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6943</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1889</xmin>
+            <ymin>1603</ymin>
+            <xmax>1907</xmax>
+            <ymax>1627</ymax>
+        </bndbox>
+    </object>
+</annotation>

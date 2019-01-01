@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-linwoodauto-ca-certified-Ford-2011-Ford-Escape-e58464790a0e08ba7f1e022d84c18e13-htm-2018-12-01-19_18_07.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3036</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>751</ymin>
+            <xmax>983</xmax>
+            <ymax>778</ymax>
+        </bndbox>
+    </object>
+</annotation>

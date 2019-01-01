@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-huntclubnissan-used-Nissan-2010-Nissan-Versa-cc9c50bd0a0e08be358282a68ad59e60-htm-2018-11-30-17_36_53.jpg</filename>
+    <size>
+        <width>1687</width>
+        <height>3912</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>847</ymin>
+            <xmax>989</xmax>
+            <ymax>881</ymax>
+        </bndbox>
+    </object>
+</annotation>

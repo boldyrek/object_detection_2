@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-heuvelmanschev-ca-VehicleDetails-new-2019-Chevrolet-Equinox-Premier-Chatham-ON-3341043923-2018-12-14-12_26_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4291</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>786</ymin>
+            <xmax>695</xmax>
+            <ymax>810</ymax>
+        </bndbox>
+    </object>
+</annotation>

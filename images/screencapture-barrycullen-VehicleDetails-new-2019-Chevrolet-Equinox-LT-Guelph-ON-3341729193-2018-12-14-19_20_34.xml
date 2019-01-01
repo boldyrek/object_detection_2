@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-barrycullen-VehicleDetails-new-2019-Chevrolet-Equinox-LT-Guelph-ON-3341729193-2018-12-14-19_20_34.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2663</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>677</xmin>
+            <ymin>874</ymin>
+            <xmax>699</xmax>
+            <ymax>905</ymax>
+        </bndbox>
+    </object>
+</annotation>

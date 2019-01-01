@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvillevolkswagen-used-Volkswagen-2011-Volkswagen-Tiguan-66169ff60a0e0a4153485aeea1623434-htm-2018-12-01-20_13_20.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2251</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>784</ymin>
+            <xmax>977</xmax>
+            <ymax>813</ymax>
+        </bndbox>
+    </object>
+</annotation>

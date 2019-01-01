@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-millsbuickgmc-inventory-used-2010-volkswagen-golf-gti-2dr-hb-dsg-front-wheel-drive-2-door-car-wvwfv7aj9aw268992-2018-12-01-20_33_20.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3681</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>643</xmin>
+            <ymin>1001</ymin>
+            <xmax>656</xmax>
+            <ymax>1021</ymax>
+        </bndbox>
+    </object>
+</annotation>

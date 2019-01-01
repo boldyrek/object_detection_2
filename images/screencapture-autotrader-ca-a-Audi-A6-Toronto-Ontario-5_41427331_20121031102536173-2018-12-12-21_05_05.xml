@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Audi-A6-Toronto-Ontario-5_41427331_20121031102536173-2018-12-12-21_05_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3323</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>594</ymin>
+            <xmax>911</xmax>
+            <ymax>611</ymax>
+        </bndbox>
+    </object>
+</annotation>

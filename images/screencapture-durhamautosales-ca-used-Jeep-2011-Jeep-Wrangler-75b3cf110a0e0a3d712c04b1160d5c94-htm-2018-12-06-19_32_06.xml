@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-durhamautosales-ca-used-Jeep-2011-Jeep-Wrangler-75b3cf110a0e0a3d712c04b1160d5c94-htm-2018-12-06-19_32_06.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2779</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>802</ymin>
+            <xmax>983</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

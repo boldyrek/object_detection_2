@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bonnybrookauto-used-Chrysler-2013-Chrysler-200-14b5ee320a0e0a3a47e5d776a4d49de9-htm-2018-12-04-12_22_18.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3502</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>795</ymin>
+            <xmax>987</xmax>
+            <ymax>833</ymax>
+        </bndbox>
+    </object>
+</annotation>

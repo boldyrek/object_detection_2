@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-stricklandsgmc-VehicleDetails-used-2014-Volkswagen-Jetta_Sedan-DIESEL_COMFORTLINE-Brantford-ON-3341087773-2018-12-14-13_34_03.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4186</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>784</ymin>
+            <xmax>696</xmax>
+            <ymax>810</ymax>
+        </bndbox>
+    </object>
+</annotation>

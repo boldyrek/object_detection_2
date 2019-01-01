@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-donvalleynorthlexus-used-Honda-2013-Honda-Civic-Coupe-566a604f0a0e0a3f3e1afa9c634754a3-htm-2018-12-03-14_48_19.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2019</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>826</ymin>
+            <xmax>981</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

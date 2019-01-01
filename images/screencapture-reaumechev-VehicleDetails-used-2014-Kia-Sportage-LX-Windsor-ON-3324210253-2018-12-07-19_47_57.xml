@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-reaumechev-VehicleDetails-used-2014-Kia-Sportage-LX-Windsor-ON-3324210253-2018-12-07-19_47_57.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3128</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>767</xmin>
+            <ymin>781</ymin>
+            <xmax>803</xmax>
+            <ymax>827</ymax>
+        </bndbox>
+    </object>
+</annotation>

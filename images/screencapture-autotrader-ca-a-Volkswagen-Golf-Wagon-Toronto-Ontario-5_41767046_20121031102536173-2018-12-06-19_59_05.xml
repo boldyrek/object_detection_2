@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Volkswagen-Golf-Wagon-Toronto-Ontario-5_41767046_20121031102536173-2018-12-06-19_59_05.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3043</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>994</xmin>
+            <ymin>468</ymin>
+            <xmax>1014</xmax>
+            <ymax>489</ymax>
+        </bndbox>
+    </object>
+</annotation>

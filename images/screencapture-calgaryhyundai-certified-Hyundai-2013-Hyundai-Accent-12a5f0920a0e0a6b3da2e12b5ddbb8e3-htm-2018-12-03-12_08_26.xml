@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-calgaryhyundai-certified-Hyundai-2013-Hyundai-Accent-12a5f0920a0e0a6b3da2e12b5ddbb8e3-htm-2018-12-03-12_08_26.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4954</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1008</xmin>
+            <ymin>966</ymin>
+            <xmax>1025</xmax>
+            <ymax>993</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carsinlobo-ca-inventory-2007-honda-accord-3096586-2018-11-23-16_40_48.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3311</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>699</xmin>
+            <ymin>571</ymin>
+            <xmax>751</xmax>
+            <ymax>626</ymax>
+        </bndbox>
+    </object>
+</annotation>

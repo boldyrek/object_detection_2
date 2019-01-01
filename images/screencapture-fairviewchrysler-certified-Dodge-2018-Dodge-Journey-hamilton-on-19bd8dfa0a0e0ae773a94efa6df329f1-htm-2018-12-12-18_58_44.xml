@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-fairviewchrysler-certified-Dodge-2018-Dodge-Journey-hamilton-on-19bd8dfa0a0e0ae773a94efa6df329f1-htm-2018-12-12-18_58_44.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>768</ymin>
+            <xmax>881</xmax>
+            <ymax>790</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gusbrown-VehicleDetails-used-2011-Ford-Fusion-4dr_Sdn_I4_SEL_FWD-Whitby-ON-3340955993-2018-12-12-17_33_30.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3329</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>670</xmin>
+            <ymin>823</ymin>
+            <xmax>707</xmax>
+            <ymax>890</ymax>
+        </bndbox>
+    </object>
+</annotation>

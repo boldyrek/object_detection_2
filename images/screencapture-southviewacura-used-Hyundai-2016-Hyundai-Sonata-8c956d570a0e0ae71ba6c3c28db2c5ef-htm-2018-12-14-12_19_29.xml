@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southviewacura-used-Hyundai-2016-Hyundai-Sonata-8c956d570a0e0ae71ba6c3c28db2c5ef-htm-2018-12-14-12_19_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4868</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>904</xmin>
+            <ymin>940</ymin>
+            <xmax>924</xmax>
+            <ymax>974</ymax>
+        </bndbox>
+    </object>
+</annotation>

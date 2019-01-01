@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-paramountfinecars-ca-certified-Land-Rover-2014-Land-Rover-Range-Rover-18d65e120a0e08bc75d004d02454350e-htm-2018-12-09-09_51_41.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1812</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>828</ymin>
+            <xmax>984</xmax>
+            <ymax>863</ymax>
+        </bndbox>
+    </object>
+</annotation>

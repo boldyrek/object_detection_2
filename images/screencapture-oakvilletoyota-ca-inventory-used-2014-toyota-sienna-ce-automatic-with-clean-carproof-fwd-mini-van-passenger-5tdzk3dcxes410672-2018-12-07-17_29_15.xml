@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-oakvilletoyota-ca-inventory-used-2014-toyota-sienna-ce-automatic-with-clean-carproof-fwd-mini-van-passenger-5tdzk3dcxes410672-2018-12-07-17_29_15.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4433</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1036</xmin>
+            <ymin>920</ymin>
+            <xmax>1070</xmax>
+            <ymax>955</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariocars-ca-for-sale-2015-jeep-wrangler-unlimited-4wd-4dr-sahara-f6d419ee-85bb-4503-a5fa-743986fffba0-2018-12-14-12_51_36.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5170</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1421</xmin>
+            <ymin>452</ymin>
+            <xmax>1442</xmax>
+            <ymax>469</ymax>
+        </bndbox>
+    </object>
+</annotation>

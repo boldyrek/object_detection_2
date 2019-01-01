@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-wendellmotor-certified-Chrysler-2013-Chrysler-200-36a2267a0a0e0a1714cd7890d12574a3-htm-2018-12-08-19_53_39.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3963</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>889</ymin>
+            <xmax>986</xmax>
+            <ymax>914</ymax>
+        </bndbox>
+    </object>
+</annotation>

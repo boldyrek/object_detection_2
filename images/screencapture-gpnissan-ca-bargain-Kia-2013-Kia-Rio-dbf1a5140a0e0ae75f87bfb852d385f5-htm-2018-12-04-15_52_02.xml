@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gpnissan-ca-bargain-Kia-2013-Kia-Rio-dbf1a5140a0e0ae75f87bfb852d385f5-htm-2018-12-04-15_52_02.jpg</filename>
+    <size>
+        <width>1687</width>
+        <height>4201</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>874</ymin>
+            <xmax>989</xmax>
+            <ymax>907</ymax>
+        </bndbox>
+    </object>
+</annotation>

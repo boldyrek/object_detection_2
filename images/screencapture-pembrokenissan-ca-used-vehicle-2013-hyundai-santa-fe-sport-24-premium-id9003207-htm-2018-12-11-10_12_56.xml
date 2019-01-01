@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-pembrokenissan-ca-used-vehicle-2013-hyundai-santa-fe-sport-24-premium-id9003207-htm-2018-12-11-10_12_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8707</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>1125</ymin>
+            <xmax>833</xmax>
+            <ymax>1134</ymax>
+        </bndbox>
+    </object>
+</annotation>

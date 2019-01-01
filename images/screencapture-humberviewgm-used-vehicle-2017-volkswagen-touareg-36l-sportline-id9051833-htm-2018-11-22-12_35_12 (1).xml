@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-humberviewgm-used-vehicle-2017-volkswagen-touareg-36l-sportline-id9051833-htm-2018-11-22-12_35_12 (1).jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2810</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>573</ymin>
+            <xmax>1053</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

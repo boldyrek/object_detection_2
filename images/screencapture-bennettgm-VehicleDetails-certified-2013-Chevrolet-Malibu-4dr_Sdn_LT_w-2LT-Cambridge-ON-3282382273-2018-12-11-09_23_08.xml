@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-certified-2013-Chevrolet-Malibu-4dr_Sdn_LT_w-2LT-Cambridge-ON-3282382273-2018-12-11-09_23_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4248</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>678</xmin>
+            <ymin>851</ymin>
+            <xmax>698</xmax>
+            <ymax>881</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davisgmctrucks-ca-used-vehicle-2017-chevrolet-sonic-lt-auto-id8922610-htm-2018-11-22-12_58_17.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6374</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1013</xmin>
+            <ymin>863</ymin>
+            <xmax>1057</xmax>
+            <ymax>909</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wapitiautosales-used-Ford-2013-Ford-Escape-67c3a1410a0e0a3d60f51e87710a8674-htm-2018-12-04-15_51_00.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3071</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>958</xmin>
+            <ymin>807</ymin>
+            <xmax>971</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>
+</annotation>

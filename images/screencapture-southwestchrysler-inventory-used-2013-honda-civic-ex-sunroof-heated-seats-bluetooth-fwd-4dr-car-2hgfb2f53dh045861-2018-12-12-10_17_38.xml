@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-southwestchrysler-inventory-used-2013-honda-civic-ex-sunroof-heated-seats-bluetooth-fwd-4dr-car-2hgfb2f53dh045861-2018-12-12-10_17_38.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4571</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>931</xmin>
+            <ymin>1003</ymin>
+            <xmax>965</xmax>
+            <ymax>1037</ymax>
+        </bndbox>
+    </object>
+</annotation>

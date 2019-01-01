@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-montbleuford-net-used-Ford-2017-Ford-F-150-89893b200a0e08be65735b2cf6021a99-htm-2018-12-13-10_21_44.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2635</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>806</xmin>
+            <ymin>877</ymin>
+            <xmax>816</xmax>
+            <ymax>890</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-brantfordkia-certified-Kia-2016-Kia-Sorento-fd3ed14f0a0e0ae73012eceb2a5a7be1-htm-2018-12-14-11_10_42.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>826</xmin>
+            <ymin>922</ymin>
+            <xmax>872</xmax>
+            <ymax>983</ymax>
+        </bndbox>
+    </object>
+</annotation>

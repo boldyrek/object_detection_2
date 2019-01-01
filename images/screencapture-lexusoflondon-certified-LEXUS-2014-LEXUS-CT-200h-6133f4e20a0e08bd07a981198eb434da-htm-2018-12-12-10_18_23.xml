@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lexusoflondon-certified-LEXUS-2014-LEXUS-CT-200h-6133f4e20a0e08bd07a981198eb434da-htm-2018-12-12-10_18_23.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2718</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>920</ymin>
+            <xmax>884</xmax>
+            <ymax>950</ymax>
+        </bndbox>
+    </object>
+</annotation>

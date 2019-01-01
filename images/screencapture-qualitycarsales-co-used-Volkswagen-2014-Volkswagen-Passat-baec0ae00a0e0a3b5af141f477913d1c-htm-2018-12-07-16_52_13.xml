@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-qualitycarsales-co-used-Volkswagen-2014-Volkswagen-Passat-baec0ae00a0e0a3b5af141f477913d1c-htm-2018-12-07-16_52_13.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1811</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>792</ymin>
+            <xmax>926</xmax>
+            <ymax>816</ymax>
+        </bndbox>
+    </object>
+</annotation>

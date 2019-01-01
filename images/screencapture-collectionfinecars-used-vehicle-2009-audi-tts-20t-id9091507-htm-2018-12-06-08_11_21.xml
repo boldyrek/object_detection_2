@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-collectionfinecars-used-vehicle-2009-audi-tts-20t-id9091507-htm-2018-12-06-08_11_21.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7643</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>695</ymin>
+            <xmax>943</xmax>
+            <ymax>740</ymax>
+        </bndbox>
+    </object>
+</annotation>

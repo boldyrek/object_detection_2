@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-goodwillsusedcars-ca-used-Dodge-2017-Dodge-Grand-Caravan-40e7347a0a0e08bb523f1b075f40bbe6-htm-2018-11-28-16_43_56.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2405</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>759</ymin>
+            <xmax>1107</xmax>
+            <ymax>793</ymax>
+        </bndbox>
+    </object>
+</annotation>

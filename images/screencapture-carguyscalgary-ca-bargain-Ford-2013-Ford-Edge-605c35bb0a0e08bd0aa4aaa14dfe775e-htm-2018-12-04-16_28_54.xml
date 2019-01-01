@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carguyscalgary-ca-bargain-Ford-2013-Ford-Edge-605c35bb0a0e08bd0aa4aaa14dfe775e-htm-2018-12-04-16_28_54.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>726</xmin>
+            <ymin>543</ymin>
+            <xmax>740</xmax>
+            <ymax>567</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-sherwoodpark-vw-ca-inventory-certified-used-2013-volkswagen-jetta-sedan-comfortline-fwd-4dr-car-3vwdl7aj7dm380057-2018-12-04-16_40_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5134</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>1002</ymin>
+            <xmax>1069</xmax>
+            <ymax>1037</ymax>
+        </bndbox>
+    </object>
+</annotation>

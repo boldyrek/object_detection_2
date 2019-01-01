@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-royalchev-VehicleDetails-used-2016-Ford-F_150-XLT__LUXURY_PKG-Orangeville-ON-3342050643-2018-12-14-13_25_18.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3685</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>918</ymin>
+            <xmax>695</xmax>
+            <ymax>943</ymax>
+        </bndbox>
+    </object>
+</annotation>

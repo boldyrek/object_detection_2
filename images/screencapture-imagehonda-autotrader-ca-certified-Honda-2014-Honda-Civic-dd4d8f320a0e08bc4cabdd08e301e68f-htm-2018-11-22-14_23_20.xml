@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-imagehonda-autotrader-ca-certified-Honda-2014-Honda-Civic-dd4d8f320a0e08bc4cabdd08e301e68f-htm-2018-11-22-14_23_20.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3345</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1089</xmin>
+            <ymin>897</ymin>
+            <xmax>1101</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

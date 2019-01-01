@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-laplantecadillac-VehicleDetails-certified-2013-GMC-Terrain-SLE_2-Hawkesbury-ON-3310938603-2018-12-10-13_07_37.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4982</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>775</xmin>
+            <ymin>850</ymin>
+            <xmax>800</xmax>
+            <ymax>878</ymax>
+        </bndbox>
+    </object>
+</annotation>

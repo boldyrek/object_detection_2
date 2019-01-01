@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffaudi-used-vehicle-2015-audi-q3-20t-progressiv-id9063011-htm-2018-11-23-16_04_32.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2897</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>566</ymin>
+            <xmax>1053</xmax>
+            <ymax>591</ymax>
+        </bndbox>
+    </object>
+</annotation>

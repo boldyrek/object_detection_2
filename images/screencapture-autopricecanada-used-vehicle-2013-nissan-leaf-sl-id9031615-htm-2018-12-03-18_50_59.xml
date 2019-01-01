@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopricecanada-used-vehicle-2013-nissan-leaf-sl-id9031615-htm-2018-12-03-18_50_59.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7807</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>637</ymin>
+            <xmax>943</xmax>
+            <ymax>682</ymax>
+        </bndbox>
+    </object>
+</annotation>

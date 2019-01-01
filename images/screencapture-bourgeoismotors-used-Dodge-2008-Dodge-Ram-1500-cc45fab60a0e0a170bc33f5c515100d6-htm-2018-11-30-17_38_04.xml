@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bourgeoismotors-used-Dodge-2008-Dodge-Ram-1500-cc45fab60a0e0a170bc33f5c515100d6-htm-2018-11-30-17_38_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2343</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>920</ymin>
+            <xmax>973</xmax>
+            <ymax>941</ymax>
+        </bndbox>
+    </object>
+</annotation>

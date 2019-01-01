@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Chevrolet-Silverado-1500-Ottawa-Ontario-5_41113756_20151103120223859-2018-12-13-18_56_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3236</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>597</ymin>
+            <xmax>909</xmax>
+            <ymax>608</ymax>
+        </bndbox>
+    </object>
+</annotation>

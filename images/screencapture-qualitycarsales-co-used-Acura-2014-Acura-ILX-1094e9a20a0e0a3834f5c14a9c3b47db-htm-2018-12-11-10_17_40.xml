@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-qualitycarsales-co-used-Acura-2014-Acura-ILX-1094e9a20a0e0a3834f5c14a9c3b47db-htm-2018-12-11-10_17_40.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1983</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>806</xmin>
+            <ymin>810</ymin>
+            <xmax>816</xmax>
+            <ymax>820</ymax>
+        </bndbox>
+    </object>
+</annotation>

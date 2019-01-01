@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mazdaoftoronto-bargain-Mazda-2013-Mazda-Mazda3-d7b47eac0a0e0a3c687c27d0623f68ea-htm-2018-12-09-09_52_49.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3354</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>752</ymin>
+            <xmax>985</xmax>
+            <ymax>784</ymax>
+        </bndbox>
+    </object>
+</annotation>

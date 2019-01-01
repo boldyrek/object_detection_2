@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-favoritmotors-ca-used-BMW-2014-BMW-X5-toronto-61ae55be0a0e08b9234fccd9c7066108-htm-2018-12-08-20_47_22.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2378</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>951</xmin>
+            <ymin>750</ymin>
+            <xmax>967</xmax>
+            <ymax>774</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-barriehonda-used-vehicle-2015-honda-cr-v-touring-id9057587-htm-2018-11-28-17_12_05.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>8843</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>633</ymin>
+            <xmax>1065</xmax>
+            <ymax>679</ymax>
+        </bndbox>
+    </object>
+</annotation>

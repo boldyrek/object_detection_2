@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-myfamilyhonda-used-vehicle-2010-subaru-outback-25i-comes-with-winter-tires-id9067294-htm-2018-11-30-16_01_19 (1).jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2411</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>893</xmin>
+            <ymin>622</ymin>
+            <xmax>935</xmax>
+            <ymax>666</ymax>
+        </bndbox>
+    </object>
+</annotation>

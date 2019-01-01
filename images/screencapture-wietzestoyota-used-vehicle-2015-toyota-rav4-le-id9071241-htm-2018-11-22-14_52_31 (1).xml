@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wietzestoyota-used-vehicle-2015-toyota-rav4-le-id9071241-htm-2018-11-22-14_52_31 (1).jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>10284</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1029</xmin>
+            <ymin>608</ymin>
+            <xmax>1048</xmax>
+            <ymax>633</ymax>
+        </bndbox>
+    </object>
+</annotation>

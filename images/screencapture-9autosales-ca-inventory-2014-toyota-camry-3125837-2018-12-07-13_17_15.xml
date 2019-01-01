@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-9autosales-ca-inventory-2014-toyota-camry-3125837-2018-12-07-13_17_15.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3258</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>589</xmin>
+            <ymin>496</ymin>
+            <xmax>634</xmax>
+            <ymax>541</ymax>
+        </bndbox>
+    </object>
+</annotation>

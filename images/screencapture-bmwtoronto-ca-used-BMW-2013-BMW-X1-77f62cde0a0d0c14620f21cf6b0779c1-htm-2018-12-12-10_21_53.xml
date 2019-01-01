@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bmwtoronto-ca-used-BMW-2013-BMW-X1-77f62cde0a0d0c14620f21cf6b0779c1-htm-2018-12-12-10_21_53.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2951</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>850</xmin>
+            <ymin>828</ymin>
+            <xmax>891</xmax>
+            <ymax>872</ymax>
+        </bndbox>
+    </object>
+</annotation>

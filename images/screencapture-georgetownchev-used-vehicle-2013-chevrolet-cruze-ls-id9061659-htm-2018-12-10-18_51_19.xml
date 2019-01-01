@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-georgetownchev-used-vehicle-2013-chevrolet-cruze-ls-id9061659-htm-2018-12-10-18_51_19.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>6364</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>1019</ymin>
+            <xmax>833</xmax>
+            <ymax>1028</ymax>
+        </bndbox>
+    </object>
+</annotation>

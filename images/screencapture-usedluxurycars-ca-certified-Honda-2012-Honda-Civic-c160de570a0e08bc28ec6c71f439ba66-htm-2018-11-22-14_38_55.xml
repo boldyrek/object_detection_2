@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-usedluxurycars-ca-certified-Honda-2012-Honda-Civic-c160de570a0e08bc28ec6c71f439ba66-htm-2018-11-22-14_38_55.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3296</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>880</ymin>
+            <xmax>1104</xmax>
+            <ymax>910</ymax>
+        </bndbox>
+    </object>
+</annotation>

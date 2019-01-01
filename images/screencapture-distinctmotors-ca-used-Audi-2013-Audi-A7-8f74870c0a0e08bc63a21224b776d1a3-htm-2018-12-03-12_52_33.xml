@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-distinctmotors-ca-used-Audi-2013-Audi-A7-8f74870c0a0e08bc63a21224b776d1a3-htm-2018-12-03-12_52_33.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3366</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>712</ymin>
+            <xmax>982</xmax>
+            <ymax>743</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bayautozone-certified-Volkswagen-2014-Volkswagen-Jetta-Toronto-432579720a0e08bc2d13801b000767d5-htm-2018-12-07-17_57_55.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4043</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>828</ymin>
+            <xmax>984</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

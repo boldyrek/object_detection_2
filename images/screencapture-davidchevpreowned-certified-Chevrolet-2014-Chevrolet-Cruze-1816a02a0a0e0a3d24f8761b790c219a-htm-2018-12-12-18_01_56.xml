@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-certified-Chevrolet-2014-Chevrolet-Cruze-1816a02a0a0e0a3d24f8761b790c219a-htm-2018-12-12-18_01_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2208</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>647</ymin>
+            <xmax>638</xmax>
+            <ymax>670</ymax>
+        </bndbox>
+    </object>
+</annotation>

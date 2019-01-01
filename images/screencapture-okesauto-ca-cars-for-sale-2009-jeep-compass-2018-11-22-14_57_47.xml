@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-okesauto-ca-cars-for-sale-2009-jeep-compass-2018-11-22-14_57_47.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1819</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1350</xmin>
+            <ymin>940</ymin>
+            <xmax>1384</xmax>
+            <ymax>974</ymax>
+        </bndbox>
+    </object>
+</annotation>

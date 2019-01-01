@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoparkbarrie-ca-used-vehicle-2014-chevrolet-malibu-1lt-id9102654-htm-2018-12-14-11_19_09.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2873</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>795</xmin>
+            <ymin>558</ymin>
+            <xmax>841</xmax>
+            <ymax>600</ymax>
+        </bndbox>
+    </object>
+</annotation>

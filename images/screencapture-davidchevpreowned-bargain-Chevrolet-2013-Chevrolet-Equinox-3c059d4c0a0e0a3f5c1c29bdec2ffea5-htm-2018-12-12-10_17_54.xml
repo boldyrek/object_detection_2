@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-bargain-Chevrolet-2013-Chevrolet-Equinox-3c059d4c0a0e0a3f5c1c29bdec2ffea5-htm-2018-12-12-10_17_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2224</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>645</ymin>
+            <xmax>638</xmax>
+            <ymax>671</ymax>
+        </bndbox>
+    </object>
+</annotation>

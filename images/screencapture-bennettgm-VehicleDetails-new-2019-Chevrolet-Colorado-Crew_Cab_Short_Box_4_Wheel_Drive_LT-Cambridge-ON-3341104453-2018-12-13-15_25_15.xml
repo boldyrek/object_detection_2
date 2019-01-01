@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-new-2019-Chevrolet-Colorado-Crew_Cab_Short_Box_4_Wheel_Drive_LT-Cambridge-ON-3341104453-2018-12-13-15_25_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5305</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>780</ymin>
+            <xmax>697</xmax>
+            <ymax>808</ymax>
+        </bndbox>
+    </object>
+</annotation>

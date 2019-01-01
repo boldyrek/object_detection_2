@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-betterwayautosales-used-Mazda-2009-Mazda-CX-9-hamilton-8f4605780a0e0a3f21865cc623564889-htm-2018-11-30-10_40_22.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>814</ymin>
+            <xmax>982</xmax>
+            <ymax>846</ymax>
+        </bndbox>
+    </object>
+</annotation>

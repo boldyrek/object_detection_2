@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southviewacura-used-Dodge-2013-Dodge-Durango-cae65d280a0e0aea5929001d17d6ee9c-htm-2018-12-03-18_15_10.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5431</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1006</xmin>
+            <ymin>978</ymin>
+            <xmax>1026</xmax>
+            <ymax>1013</ymax>
+        </bndbox>
+    </object>
+</annotation>

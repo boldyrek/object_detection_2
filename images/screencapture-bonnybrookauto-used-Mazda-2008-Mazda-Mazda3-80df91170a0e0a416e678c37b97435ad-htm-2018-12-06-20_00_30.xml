@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bonnybrookauto-used-Mazda-2008-Mazda-Mazda3-80df91170a0e0a416e678c37b97435ad-htm-2018-12-06-20_00_30.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3332</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>798</ymin>
+            <xmax>982</xmax>
+            <ymax>829</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-favoritmotors-ca-used-Volkswagen-2008-Volkswagen-GTI-toronto-6baff68d0a0e08b9234fccd9b9e30f50-htm-2018-12-06-08_30_19.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2103</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>950</xmin>
+            <ymin>750</ymin>
+            <xmax>965</xmax>
+            <ymax>774</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-apollopreowned-ca-vehicle-8269-2014-kia-sorento-lx-awd-v6-alloys-heated-seats-3-3l-2018-12-08-19_43_33.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2899</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>831</xmin>
+            <ymin>617</ymin>
+            <xmax>841</xmax>
+            <ymax>633</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-villagenissan-used-vehicle-2013-ford-escape-se-id8998639-htm-2018-12-11-08_25_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8131</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>827</xmin>
+            <ymin>930</ymin>
+            <xmax>835</xmax>
+            <ymax>940</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davewoodpre-owned-used-Nissan-2014-Nissan-Sentra-f81624360a0e0a3e084c77da180c3f4a-htm-2018-12-07-12_57_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3207</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>775</ymin>
+            <xmax>987</xmax>
+            <ymax>813</ymax>
+        </bndbox>
+    </object>
+</annotation>

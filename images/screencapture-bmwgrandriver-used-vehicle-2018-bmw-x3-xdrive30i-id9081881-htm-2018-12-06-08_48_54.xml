@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bmwgrandriver-used-vehicle-2018-bmw-x3-xdrive30i-id9081881-htm-2018-12-06-08_48_54.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8803</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>508</ymin>
+            <xmax>943</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+    </object>
+</annotation>

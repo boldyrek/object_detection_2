@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autoparkbarrie-ca-used-vehicle-2014-volkswagen-jetta-20-tdi-comfortline-id8980238-htm-2018-12-07-17_27_26.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2886</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>572</ymin>
+            <xmax>943</xmax>
+            <ymax>615</ymax>
+        </bndbox>
+    </object>
+</annotation>

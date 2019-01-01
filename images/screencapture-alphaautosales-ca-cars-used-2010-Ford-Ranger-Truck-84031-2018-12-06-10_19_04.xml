@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-alphaautosales-ca-cars-used-2010-Ford-Ranger-Truck-84031-2018-12-06-10_19_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2575</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1090</xmin>
+            <ymin>721</ymin>
+            <xmax>1121</xmax>
+            <ymax>840</ymax>
+        </bndbox>
+    </object>
+</annotation>

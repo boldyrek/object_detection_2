@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-xtremeautosales-ca-used-Chevrolet-2013-Chevrolet-Camaro-63db304d0a0e08b922885e023eea4bb4-htm-2018-12-03-18_44_34.jpg</filename>
+    <size>
+        <width>1809</width>
+        <height>3026</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>805</ymin>
+            <xmax>982</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>
+</annotation>

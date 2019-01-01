@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-richmondhillhonda-used-vehicle-2013-honda-accord-ex-l-navi-v6-id9087661-htm-2018-12-05-12_00_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8577</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>912</xmin>
+            <ymin>532</ymin>
+            <xmax>932</xmax>
+            <ymax>555</ymax>
+        </bndbox>
+    </object>
+</annotation>

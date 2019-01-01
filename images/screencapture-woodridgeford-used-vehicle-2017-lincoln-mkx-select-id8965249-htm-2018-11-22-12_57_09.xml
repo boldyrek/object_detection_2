@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-woodridgeford-used-vehicle-2017-lincoln-mkx-select-id8965249-htm-2018-11-22-12_57_09.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1028</xmin>
+            <ymin>622</ymin>
+            <xmax>1045</xmax>
+            <ymax>646</ymax>
+        </bndbox>
+    </object>
+</annotation>

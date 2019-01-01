@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-infinitidowntown-ca-used-LEXUS-2013-LEXUS-RX-450h-c88811280a0e0a6b6c3308db388871a5-htm-2018-12-01-06_57_54.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2518</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>935</ymin>
+            <xmax>983</xmax>
+            <ymax>966</ymax>
+        </bndbox>
+    </object>
+</annotation>

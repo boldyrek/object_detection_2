@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-silverzinc-ca-used-BMW-2011-BMW-X3-17e0fe2b0a0e08ba2808fcd2b4cfdd53-htm-2018-12-06-08_16_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1643</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>910</xmin>
+            <ymin>744</ymin>
+            <xmax>918</xmax>
+            <ymax>756</ymax>
+        </bndbox>
+    </object>
+</annotation>

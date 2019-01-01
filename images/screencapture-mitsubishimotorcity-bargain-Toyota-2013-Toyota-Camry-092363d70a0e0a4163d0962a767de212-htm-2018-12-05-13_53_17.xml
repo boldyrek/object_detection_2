@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-mitsubishimotorcity-bargain-Toyota-2013-Toyota-Camry-092363d70a0e0a4163d0962a767de212-htm-2018-12-05-13_53_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1888</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>595</ymin>
+            <xmax>740</xmax>
+            <ymax>618</ymax>
+        </bndbox>
+    </object>
+</annotation>

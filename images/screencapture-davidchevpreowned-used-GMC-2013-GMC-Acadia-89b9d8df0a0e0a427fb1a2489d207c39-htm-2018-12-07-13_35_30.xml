@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-used-GMC-2013-GMC-Acadia-89b9d8df0a0e0a427fb1a2489d207c39-htm-2018-12-07-13_35_30.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2187</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>728</xmin>
+            <ymin>634</ymin>
+            <xmax>742</xmax>
+            <ymax>659</ymax>
+        </bndbox>
+    </object>
+</annotation>

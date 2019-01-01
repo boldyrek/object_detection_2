@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-newwesternmotors-ca-used-Volkswagen-2013-Volkswagen-Jetta-0f796dbe0a0e08b93210bf34a6245097-htm-2018-12-07-17_28_46.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4076</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>824</ymin>
+            <xmax>985</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

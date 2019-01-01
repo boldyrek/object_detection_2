@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southpointetoyota-used-Calgary-2013-Toyota-RAV4-LE-AWD-2T3BFREV1DW020646-2018-12-09-11_34_09.jpg</filename>
+    <size>
+        <width>1695</width>
+        <height>2406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1613</xmin>
+            <ymin>321</ymin>
+            <xmax>1633</xmax>
+            <ymax>369</ymax>
+        </bndbox>
+    </object>
+</annotation>

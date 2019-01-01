@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-villagechryslerdodgejeepram-ca-used-Jeep-2018-Jeep-Grand-Cherokee-815f26d40a0e0adf66732d67a45f1e8c-htm-2018-12-12-16_54_07.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4087</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>849</ymin>
+            <xmax>881</xmax>
+            <ymax>872</ymax>
+        </bndbox>
+    </object>
+</annotation>

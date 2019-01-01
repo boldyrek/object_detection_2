@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-ashiemotorsales-used-Toyota-2008-Toyota-Tundra-31b189e90a0e0c583ebb9cecea8e9fc3-htm-2018-12-01-18_54_37.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>727</ymin>
+            <xmax>981</xmax>
+            <ymax>755</ymax>
+        </bndbox>
+    </object>
+</annotation>

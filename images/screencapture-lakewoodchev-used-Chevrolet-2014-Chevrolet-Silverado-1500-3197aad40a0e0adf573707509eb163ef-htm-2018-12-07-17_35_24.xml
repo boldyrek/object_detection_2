@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lakewoodchev-used-Chevrolet-2014-Chevrolet-Silverado-1500-3197aad40a0e0adf573707509eb163ef-htm-2018-12-07-17_35_24.jpg</filename>
+    <size>
+        <width>1690</width>
+        <height>4722</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>974</xmin>
+            <ymin>850</ymin>
+            <xmax>991</xmax>
+            <ymax>882</ymax>
+        </bndbox>
+    </object>
+</annotation>

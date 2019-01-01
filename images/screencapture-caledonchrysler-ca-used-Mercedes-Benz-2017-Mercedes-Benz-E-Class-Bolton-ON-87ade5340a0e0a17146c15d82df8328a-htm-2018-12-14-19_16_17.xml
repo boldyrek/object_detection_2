@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-caledonchrysler-ca-used-Mercedes-Benz-2017-Mercedes-Benz-E-Class-Bolton-ON-87ade5340a0e0a17146c15d82df8328a-htm-2018-12-14-19_16_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4069</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>916</ymin>
+            <xmax>882</xmax>
+            <ymax>940</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mtcauto-ca-used-Buick-2008-Buick-Enclave-6d441b160a0e08f740dccc974967a52d-htm-2018-11-22-14_27_57.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2141</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>863</ymin>
+            <xmax>1102</xmax>
+            <ymax>879</ymax>
+        </bndbox>
+    </object>
+</annotation>

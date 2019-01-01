@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2018-toyota-corolla-id8983593-htm-2018-12-14-10_54_57.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2806</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>827</xmin>
+            <ymin>968</ymin>
+            <xmax>833</xmax>
+            <ymax>976</ymax>
+        </bndbox>
+    </object>
+</annotation>

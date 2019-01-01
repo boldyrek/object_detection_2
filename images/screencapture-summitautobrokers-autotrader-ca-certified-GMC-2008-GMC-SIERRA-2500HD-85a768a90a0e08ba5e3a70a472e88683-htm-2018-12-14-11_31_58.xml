@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-summitautobrokers-autotrader-ca-certified-GMC-2008-GMC-SIERRA-2500HD-85a768a90a0e08ba5e3a70a472e88683-htm-2018-12-14-11_31_58.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2340</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>853</xmin>
+            <ymin>890</ymin>
+            <xmax>871</xmax>
+            <ymax>920</ymax>
+        </bndbox>
+    </object>
+</annotation>

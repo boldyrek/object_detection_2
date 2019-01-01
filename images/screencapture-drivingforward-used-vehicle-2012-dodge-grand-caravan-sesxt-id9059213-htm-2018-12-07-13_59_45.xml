@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-drivingforward-used-vehicle-2012-dodge-grand-caravan-sesxt-id9059213-htm-2018-12-07-13_59_45.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>7404</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>562</ymin>
+            <xmax>942</xmax>
+            <ymax>602</ymax>
+        </bndbox>
+    </object>
+</annotation>

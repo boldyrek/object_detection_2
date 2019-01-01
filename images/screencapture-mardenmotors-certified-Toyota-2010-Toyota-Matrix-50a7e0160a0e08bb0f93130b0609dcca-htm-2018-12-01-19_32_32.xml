@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mardenmotors-certified-Toyota-2010-Toyota-Matrix-50a7e0160a0e08bb0f93130b0609dcca-htm-2018-12-01-19_32_32.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3596</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>1020</ymin>
+            <xmax>982</xmax>
+            <ymax>1052</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Lexus-NX-Toronto-Ontario-5_41875825_20101022080026966-2018-12-14-12_52_52.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3352</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>620</ymin>
+            <xmax>912</xmax>
+            <ymax>632</ymax>
+        </bndbox>
+    </object>
+</annotation>

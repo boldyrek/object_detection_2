@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stampedetoyota-vehicle-details-used-2014-dodge-grand-caravan-4dr-wgn-30th-anniversary-ne-calgary-ab-id-26674683-2018-12-07-17_17_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2034</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>591</ymin>
+            <xmax>711</xmax>
+            <ymax>637</ymax>
+        </bndbox>
+    </object>
+</annotation>

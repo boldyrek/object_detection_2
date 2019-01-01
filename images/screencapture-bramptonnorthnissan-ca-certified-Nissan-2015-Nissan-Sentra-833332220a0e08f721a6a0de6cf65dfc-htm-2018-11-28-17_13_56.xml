@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bramptonnorthnissan-ca-certified-Nissan-2015-Nissan-Sentra-833332220a0e08f721a6a0de6cf65dfc-htm-2018-11-28-17_13_56.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5593</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1144</xmin>
+            <ymin>736</ymin>
+            <xmax>1161</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

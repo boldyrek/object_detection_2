@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopiacars-ca-certified-BMW-2014-BMW-M6-ec07a1640a0e08f767261c644e2b9193-htm-2018-12-10-18_54_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3674</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>861</xmin>
+            <ymin>742</ymin>
+            <xmax>880</xmax>
+            <ymax>772</ymax>
+        </bndbox>
+    </object>
+</annotation>

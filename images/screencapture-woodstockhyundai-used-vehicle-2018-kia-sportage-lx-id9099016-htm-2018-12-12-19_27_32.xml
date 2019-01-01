@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-woodstockhyundai-used-vehicle-2018-kia-sportage-lx-id9099016-htm-2018-12-12-19_27_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2967</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>977</ymin>
+            <xmax>833</xmax>
+            <ymax>985</ymax>
+        </bndbox>
+    </object>
+</annotation>

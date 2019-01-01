@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carnationcanadadirect-ca-certified-Audi-2013-Audi-A4-c5da43370a0e08ba4cfb8f501f67e1a4-htm-2018-12-04-10_39_36.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2556</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>818</ymin>
+            <xmax>983</xmax>
+            <ymax>849</ymax>
+        </bndbox>
+    </object>
+</annotation>

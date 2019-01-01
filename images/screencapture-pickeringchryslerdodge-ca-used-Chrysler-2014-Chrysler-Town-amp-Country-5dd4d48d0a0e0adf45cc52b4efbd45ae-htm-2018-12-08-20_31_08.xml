@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pickeringchryslerdodge-ca-used-Chrysler-2014-Chrysler-Town-amp-Country-5dd4d48d0a0e0adf45cc52b4efbd45ae-htm-2018-12-08-20_31_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4495</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>834</ymin>
+            <xmax>986</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

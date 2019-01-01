@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southpointetoyota-used-Calgary-2011-Toyota-Tacoma-TRD-Sport-Lift-Kit-Remote-Start-5TFMU4FN9BX003442-2018-12-01-20_18_39.jpg</filename>
+    <size>
+        <width>1692</width>
+        <height>2406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1611</xmin>
+            <ymin>320</ymin>
+            <xmax>1630</xmax>
+            <ymax>369</ymax>
+        </bndbox>
+    </object>
+</annotation>

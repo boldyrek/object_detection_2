@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-needacartrenton-used-Chevrolet-2011-Chevrolet-Silverado-1500-7f3df0900a0e0a3e318999243b491199-htm-2018-12-06-10_14_31.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3414</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>893</ymin>
+            <xmax>983</xmax>
+            <ymax>924</ymax>
+        </bndbox>
+    </object>
+</annotation>

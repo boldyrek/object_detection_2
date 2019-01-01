@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-donvalleynorthhyundai-used-Hyundai-2013-Hyundai-Sonata-7adc402f0a0e08f704d62b6a698f57d5-htm-2018-12-11-09_08_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2209</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>861</xmin>
+            <ymin>799</ymin>
+            <xmax>878</xmax>
+            <ymax>829</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-westendautomotive-certified-Mazda-2016-Mazda-Mazda3-b51f0eda0a0e0a3d5a2a4419b1eae110-htm-2018-11-23-14_58_27.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2841</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1079</xmin>
+            <ymin>799</ymin>
+            <xmax>1093</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

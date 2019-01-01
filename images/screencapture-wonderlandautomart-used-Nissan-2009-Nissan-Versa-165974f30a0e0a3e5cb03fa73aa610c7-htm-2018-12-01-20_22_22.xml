@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-wonderlandautomart-used-Nissan-2009-Nissan-Versa-165974f30a0e0a3e5cb03fa73aa610c7-htm-2018-12-01-20_22_22.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2888</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>742</ymin>
+            <xmax>983</xmax>
+            <ymax>779</ymax>
+        </bndbox>
+    </object>
+</annotation>

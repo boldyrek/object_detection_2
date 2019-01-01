@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carsmartniagara-ca-certified-Honda-2012-Honda-Odyssey-38bc2b330a0e08be0dc69aefa9c03628-htm-2018-12-13-11_10_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2015</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>799</xmin>
+            <ymin>905</ymin>
+            <xmax>822</xmax>
+            <ymax>928</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-parkwaynissan-used-vehicle-2014-nissan-versa-note-16-sv-id8938980-htm-2018-12-07-12_27_46.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8178</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>897</xmin>
+            <ymin>510</ymin>
+            <xmax>950</xmax>
+            <ymax>566</ymax>
+        </bndbox>
+    </object>
+</annotation>

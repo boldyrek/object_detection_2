@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-penlease-certified-GMC-2014-GMC-Terrain-4db174d30a0e0c583ebb9cec20937a16-htm-2018-12-12-09_48_01.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3467</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>733</ymin>
+            <xmax>880</xmax>
+            <ymax>766</ymax>
+        </bndbox>
+    </object>
+</annotation>

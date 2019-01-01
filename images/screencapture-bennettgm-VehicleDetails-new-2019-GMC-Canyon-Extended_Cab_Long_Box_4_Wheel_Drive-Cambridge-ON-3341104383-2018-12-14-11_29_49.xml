@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-new-2019-GMC-Canyon-Extended_Cab_Long_Box_4_Wheel_Drive-Cambridge-ON-3341104383-2018-12-14-11_29_49.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4379</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>677</xmin>
+            <ymin>778</ymin>
+            <xmax>699</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+</annotation>

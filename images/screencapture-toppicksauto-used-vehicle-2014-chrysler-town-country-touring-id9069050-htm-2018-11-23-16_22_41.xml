@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-toppicksauto-used-vehicle-2014-chrysler-town-country-touring-id9069050-htm-2018-11-23-16_22_41.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>8738</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1029</xmin>
+            <ymin>705</ymin>
+            <xmax>1048</xmax>
+            <ymax>730</ymax>
+        </bndbox>
+    </object>
+</annotation>

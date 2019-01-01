@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-capitaljeep-used-Toyota-2016-Toyota-Tacoma-edmonton-66f91b080a0e0a6b2b64b193ebb5bc35-htm-2018-11-22-12_44_57.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5739</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1122</xmin>
+            <ymin>976</ymin>
+            <xmax>1150</xmax>
+            <ymax>1017</ymax>
+        </bndbox>
+    </object>
+</annotation>

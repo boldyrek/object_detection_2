@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-certified-Ford-2013-Ford-Fusion-1b0511950a0e0a4002f2a9a486be71bf-htm-2018-12-03-19_09_37.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3001</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>986</xmin>
+            <ymin>777</ymin>
+            <xmax>1002</xmax>
+            <ymax>806</ymax>
+        </bndbox>
+    </object>
+</annotation>

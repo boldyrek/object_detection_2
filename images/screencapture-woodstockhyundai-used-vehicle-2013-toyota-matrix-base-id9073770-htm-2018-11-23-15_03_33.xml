@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-woodstockhyundai-used-vehicle-2013-toyota-matrix-base-id9073770-htm-2018-11-23-15_03_33.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1984</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1018</xmin>
+            <ymin>567</ymin>
+            <xmax>1064</xmax>
+            <ymax>611</ymax>
+        </bndbox>
+    </object>
+</annotation>

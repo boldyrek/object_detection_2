@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stouffvilletoyota-used-vehicle-2014-toyota-yaris-le-id9073795-htm-2018-12-07-16_51_12.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>6816</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>538</ymin>
+            <xmax>946</xmax>
+            <ymax>577</ymax>
+        </bndbox>
+    </object>
+</annotation>

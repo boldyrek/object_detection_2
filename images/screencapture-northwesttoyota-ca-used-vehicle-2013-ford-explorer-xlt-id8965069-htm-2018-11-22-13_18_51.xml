@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-northwesttoyota-ca-used-vehicle-2013-ford-explorer-xlt-id8965069-htm-2018-11-22-13_18_51.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7904</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1026</xmin>
+            <ymin>800</ymin>
+            <xmax>1047</xmax>
+            <ymax>826</ymax>
+        </bndbox>
+    </object>
+</annotation>

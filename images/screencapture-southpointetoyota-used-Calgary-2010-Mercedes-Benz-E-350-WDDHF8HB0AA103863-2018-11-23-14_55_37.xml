@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southpointetoyota-used-Calgary-2010-Mercedes-Benz-E-350-WDDHF8HB0AA103863-2018-11-23-14_55_37.jpg</filename>
+    <size>
+        <width>1935</width>
+        <height>2342</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1847</xmin>
+            <ymin>291</ymin>
+            <xmax>1867</xmax>
+            <ymax>340</ymax>
+        </bndbox>
+    </object>
+</annotation>

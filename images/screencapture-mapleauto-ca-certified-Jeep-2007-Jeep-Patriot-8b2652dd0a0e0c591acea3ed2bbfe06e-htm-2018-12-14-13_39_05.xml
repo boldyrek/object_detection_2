@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mapleauto-ca-certified-Jeep-2007-Jeep-Patriot-8b2652dd0a0e0c591acea3ed2bbfe06e-htm-2018-12-14-13_39_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2989</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>801</ymin>
+            <xmax>879</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

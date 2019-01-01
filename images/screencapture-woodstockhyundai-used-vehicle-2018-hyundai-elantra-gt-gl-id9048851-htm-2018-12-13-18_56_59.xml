@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-woodstockhyundai-used-vehicle-2018-hyundai-elantra-gt-gl-id9048851-htm-2018-12-13-18_56_59.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2959</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>972</ymin>
+            <xmax>833</xmax>
+            <ymax>980</ymax>
+        </bndbox>
+    </object>
+</annotation>

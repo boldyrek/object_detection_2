@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-Acura-TSX-Scarborough-Ontario-5_41030510_20160908190331714-2018-12-05-12_35_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3081</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>992</xmin>
+            <ymin>468</ymin>
+            <xmax>1013</xmax>
+            <ymax>487</ymax>
+        </bndbox>
+    </object>
+</annotation>

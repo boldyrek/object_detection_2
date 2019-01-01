@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stongerecreation-used-Ford-2010-Ford-Mustang-40be54eb0a0e08bd0aa4aaa1bafee0a4-htm-2018-12-01-20_17_18.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2116</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>822</ymin>
+            <xmax>982</xmax>
+            <ymax>851</ymax>
+        </bndbox>
+    </object>
+</annotation>

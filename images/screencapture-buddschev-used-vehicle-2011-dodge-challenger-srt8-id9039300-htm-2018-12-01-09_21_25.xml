@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-buddschev-used-vehicle-2011-dodge-challenger-srt8-id9039300-htm-2018-12-01-09_21_25.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8590</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>896</xmin>
+            <ymin>857</ymin>
+            <xmax>943</xmax>
+            <ymax>910</ymax>
+        </bndbox>
+    </object>
+</annotation>

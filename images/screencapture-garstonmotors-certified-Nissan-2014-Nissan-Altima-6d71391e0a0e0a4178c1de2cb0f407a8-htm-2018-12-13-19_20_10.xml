@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-certified-Nissan-2014-Nissan-Altima-6d71391e0a0e0a4178c1de2cb0f407a8-htm-2018-12-13-19_20_10.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3025</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>884</xmin>
+            <ymin>777</ymin>
+            <xmax>899</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

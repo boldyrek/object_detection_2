@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-theomotors-ca-certified-Toyota-2016-Toyota-Sienna-8d95b0190a0e0a3e6d8c9742fc60d297-htm-2018-11-28-16_07_00.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3295</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>726</ymin>
+            <xmax>1103</xmax>
+            <ymax>756</ymax>
+        </bndbox>
+    </object>
+</annotation>

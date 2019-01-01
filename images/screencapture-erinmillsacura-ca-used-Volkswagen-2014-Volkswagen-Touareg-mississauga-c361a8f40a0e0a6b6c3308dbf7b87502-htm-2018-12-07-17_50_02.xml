@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-erinmillsacura-ca-used-Volkswagen-2014-Volkswagen-Touareg-mississauga-c361a8f40a0e0a6b6c3308dbf7b87502-htm-2018-12-07-17_50_02.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4137</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>949</xmin>
+            <ymin>616</ymin>
+            <xmax>961</xmax>
+            <ymax>638</ymax>
+        </bndbox>
+    </object>
+</annotation>

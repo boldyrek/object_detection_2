@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-alexandriaautosales-ca-used-Acura-2010-Acura-TL-88e3dbf80a0e0a3d356c86a12a8c2815-htm-2018-11-22-13_22_24.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3341</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1084</xmin>
+            <ymin>719</ymin>
+            <xmax>1103</xmax>
+            <ymax>747</ymax>
+        </bndbox>
+    </object>
+</annotation>

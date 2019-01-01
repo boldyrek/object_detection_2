@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-albertahonda-used-Nissan-2012-Nissan-Pathfinder-ba3812210a0e0a6b04eb17fb2d2eab16-htm-2018-12-07-17_30_28.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4726</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>arrow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>798</ymin>
+            <xmax>983</xmax>
+            <ymax>827</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mitsubishimotorcity-bargain-Ford-2013-Ford-C-Max-7f73e4cd0a0e0a42731fc1cb3f4a7c6d-htm-2018-12-10-18_47_35.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1969</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>624</xmin>
+            <ymin>595</ymin>
+            <xmax>638</xmax>
+            <ymax>618</ymax>
+        </bndbox>
+    </object>
+</annotation>

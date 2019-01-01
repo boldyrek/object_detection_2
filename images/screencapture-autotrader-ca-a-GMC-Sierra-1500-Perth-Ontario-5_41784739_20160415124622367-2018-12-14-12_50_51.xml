@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-GMC-Sierra-1500-Perth-Ontario-5_41784739_20160415124622367-2018-12-14-12_50_51.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2716</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>888</xmin>
+            <ymin>593</ymin>
+            <xmax>914</xmax>
+            <ymax>614</ymax>
+        </bndbox>
+    </object>
+</annotation>

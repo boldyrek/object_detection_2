@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-demeyerechrysler-ca-used-Chevrolet-2014-Chevrolet-Cruze-73ea51370a0e0adf224e678d920105b4-htm-2018-12-09-09_35_35.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3927</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>973</xmin>
+            <ymin>859</ymin>
+            <xmax>984</xmax>
+            <ymax>880</ymax>
+        </bndbox>
+    </object>
+</annotation>

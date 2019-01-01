@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-islingtonchrysler-ca-used-INFINITI-2013-INFINITI-JX35-5848c7bf0a0e0ae84c1f819dfb58bbfc-htm-2018-12-03-18_17_57.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5214</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>848</ymin>
+            <xmax>984</xmax>
+            <ymax>871</ymax>
+        </bndbox>
+    </object>
+</annotation>

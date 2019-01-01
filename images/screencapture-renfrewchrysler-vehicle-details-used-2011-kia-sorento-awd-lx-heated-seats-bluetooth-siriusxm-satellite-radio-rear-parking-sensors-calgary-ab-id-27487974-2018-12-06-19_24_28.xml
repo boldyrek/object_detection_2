@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-renfrewchrysler-vehicle-details-used-2011-kia-sorento-awd-lx-heated-seats-bluetooth-siriusxm-satellite-radio-rear-parking-sensors-calgary-ab-id-27487974-2018-12-06-19_24_28.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3021</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>681</xmin>
+            <ymin>521</ymin>
+            <xmax>708</xmax>
+            <ymax>565</ymax>
+        </bndbox>
+    </object>
+</annotation>

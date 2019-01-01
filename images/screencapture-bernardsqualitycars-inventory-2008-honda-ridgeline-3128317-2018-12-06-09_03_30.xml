@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bernardsqualitycars-inventory-2008-honda-ridgeline-3128317-2018-12-06-09_03_30.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2764</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>589</xmin>
+            <ymin>461</ymin>
+            <xmax>627</xmax>
+            <ymax>499</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-416autoplex-ca-used-Volkswagen-2012-Volkswagen-Touareg-e7cc2e890a0e08ba69fe50b898915b83-htm-2018-12-07-19_20_56.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3571</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>708</ymin>
+            <xmax>987</xmax>
+            <ymax>745</ymax>
+        </bndbox>
+    </object>
+</annotation>

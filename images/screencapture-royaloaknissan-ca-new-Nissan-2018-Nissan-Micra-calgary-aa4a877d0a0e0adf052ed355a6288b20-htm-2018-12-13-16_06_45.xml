@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-royaloaknissan-ca-new-Nissan-2018-Nissan-Micra-calgary-aa4a877d0a0e0adf052ed355a6288b20-htm-2018-12-13-16_06_45.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2582</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>897</ymin>
+            <xmax>879</xmax>
+            <ymax>927</ymax>
+        </bndbox>
+    </object>
+</annotation>

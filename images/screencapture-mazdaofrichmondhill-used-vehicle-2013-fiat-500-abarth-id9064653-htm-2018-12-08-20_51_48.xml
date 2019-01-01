@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mazdaofrichmondhill-used-vehicle-2013-fiat-500-abarth-id9064653-htm-2018-12-08-20_51_48.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>7234</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>674</ymin>
+            <xmax>944</xmax>
+            <ymax>718</ymax>
+        </bndbox>
+    </object>
+</annotation>

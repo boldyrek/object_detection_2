@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-nissanlloydminster-new-Nissan-2019-Nissan-Altima-3cb9fd080a0e08be0dc69aef562da0f1-htm-2018-12-14-11_42_28.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2142</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>877</xmin>
+            <ymin>813</ymin>
+            <xmax>902</xmax>
+            <ymax>850</ymax>
+        </bndbox>
+    </object>
+</annotation>

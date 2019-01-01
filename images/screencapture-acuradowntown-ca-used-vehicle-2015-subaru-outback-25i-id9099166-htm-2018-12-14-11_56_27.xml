@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-acuradowntown-ca-used-vehicle-2015-subaru-outback-25i-id9099166-htm-2018-12-14-11_56_27.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8108</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>794</xmin>
+            <ymin>617</ymin>
+            <xmax>841</xmax>
+            <ymax>661</ymax>
+        </bndbox>
+    </object>
+</annotation>

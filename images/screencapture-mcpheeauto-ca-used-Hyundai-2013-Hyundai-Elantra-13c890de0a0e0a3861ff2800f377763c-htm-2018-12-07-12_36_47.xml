@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mcpheeauto-ca-used-Hyundai-2013-Hyundai-Elantra-13c890de0a0e0a3861ff2800f377763c-htm-2018-12-07-12_36_47.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2362</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>881</ymin>
+            <xmax>976</xmax>
+            <ymax>907</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-troystoys-net-certified-Hyundai-2012-Hyundai-Santa-Fe-a64ee9ce0a0e0a3e2029ee603e3f9db7-htm-2018-11-23-16_30_56.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2775</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>842</ymin>
+            <xmax>1101</xmax>
+            <ymax>858</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariochrysler-ca-used-Volkswagen-2010-Volkswagen-Tiguan-toronto-69571f850a0e0a3e4ced290a30c02a43-htm-2018-12-01-09_31_45.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4143</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>858</ymin>
+            <xmax>981</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

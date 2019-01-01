@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-leggatkiaburlington-ca-used-Kia-2014-Kia-Soul-98f7508a0a0e0c591acea3ed745be7dc-htm-2018-12-12-19_25_31.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3155</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>794</ymin>
+            <xmax>872</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

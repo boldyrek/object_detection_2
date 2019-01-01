@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-worldfinecars-ca-used-vehicle-2013-audi-q7-30t-premium-id9018563-htm-2018-12-04-12_18_36.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8699</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>561</ymin>
+            <xmax>930</xmax>
+            <ymax>585</ymax>
+        </bndbox>
+    </object>
+</annotation>

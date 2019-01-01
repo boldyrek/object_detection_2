@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-car1-ca-used-vehicle-2011-cadillac-escalade-esv-justin-biebers-custom-made-rwd-id9075223-htm-2018-12-01-09_32_24.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2493</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>583</ymin>
+            <xmax>942</xmax>
+            <ymax>625</ymax>
+        </bndbox>
+    </object>
+</annotation>

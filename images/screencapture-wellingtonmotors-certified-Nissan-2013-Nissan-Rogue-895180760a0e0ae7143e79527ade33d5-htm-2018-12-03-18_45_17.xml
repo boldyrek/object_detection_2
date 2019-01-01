@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-wellingtonmotors-certified-Nissan-2013-Nissan-Rogue-895180760a0e0ae7143e79527ade33d5-htm-2018-12-03-18_45_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5678</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1003</xmin>
+            <ymin>910</ymin>
+            <xmax>1028</xmax>
+            <ymax>946</ymax>
+        </bndbox>
+    </object>
+</annotation>

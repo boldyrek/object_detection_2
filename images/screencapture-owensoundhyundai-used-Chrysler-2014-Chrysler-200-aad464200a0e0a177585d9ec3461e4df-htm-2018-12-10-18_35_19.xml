@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-owensoundhyundai-used-Chrysler-2014-Chrysler-200-aad464200a0e0a177585d9ec3461e4df-htm-2018-12-10-18_35_19.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3637</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>801</ymin>
+            <xmax>880</xmax>
+            <ymax>830</ymax>
+        </bndbox>
+    </object>
+</annotation>

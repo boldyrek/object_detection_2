@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-hullchrysler-ca-used-Jeep-2017-Jeep-Grand-Cherokee-894cae410a0e08b90847f406ed368f07-htm-2018-12-14-12_53_36.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5871</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>867</xmin>
+            <ymin>818</ymin>
+            <xmax>882</xmax>
+            <ymax>842</ymax>
+        </bndbox>
+    </object>
+</annotation>

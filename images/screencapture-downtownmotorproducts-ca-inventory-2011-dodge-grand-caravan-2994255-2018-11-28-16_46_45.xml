@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-downtownmotorproducts-ca-inventory-2011-dodge-grand-caravan-2994255-2018-11-28-16_46_45.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3435</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>698</xmin>
+            <ymin>508</ymin>
+            <xmax>751</xmax>
+            <ymax>561</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-needacaroshawa-org-used-Acura-2014-Acura-ILX-6d3c78d70a0e0a426d0a8b9229c7b6fd-htm-2018-11-22-14_14_02.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3673</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>822</ymin>
+            <xmax>1103</xmax>
+            <ymax>852</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-deanmyers-VehicleDetails-new-2019-Chevrolet-Cruze-LT-Toronto-ON-3341528033-2018-12-14-12_53_54.jpg</filename>
+    <size>
+        <width>1473</width>
+        <height>4020</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>675</xmin>
+            <ymin>791</ymin>
+            <xmax>699</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-hullchrysler-ca-used-Dodge-2013-Dodge-Avenger-f3b438310a0d04fe6268283901afffeb-htm-2018-12-05-12_11_33.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4366</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>819</ymin>
+            <xmax>984</xmax>
+            <ymax>842</ymax>
+        </bndbox>
+    </object>
+</annotation>

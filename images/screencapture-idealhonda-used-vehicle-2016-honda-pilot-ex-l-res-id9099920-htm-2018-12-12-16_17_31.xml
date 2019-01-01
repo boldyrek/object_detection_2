@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-idealhonda-used-vehicle-2016-honda-pilot-ex-l-res-id9099920-htm-2018-12-12-16_17_31.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>9060</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>909</ymin>
+            <xmax>833</xmax>
+            <ymax>918</ymax>
+        </bndbox>
+    </object>
+</annotation>

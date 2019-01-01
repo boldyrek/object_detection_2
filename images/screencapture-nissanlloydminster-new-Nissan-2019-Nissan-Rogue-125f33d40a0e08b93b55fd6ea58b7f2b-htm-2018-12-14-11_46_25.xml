@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-nissanlloydminster-new-Nissan-2019-Nissan-Rogue-125f33d40a0e08b93b55fd6ea58b7f2b-htm-2018-12-14-11_46_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2263</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>880</xmin>
+            <ymin>814</ymin>
+            <xmax>901</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>

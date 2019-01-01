@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-capital-cars-ca-certified-Mercedes-Benz-2013-Mercedes-Benz-GL-Class-b2a990df0a0e08f721a6a0ded812fd0f-htm-2018-12-03-17_30_18.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2658</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>961</xmin>
+            <ymin>1163</ymin>
+            <xmax>984</xmax>
+            <ymax>1182</ymax>
+        </bndbox>
+    </object>
+</annotation>

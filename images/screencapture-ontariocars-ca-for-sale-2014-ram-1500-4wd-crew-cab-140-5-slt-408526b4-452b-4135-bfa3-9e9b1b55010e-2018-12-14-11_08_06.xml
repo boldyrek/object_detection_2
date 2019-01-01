@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariocars-ca-for-sale-2014-ram-1500-4wd-crew-cab-140-5-slt-408526b4-452b-4135-bfa3-9e9b1b55010e-2018-12-14-11_08_06.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5581</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1421</xmin>
+            <ymin>452</ymin>
+            <xmax>1441</xmax>
+            <ymax>469</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Jeep-Grand-Cherokee-Toronto-Ontario-5_41441486_20121031102536173-2018-12-14-13_31_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3354</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>595</ymin>
+            <xmax>911</xmax>
+            <ymax>610</ymax>
+        </bndbox>
+    </object>
+</annotation>

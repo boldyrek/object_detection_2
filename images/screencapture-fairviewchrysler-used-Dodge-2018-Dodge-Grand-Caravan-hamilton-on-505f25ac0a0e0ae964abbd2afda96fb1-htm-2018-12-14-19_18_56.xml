@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-fairviewchrysler-used-Dodge-2018-Dodge-Grand-Caravan-hamilton-on-505f25ac0a0e0ae964abbd2afda96fb1-htm-2018-12-14-19_18_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4384</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>852</ymin>
+            <xmax>880</xmax>
+            <ymax>874</ymax>
+        </bndbox>
+    </object>
+</annotation>

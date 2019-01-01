@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-acuranorthmississauga-ca-used-Acura-2017-Acura-MDX-f934b5f70a0e08f73b3292d6ba5513bb-htm-2018-11-28-16_38_41.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5493</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1142</xmin>
+            <ymin>703</ymin>
+            <xmax>1161</xmax>
+            <ymax>730</ymax>
+        </bndbox>
+    </object>
+</annotation>

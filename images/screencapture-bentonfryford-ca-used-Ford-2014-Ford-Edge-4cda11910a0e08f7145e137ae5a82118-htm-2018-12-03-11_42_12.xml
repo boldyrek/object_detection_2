@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bentonfryford-ca-used-Ford-2014-Ford-Edge-4cda11910a0e08f7145e137ae5a82118-htm-2018-12-03-11_42_12.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4207</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>817</ymin>
+            <xmax>984</xmax>
+            <ymax>855</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-garstonmotors-used-Ford-2015-Ford-Escape-8c598b320a0e0a4053db233314400ac9-htm-2018-12-14-12_50_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3630</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>746</ymin>
+            <xmax>879</xmax>
+            <ymax>776</ymax>
+        </bndbox>
+    </object>
+</annotation>

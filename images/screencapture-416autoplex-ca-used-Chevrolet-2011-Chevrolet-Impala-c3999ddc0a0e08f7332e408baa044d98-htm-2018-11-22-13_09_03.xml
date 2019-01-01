@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-416autoplex-ca-used-Chevrolet-2011-Chevrolet-Impala-c3999ddc0a0e08f7332e408baa044d98-htm-2018-11-22-13_09_03.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3109</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1085</xmin>
+            <ymin>710</ymin>
+            <xmax>1104</xmax>
+            <ymax>744</ymax>
+        </bndbox>
+    </object>
+</annotation>

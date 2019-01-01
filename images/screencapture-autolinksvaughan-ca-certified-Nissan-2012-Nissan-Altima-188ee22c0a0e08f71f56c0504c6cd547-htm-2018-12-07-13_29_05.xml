@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autolinksvaughan-ca-certified-Nissan-2012-Nissan-Altima-188ee22c0a0e08f71f56c0504c6cd547-htm-2018-12-07-13_29_05.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2247</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>958</xmin>
+            <ymin>802</ymin>
+            <xmax>974</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

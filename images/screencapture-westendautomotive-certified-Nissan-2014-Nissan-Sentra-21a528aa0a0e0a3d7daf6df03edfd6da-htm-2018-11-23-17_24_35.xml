@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-westendautomotive-certified-Nissan-2014-Nissan-Sentra-21a528aa0a0e0a3d7daf6df03edfd6da-htm-2018-11-23-17_24_35.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2820</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1076</xmin>
+            <ymin>799</ymin>
+            <xmax>1096</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

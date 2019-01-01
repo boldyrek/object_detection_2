@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cindoraautosales-ca-used-Dodge-2010-Dodge-Grand-Caravan-7c11167e0a0e0a3d68c2c2925b9f1a5d-htm-2018-12-06-19_33_37.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3075</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>950</xmin>
+            <ymin>814</ymin>
+            <xmax>968</xmax>
+            <ymax>845</ymax>
+        </bndbox>
+    </object>
+</annotation>

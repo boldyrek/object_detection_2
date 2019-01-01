@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-sherwoodparkchev-used-Toyota-2011-Toyota-Sequoia-fe92f8ef0a0e0aea232b94da63dd6cf4-htm-2018-12-02-08_03_22.jpg</filename>
+    <size>
+        <width>1692</width>
+        <height>4712</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>977</xmin>
+            <ymin>1045</ymin>
+            <xmax>992</xmax>
+            <ymax>1074</ymax>
+        </bndbox>
+    </object>
+</annotation>

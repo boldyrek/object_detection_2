@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wietzestoyota-used-vehicle-2014-toyota-venza-base-v6-id9021774-htm-2018-12-07-12_27_08.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>914</xmin>
+            <ymin>613</ymin>
+            <xmax>932</xmax>
+            <ymax>638</ymax>
+        </bndbox>
+    </object>
+</annotation>

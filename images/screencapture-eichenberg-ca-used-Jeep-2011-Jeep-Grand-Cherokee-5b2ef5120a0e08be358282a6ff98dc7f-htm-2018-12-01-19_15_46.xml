@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-eichenberg-ca-used-Jeep-2011-Jeep-Grand-Cherokee-5b2ef5120a0e08be358282a6ff98dc7f-htm-2018-12-01-19_15_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3509</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>747</ymin>
+            <xmax>983</xmax>
+            <ymax>769</ymax>
+        </bndbox>
+    </object>
+</annotation>

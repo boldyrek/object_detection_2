@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-capitaljeep-new-Ram-2018-Ram-3500-edmonton-827448bf0a0e0a1776af99fedacbd60f-htm-2018-12-14-12_20_12.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5649</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>975</ymin>
+            <xmax>928</xmax>
+            <ymax>1018</ymax>
+        </bndbox>
+    </object>
+</annotation>

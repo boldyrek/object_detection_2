@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stormyscarsales-ca-used-Nissan-2014-Nissan-Versa-Note-f727405c0a0e0c5a55dfc191ca82edbd-htm-2018-11-22-14_32_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3210</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>850</ymin>
+            <xmax>1106</xmax>
+            <ymax>887</ymax>
+        </bndbox>
+    </object>
+</annotation>

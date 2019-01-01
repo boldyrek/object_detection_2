@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-niagaraautonetwork-net-used-Dodge-2008-Dodge-Ram-1500-31a8b8a10a0e08bc0fb4d957ced037cf-htm-2018-12-01-19_14_14.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2919</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>783</ymin>
+            <xmax>983</xmax>
+            <ymax>812</ymax>
+        </bndbox>
+    </object>
+</annotation>

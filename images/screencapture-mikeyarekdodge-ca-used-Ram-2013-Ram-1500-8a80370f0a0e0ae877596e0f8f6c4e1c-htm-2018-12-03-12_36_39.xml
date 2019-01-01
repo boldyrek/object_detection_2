@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-mikeyarekdodge-ca-used-Ram-2013-Ram-1500-8a80370f0a0e0ae877596e0f8f6c4e1c-htm-2018-12-03-12_36_39.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4495</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>800</ymin>
+            <xmax>984</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

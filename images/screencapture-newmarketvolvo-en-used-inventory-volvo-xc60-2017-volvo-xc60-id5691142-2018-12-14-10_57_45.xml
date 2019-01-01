@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newmarketvolvo-en-used-inventory-volvo-xc60-2017-volvo-xc60-id5691142-2018-12-14-10_57_45.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5753</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1415</xmin>
+            <ymin>441</ymin>
+            <xmax>1429</xmax>
+            <ymax>462</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-newwesternmotors-ca-used-Volkswagen-2007-Volkswagen-Touareg-aa90fdaf0a0e08bd7e3908bf59af2a9f-htm-2018-11-30-19_57_17.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4552</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>823</ymin>
+            <xmax>984</xmax>
+            <ymax>857</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bramptonmitsubishi-ca-used-Scion-2011-Scion-xD-fc601cf30a0e08bc6226947c4cabd8c9-htm-2018-12-01-20_12_24.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5317</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>736</ymin>
+            <xmax>1038</xmax>
+            <ymax>757</ymax>
+        </bndbox>
+    </object>
+</annotation>

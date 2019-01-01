@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-driverzauto-used-vehicle-2015-chrysler-200-s-id9002283-htm-2018-12-14-13_22_56.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2596</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>796</xmin>
+            <ymin>593</ymin>
+            <xmax>839</xmax>
+            <ymax>635</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-ford-f-150-hamilton-ontario-5_40608604_on20071210104952170-2018-12-12-16_33_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3117</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>584</ymin>
+            <xmax>911</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-segalmotorcar-certified-Audi-2013-Audi-Q5-98aa9f990a0e08bb796c2bbb57d03d07-htm-2018-12-04-12_22_54.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3381</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>812</ymin>
+            <xmax>982</xmax>
+            <ymax>840</ymax>
+        </bndbox>
+    </object>
+</annotation>

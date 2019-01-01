@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-sherwoodpark-vw-ca-inventory-used-2011-volkswagen-jetta-sedan-trendline-fwd-4dr-car-3vw1k7ajxbm386311-2018-12-01-18_56_13.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4852</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>1003</ymin>
+            <xmax>1068</xmax>
+            <ymax>1037</ymax>
+        </bndbox>
+    </object>
+</annotation>

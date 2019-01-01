@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-laurentianchrysler-ca-inventory-used-2011-hyundai-sonata-gl-heated-seats-beautiful-car-a-must-see-front-wheel-drive-4dr-car-5npeb4ac6bh266032-2018-12-12-19_06_58.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4387</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>1038</ymin>
+            <xmax>956</xmax>
+            <ymax>1055</ymax>
+        </bndbox>
+    </object>
+</annotation>

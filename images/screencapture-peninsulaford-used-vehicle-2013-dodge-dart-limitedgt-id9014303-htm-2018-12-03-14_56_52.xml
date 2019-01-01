@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-peninsulaford-used-vehicle-2013-dodge-dart-limitedgt-id9014303-htm-2018-12-03-14_56_52.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>897</xmin>
+            <ymin>487</ymin>
+            <xmax>943</xmax>
+            <ymax>531</ymax>
+        </bndbox>
+    </object>
+</annotation>

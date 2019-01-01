@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-deejaysautosalesandservices-autotrader-ca-used-Volkswagen-2012-Volkswagen-Jetta-c31b5ab60a0e0a3f4301abf627f1d649-htm-2018-12-07-12_34_15.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3362</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>951</ymin>
+            <xmax>983</xmax>
+            <ymax>985</ymax>
+        </bndbox>
+    </object>
+</annotation>

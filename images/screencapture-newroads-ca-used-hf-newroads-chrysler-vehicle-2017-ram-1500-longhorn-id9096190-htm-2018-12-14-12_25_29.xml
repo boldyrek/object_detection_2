@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newroads-ca-used-hf-newroads-chrysler-vehicle-2017-ram-1500-longhorn-id9096190-htm-2018-12-14-12_25_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3387</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>938</ymin>
+            <xmax>834</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-myfamilyhonda-used-vehicle-2013-audi-q7-30t-premium-tiptronic-id9015521-htm-2018-12-03-11_31_00.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>903</xmin>
+            <ymin>633</ymin>
+            <xmax>926</xmax>
+            <ymax>657</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autoonecars-ca-certified-Volkswagen-2013-Volkswagen-Jetta-8b3679400a0e08f704d62b6ac4e39674-htm-2018-12-12-17_15_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3146</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>861</xmin>
+            <ymin>747</ymin>
+            <xmax>879</xmax>
+            <ymax>775</ymax>
+        </bndbox>
+    </object>
+</annotation>

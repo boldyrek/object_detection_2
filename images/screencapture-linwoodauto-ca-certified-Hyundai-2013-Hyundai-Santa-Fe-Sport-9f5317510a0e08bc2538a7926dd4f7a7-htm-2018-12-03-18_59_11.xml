@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-linwoodauto-ca-certified-Hyundai-2013-Hyundai-Santa-Fe-Sport-9f5317510a0e08bc2538a7926dd4f7a7-htm-2018-12-03-18_59_11.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3242</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>787</ymin>
+            <xmax>982</xmax>
+            <ymax>816</ymax>
+        </bndbox>
+    </object>
+</annotation>

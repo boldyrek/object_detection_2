@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-skylineauto-ca-used-vehicle-2011-toyota-highlander-v6-limited-id8990754-htm-2018-12-01-07_15_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>9112</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>540</ymin>
+            <xmax>941</xmax>
+            <ymax>581</ymax>
+        </bndbox>
+    </object>
+</annotation>

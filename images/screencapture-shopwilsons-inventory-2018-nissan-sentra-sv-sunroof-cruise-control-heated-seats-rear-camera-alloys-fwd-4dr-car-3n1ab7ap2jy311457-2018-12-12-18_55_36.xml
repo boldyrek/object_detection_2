@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-shopwilsons-inventory-2018-nissan-sentra-sv-sunroof-cruise-control-heated-seats-rear-camera-alloys-fwd-4dr-car-3n1ab7ap2jy311457-2018-12-12-18_55_36.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4402</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>945</xmin>
+            <ymin>964</ymin>
+            <xmax>956</xmax>
+            <ymax>981</ymax>
+        </bndbox>
+    </object>
+</annotation>

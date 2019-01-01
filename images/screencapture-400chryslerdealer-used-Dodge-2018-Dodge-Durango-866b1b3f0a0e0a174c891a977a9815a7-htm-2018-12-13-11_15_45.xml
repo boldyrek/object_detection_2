@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-400chryslerdealer-used-Dodge-2018-Dodge-Durango-866b1b3f0a0e0a174c891a977a9815a7-htm-2018-12-13-11_15_45.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4836</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>865</xmin>
+            <ymin>906</ymin>
+            <xmax>883</xmax>
+            <ymax>931</ymax>
+        </bndbox>
+    </object>
+</annotation>

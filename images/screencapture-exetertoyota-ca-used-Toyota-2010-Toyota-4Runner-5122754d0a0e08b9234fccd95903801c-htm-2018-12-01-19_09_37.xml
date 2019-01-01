@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-exetertoyota-ca-used-Toyota-2010-Toyota-4Runner-5122754d0a0e08b9234fccd95903801c-htm-2018-12-01-19_09_37.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2458</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>927</ymin>
+            <xmax>974</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

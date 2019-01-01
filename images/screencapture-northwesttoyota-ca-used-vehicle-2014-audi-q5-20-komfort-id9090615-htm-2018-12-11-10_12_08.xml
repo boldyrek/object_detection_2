@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-northwesttoyota-ca-used-vehicle-2014-audi-q5-20-komfort-id9090615-htm-2018-12-11-10_12_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>7761</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>803</xmin>
+            <ymin>735</ymin>
+            <xmax>822</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

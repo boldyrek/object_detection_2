@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-troystoys-net-certified-Chevrolet-2013-Chevrolet-Equinox-84acf3f00a0e0a3b57086be1228eae4d-htm-2018-12-10-18_16_35.jpg</filename>
+    <size>
+        <width>1544</width>
+        <height>2841</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>865</xmin>
+            <ymin>880</ymin>
+            <xmax>877</xmax>
+            <ymax>890</ymax>
+        </bndbox>
+    </object>
+</annotation>

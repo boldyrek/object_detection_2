@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-richmondhilltoyota-inventory-used-4923-2015-Toyota-Corolla-2018-12-13-19_03_04.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3570</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>784</xmin>
+            <ymin>1150</ymin>
+            <xmax>789</xmax>
+            <ymax>1160</ymax>
+        </bndbox>
+    </object>
+</annotation>

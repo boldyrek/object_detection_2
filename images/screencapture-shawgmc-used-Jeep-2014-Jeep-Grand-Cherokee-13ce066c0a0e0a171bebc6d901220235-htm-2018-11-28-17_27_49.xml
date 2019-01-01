@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-shawgmc-used-Jeep-2014-Jeep-Grand-Cherokee-13ce066c0a0e0a171bebc6d901220235-htm-2018-11-28-17_27_49.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5149</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1157</xmin>
+            <ymin>1132</ymin>
+            <xmax>1179</xmax>
+            <ymax>1175</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-kenshawtoyota-ca-used-vehicle-2004-toyota-matrix-base-id9071228-htm-2018-11-28-16_48_36.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4165</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>998</xmin>
+            <ymin>378</ymin>
+            <xmax>1033</xmax>
+            <ymax>406</ymax>
+        </bndbox>
+    </object>
+</annotation>

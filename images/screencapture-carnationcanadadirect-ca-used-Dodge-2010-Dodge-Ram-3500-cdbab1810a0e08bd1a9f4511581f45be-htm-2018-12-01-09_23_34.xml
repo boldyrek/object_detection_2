@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carnationcanadadirect-ca-used-Dodge-2010-Dodge-Ram-3500-cdbab1810a0e08bd1a9f4511581f45be-htm-2018-12-01-09_23_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2808</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>768</ymin>
+            <xmax>983</xmax>
+            <ymax>795</ymax>
+        </bndbox>
+    </object>
+</annotation>

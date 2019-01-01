@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-torontoautomall-ca-used-Porsche-2011-Porsche-Panamera-fb4390dc0a0e08bb6a8c62304f6c533d-htm-2018-12-01-09_11_20.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1975</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>764</ymin>
+            <xmax>982</xmax>
+            <ymax>800</ymax>
+        </bndbox>
+    </object>
+</annotation>

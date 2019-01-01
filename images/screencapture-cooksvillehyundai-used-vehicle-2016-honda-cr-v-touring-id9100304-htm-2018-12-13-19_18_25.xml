@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2016-honda-cr-v-touring-id9100304-htm-2018-12-13-19_18_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2801</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>963</ymin>
+            <xmax>833</xmax>
+            <ymax>972</ymax>
+        </bndbox>
+    </object>
+</annotation>

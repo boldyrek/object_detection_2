@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-kollbecgatineau-certified-BMW-2013-BMW-M3-23b5ac020a0d04fe67beb4c5ea43ca3b-htm-2018-12-11-08_30_30.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4523</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>799</ymin>
+            <xmax>882</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+</annotation>

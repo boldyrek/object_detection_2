@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopricecanada-used-vehicle-2018-chevrolet-malibu-lt-id9009414-htm-2018-12-03-18_58_26.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8111</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>639</ymin>
+            <xmax>944</xmax>
+            <ymax>692</ymax>
+        </bndbox>
+    </object>
+</annotation>

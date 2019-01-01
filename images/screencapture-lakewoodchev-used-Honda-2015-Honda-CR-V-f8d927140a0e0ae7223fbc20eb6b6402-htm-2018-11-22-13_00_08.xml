@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lakewoodchev-used-Honda-2015-Honda-CR-V-f8d927140a0e0ae7223fbc20eb6b6402-htm-2018-11-22-13_00_08.jpg</filename>
+    <size>
+        <width>1930</width>
+        <height>4344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1095</xmin>
+            <ymin>849</ymin>
+            <xmax>1111</xmax>
+            <ymax>881</ymax>
+        </bndbox>
+    </object>
+</annotation>

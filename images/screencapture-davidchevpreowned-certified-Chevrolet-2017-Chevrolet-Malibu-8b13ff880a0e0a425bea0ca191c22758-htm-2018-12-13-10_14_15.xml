@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-davidchevpreowned-certified-Chevrolet-2017-Chevrolet-Malibu-8b13ff880a0e0a425bea0ca191c22758-htm-2018-12-13-10_14_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2534</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>624</xmin>
+            <ymin>679</ymin>
+            <xmax>638</xmax>
+            <ymax>704</ymax>
+        </bndbox>
+    </object>
+</annotation>

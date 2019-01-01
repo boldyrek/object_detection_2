@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-amherstburggm-VehicleDetails-used-2016-Nissan-Rogue-AWD_4dr_S-Amherstburg-ON-3321894303-2018-12-10-18_41_05.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3645</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>678</xmin>
+            <ymin>789</ymin>
+            <xmax>696</xmax>
+            <ymax>816</ymax>
+        </bndbox>
+    </object>
+</annotation>

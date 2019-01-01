@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newroads-ca-used-hf-newroads-chrysler-vehicle-2019-ram-1500-classic-st-id9098384-htm-2018-12-12-17_01_54.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3387</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>827</xmin>
+            <ymin>938</ymin>
+            <xmax>833</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

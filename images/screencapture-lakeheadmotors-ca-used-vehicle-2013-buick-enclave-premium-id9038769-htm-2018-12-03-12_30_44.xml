@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lakeheadmotors-ca-used-vehicle-2013-buick-enclave-premium-id9038769-htm-2018-12-03-12_30_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8551</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>906</xmin>
+            <ymin>532</ymin>
+            <xmax>926</xmax>
+            <ymax>557</ymax>
+        </bndbox>
+    </object>
+</annotation>

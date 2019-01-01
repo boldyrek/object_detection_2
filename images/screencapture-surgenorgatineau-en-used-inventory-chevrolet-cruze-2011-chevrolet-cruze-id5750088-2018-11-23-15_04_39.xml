@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-surgenorgatineau-en-used-inventory-chevrolet-cruze-2011-chevrolet-cruze-id5750088-2018-11-23-15_04_39.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5808</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1496</xmin>
+            <ymin>1067</ymin>
+            <xmax>1555</xmax>
+            <ymax>1125</ymax>
+        </bndbox>
+    </object>
+</annotation>

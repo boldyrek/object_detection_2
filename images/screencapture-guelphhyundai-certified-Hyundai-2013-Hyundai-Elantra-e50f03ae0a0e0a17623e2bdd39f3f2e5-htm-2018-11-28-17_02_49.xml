@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-guelphhyundai-certified-Hyundai-2013-Hyundai-Elantra-e50f03ae0a0e0a17623e2bdd39f3f2e5-htm-2018-11-28-17_02_49.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4854</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1131</xmin>
+            <ymin>881</ymin>
+            <xmax>1146</xmax>
+            <ymax>909</ymax>
+        </bndbox>
+    </object>
+</annotation>

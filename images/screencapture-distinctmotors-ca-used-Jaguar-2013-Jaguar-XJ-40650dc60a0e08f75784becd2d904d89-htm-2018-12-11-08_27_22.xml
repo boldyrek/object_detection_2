@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-distinctmotors-ca-used-Jaguar-2013-Jaguar-XJ-40650dc60a0e08f75784becd2d904d89-htm-2018-12-11-08_27_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1812</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>862</xmin>
+            <ymin>719</ymin>
+            <xmax>880</xmax>
+            <ymax>750</ymax>
+        </bndbox>
+    </object>
+</annotation>

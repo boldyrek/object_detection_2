@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariocars-ca-for-sale-2015-dodge-dart-4dr-sdn-gt-79df6c29-33e8-4100-afc9-5733e0f85d4b-2018-12-12-17_36_38.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5050</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1423</xmin>
+            <ymin>452</ymin>
+            <xmax>1440</xmax>
+            <ymax>468</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-brantfordkia-certified-Kia-2015-Kia-Soul-928d8d790a0e0a171377b1d85c15a2f4-htm-2018-12-14-11_11_33.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3356</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>923</ymin>
+            <xmax>871</xmax>
+            <ymax>982</ymax>
+        </bndbox>
+    </object>
+</annotation>

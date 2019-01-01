@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-qewkia-used-Nissan-2005-Nissan-Altima-7510d7b40a0e08be0dc69aefb2ce7c5c-htm-2018-12-06-09_00_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3924</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>755</ymin>
+            <xmax>983</xmax>
+            <ymax>783</ymax>
+        </bndbox>
+    </object>
+</annotation>

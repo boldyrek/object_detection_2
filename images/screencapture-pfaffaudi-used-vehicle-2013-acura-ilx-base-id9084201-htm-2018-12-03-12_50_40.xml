@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffaudi-used-vehicle-2013-acura-ilx-base-id9084201-htm-2018-12-03-12_50_40.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2897</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>565</ymin>
+            <xmax>932</xmax>
+            <ymax>591</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-selecticar-used-vehicle-2013-buick-enclave-premium-id9038769-htm-2018-12-03-12_31_29.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8581</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908</xmin>
+            <ymin>539</ymin>
+            <xmax>925</xmax>
+            <ymax>563</ymax>
+        </bndbox>
+    </object>
+</annotation>

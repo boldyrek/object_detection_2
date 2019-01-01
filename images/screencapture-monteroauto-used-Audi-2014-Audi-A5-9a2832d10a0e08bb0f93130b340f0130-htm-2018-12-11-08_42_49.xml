@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-monteroauto-used-Audi-2014-Audi-A5-9a2832d10a0e08bb0f93130b340f0130-htm-2018-12-11-08_42_49.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2105</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>860</xmin>
+            <ymin>707</ymin>
+            <xmax>880</xmax>
+            <ymax>744</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-midlandhonda-used-Honda-2016-Honda-CR-V-895c68970a0e08be65735b2cd3c8e318-htm-2018-12-13-11_21_06.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>860</xmin>
+            <ymin>839</ymin>
+            <xmax>881</xmax>
+            <ymax>875</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-nissanlloydminster-new-Nissan-2018-Nissan-Armada-765903a60a0e08bd676105a2440ce95d-htm-2018-12-13-15_31_27.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2389</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>877</xmin>
+            <ymin>813</ymin>
+            <xmax>903</xmax>
+            <ymax>849</ymax>
+        </bndbox>
+    </object>
+</annotation>

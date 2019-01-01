@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bmwtoronto-ca-used-Acura-2013-Acura-ILX-f1f1cc670a0e0aea082b0ba43729f050-htm-2018-12-03-12_33_35.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2654</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>952</xmin>
+            <ymin>830</ymin>
+            <xmax>994</xmax>
+            <ymax>871</ymax>
+        </bndbox>
+    </object>
+</annotation>

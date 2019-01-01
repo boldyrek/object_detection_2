@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-southviewacura-used-Acura-2008-Acura-CSX-7822ede40a0e0a6b2c0a5706fde3ae2b-htm-2018-12-06-19_30_11.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4791</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1006</xmin>
+            <ymin>976</ymin>
+            <xmax>1029</xmax>
+            <ymax>1015</ymax>
+        </bndbox>
+    </object>
+</annotation>

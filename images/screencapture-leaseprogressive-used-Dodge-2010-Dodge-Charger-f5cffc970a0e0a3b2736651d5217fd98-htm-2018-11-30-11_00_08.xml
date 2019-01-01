@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-leaseprogressive-used-Dodge-2010-Dodge-Charger-f5cffc970a0e0a3b2736651d5217fd98-htm-2018-11-30-11_00_08.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3502</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>727</ymin>
+            <xmax>983</xmax>
+            <ymax>756</ymax>
+        </bndbox>
+    </object>
+</annotation>

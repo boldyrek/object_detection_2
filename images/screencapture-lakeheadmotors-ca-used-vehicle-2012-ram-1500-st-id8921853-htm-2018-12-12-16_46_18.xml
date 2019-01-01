@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-lakeheadmotors-ca-used-vehicle-2012-ram-1500-st-id8921853-htm-2018-12-12-16_46_18.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>7409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>925</ymin>
+            <xmax>834</xmax>
+            <ymax>934</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-dautoconnection-ca-inventory-2014-nissan-sentra-3009245-2018-12-07-13_18_37.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3589</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>556</xmin>
+            <ymin>522</ymin>
+            <xmax>598</xmax>
+            <ymax>564</ymax>
+        </bndbox>
+    </object>
+</annotation>

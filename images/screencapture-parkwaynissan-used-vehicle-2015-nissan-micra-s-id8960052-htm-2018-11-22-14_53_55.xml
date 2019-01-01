@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-parkwaynissan-used-vehicle-2015-nissan-micra-s-id8960052-htm-2018-11-22-14_53_55.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7847</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1012</xmin>
+            <ymin>508</ymin>
+            <xmax>1060</xmax>
+            <ymax>556</ymax>
+        </bndbox>
+    </object>
+</annotation>

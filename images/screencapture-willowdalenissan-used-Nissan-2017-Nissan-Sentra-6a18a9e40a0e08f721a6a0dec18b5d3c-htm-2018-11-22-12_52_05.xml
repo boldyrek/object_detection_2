@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-willowdalenissan-used-Nissan-2017-Nissan-Sentra-6a18a9e40a0e08f721a6a0dec18b5d3c-htm-2018-11-22-12_52_05.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3062</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1083</xmin>
+            <ymin>1203</ymin>
+            <xmax>1108</xmax>
+            <ymax>1240</ymax>
+        </bndbox>
+    </object>
+</annotation>

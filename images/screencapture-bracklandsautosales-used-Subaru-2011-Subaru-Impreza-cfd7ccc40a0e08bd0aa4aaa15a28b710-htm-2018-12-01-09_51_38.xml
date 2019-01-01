@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bracklandsautosales-used-Subaru-2011-Subaru-Impreza-cfd7ccc40a0e08bd0aa4aaa15a28b710-htm-2018-12-01-09_51_38.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1782</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>714</ymin>
+            <xmax>925</xmax>
+            <ymax>739</ymax>
+        </bndbox>
+    </object>
+</annotation>

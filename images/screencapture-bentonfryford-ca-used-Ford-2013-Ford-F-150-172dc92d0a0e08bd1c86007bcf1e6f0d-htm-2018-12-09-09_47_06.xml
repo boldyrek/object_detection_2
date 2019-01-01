@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bentonfryford-ca-used-Ford-2013-Ford-F-150-172dc92d0a0e08bd1c86007bcf1e6f0d-htm-2018-12-09-09_47_06.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4037</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>780</ymin>
+            <xmax>984</xmax>
+            <ymax>815</ymax>
+        </bndbox>
+    </object>
+</annotation>

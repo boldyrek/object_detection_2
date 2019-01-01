@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-Chevrolet-2014-Chevrolet-Trax-77be0c8c0a0e0a381ac56e1c4e8c8ea0-htm-2018-12-10-18_32_00.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3763</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>749</ymin>
+            <xmax>879</xmax>
+            <ymax>779</ymax>
+        </bndbox>
+    </object>
+</annotation>

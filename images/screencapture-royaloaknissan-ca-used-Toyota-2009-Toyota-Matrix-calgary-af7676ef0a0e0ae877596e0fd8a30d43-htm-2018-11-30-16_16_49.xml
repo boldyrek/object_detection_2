@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-royaloaknissan-ca-used-Toyota-2009-Toyota-Matrix-calgary-af7676ef0a0e0ae877596e0fd8a30d43-htm-2018-11-30-16_16_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2465</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>859</ymin>
+            <xmax>982</xmax>
+            <ymax>889</ymax>
+        </bndbox>
+    </object>
+</annotation>

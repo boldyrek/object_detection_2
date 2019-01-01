@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-stormyscarsales-ca-used-BMW-2012-BMW-5-Series-92a39ac30a0e0a40476e8563ad82a741-htm-2018-11-22-13_10_02.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3546</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1085</xmin>
+            <ymin>735</ymin>
+            <xmax>1104</xmax>
+            <ymax>770</ymax>
+        </bndbox>
+    </object>
+</annotation>

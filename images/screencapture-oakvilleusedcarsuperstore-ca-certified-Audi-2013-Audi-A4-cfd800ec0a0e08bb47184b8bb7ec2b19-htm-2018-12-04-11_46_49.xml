@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvilleusedcarsuperstore-ca-certified-Audi-2013-Audi-A4-cfd800ec0a0e08bb47184b8bb7ec2b19-htm-2018-12-04-11_46_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3411</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>799</ymin>
+            <xmax>982</xmax>
+            <ymax>828</ymax>
+        </bndbox>
+    </object>
+</annotation>

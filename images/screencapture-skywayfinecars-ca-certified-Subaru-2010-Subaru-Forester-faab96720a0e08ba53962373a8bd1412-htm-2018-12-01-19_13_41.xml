@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-skywayfinecars-ca-certified-Subaru-2010-Subaru-Forester-faab96720a0e08ba53962373a8bd1412-htm-2018-12-01-19_13_41.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1857</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>766</ymin>
+            <xmax>925</xmax>
+            <ymax>790</ymax>
+        </bndbox>
+    </object>
+</annotation>

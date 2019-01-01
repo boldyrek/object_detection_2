@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-sherwoodparkchev-used-Nissan-2009-Nissan-Altima-9d67b1930a0e08be358282a6b7000401-htm-2018-12-06-09_28_52.jpg</filename>
+    <size>
+        <width>1692</width>
+        <height>3944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>975</xmin>
+            <ymin>1075</ymin>
+            <xmax>992</xmax>
+            <ymax>1105</ymax>
+        </bndbox>
+    </object>
+</annotation>

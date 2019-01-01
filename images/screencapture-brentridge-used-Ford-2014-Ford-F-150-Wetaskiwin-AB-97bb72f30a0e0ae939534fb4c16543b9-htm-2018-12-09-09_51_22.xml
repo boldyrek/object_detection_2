@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-brentridge-used-Ford-2014-Ford-F-150-Wetaskiwin-AB-97bb72f30a0e0ae939534fb4c16543b9-htm-2018-12-09-09_51_22.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2522</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>956</xmin>
+            <ymin>827</ymin>
+            <xmax>970</xmax>
+            <ymax>851</ymax>
+        </bndbox>
+    </object>
+</annotation>

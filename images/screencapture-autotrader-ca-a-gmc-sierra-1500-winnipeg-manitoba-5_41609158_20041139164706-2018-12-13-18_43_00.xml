@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-gmc-sierra-1500-winnipeg-manitoba-5_41609158_20041139164706-2018-12-13-18_43_00.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2167</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>584</ymin>
+            <xmax>910</xmax>
+            <ymax>597</ymax>
+        </bndbox>
+    </object>
+</annotation>

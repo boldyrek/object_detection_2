@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-guelphhyundai-certified-Honda-2013-Honda-Civic-2fddc4d70a0e0ae773a94efa6db529c4-htm-2018-12-03-11_57_26.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5035</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1010</xmin>
+            <ymin>881</ymin>
+            <xmax>1026</xmax>
+            <ymax>910</ymax>
+        </bndbox>
+    </object>
+</annotation>

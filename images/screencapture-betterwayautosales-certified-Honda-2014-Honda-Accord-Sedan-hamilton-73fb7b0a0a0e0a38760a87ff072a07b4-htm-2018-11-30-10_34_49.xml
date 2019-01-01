@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-betterwayautosales-certified-Honda-2014-Honda-Accord-Sedan-hamilton-73fb7b0a0a0e0a38760a87ff072a07b4-htm-2018-11-30-10_34_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4392</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>812</ymin>
+            <xmax>984</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>

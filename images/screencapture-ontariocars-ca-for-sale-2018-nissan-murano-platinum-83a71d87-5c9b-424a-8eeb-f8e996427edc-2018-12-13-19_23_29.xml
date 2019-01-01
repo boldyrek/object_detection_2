@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariocars-ca-for-sale-2018-nissan-murano-platinum-83a71d87-5c9b-424a-8eeb-f8e996427edc-2018-12-13-19_23_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5479</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1422</xmin>
+            <ymin>451</ymin>
+            <xmax>1441</xmax>
+            <ymax>469</ymax>
+        </bndbox>
+    </object>
+</annotation>

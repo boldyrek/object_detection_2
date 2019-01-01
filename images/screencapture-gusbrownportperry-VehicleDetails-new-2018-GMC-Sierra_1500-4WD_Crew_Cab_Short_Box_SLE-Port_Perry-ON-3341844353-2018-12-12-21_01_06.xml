@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gusbrownportperry-VehicleDetails-new-2018-GMC-Sierra_1500-4WD_Crew_Cab_Short_Box_SLE-Port_Perry-ON-3341844353-2018-12-12-21_01_06.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2786</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>887</ymin>
+            <xmax>696</xmax>
+            <ymax>912</ymax>
+        </bndbox>
+    </object>
+</annotation>

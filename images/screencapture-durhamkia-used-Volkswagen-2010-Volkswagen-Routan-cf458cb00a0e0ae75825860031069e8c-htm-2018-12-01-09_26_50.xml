@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-durhamkia-used-Volkswagen-2010-Volkswagen-Routan-cf458cb00a0e0ae75825860031069e8c-htm-2018-12-01-09_26_50.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>647</ymin>
+            <xmax>981</xmax>
+            <ymax>674</ymax>
+        </bndbox>
+    </object>
+</annotation>

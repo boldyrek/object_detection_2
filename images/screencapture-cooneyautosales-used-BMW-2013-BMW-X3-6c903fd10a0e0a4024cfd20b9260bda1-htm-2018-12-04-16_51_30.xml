@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooneyautosales-used-BMW-2013-BMW-X3-6c903fd10a0e0a4024cfd20b9260bda1-htm-2018-12-04-16_51_30.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3288</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>751</ymin>
+            <xmax>982</xmax>
+            <ymax>782</ymax>
+        </bndbox>
+    </object>
+</annotation>

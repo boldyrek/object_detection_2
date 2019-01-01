@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-redlineautosales-ca-certified-Kia-2012-Kia-Sportage-26065f990a0e08bd5e727414627864db-htm-2018-11-23-14_51_59.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3303</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>933</ymin>
+            <xmax>1107</xmax>
+            <ymax>972</ymax>
+        </bndbox>
+    </object>
+</annotation>

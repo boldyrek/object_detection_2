@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-truckandcar-ca-used-Audi-2013-Audi-S7-d8ad83400a0e0a380a4e7c90ba312002-htm-2018-12-03-11_33_53.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2470</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>958</xmin>
+            <ymin>895</ymin>
+            <xmax>972</xmax>
+            <ymax>923</ymax>
+        </bndbox>
+    </object>
+</annotation>

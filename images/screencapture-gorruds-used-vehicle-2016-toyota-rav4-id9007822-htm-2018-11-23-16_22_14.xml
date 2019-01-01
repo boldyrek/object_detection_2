@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gorruds-used-vehicle-2016-toyota-rav4-id9007822-htm-2018-11-23-16_22_14.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3151</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>529</ymin>
+            <xmax>1052</xmax>
+            <ymax>553</ymax>
+        </bndbox>
+    </object>
+</annotation>

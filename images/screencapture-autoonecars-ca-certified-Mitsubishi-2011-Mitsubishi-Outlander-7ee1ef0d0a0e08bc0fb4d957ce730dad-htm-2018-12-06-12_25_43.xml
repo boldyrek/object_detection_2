@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autoonecars-ca-certified-Mitsubishi-2011-Mitsubishi-Outlander-7ee1ef0d0a0e08bc0fb4d957ce730dad-htm-2018-12-06-12_25_43.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3321</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>748</ymin>
+            <xmax>982</xmax>
+            <ymax>775</ymax>
+        </bndbox>
+    </object>
+</annotation>

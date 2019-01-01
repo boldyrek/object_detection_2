@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvilletoyota-ca-inventory-certified-used-2014-toyota-sienna-xle-with-rearview-camera-and-sunroof-awd-mini-van-passenger-5tddk3dc1es086067-2018-12-10-18_42_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5051</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>944</xmin>
+            <ymin>930</ymin>
+            <xmax>956</xmax>
+            <ymax>948</ymax>
+        </bndbox>
+    </object>
+</annotation>

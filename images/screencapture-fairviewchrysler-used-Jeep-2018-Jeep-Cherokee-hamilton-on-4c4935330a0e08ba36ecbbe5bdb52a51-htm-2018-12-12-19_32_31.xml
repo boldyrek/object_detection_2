@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-fairviewchrysler-used-Jeep-2018-Jeep-Cherokee-hamilton-on-4c4935330a0e08ba36ecbbe5bdb52a51-htm-2018-12-12-19_32_31.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4452</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>859</ymin>
+            <xmax>881</xmax>
+            <ymax>882</ymax>
+        </bndbox>
+    </object>
+</annotation>

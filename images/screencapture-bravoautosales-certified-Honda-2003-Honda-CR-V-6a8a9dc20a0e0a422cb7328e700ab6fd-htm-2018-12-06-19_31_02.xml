@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bravoautosales-certified-Honda-2003-Honda-CR-V-6a8a9dc20a0e0a422cb7328e700ab6fd-htm-2018-12-06-19_31_02.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3213</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>802</ymin>
+            <xmax>983</xmax>
+            <ymax>830</ymax>
+        </bndbox>
+    </object>
+</annotation>

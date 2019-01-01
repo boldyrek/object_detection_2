@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-crosstownautocentre-used-Chrysler-2013-Chrysler-200-Convertible-edmonton-ab-d66028c80a0e0a6b71416791b22e3d80-htm-2018-12-04-16_48_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1003</xmin>
+            <ymin>979</ymin>
+            <xmax>1029</xmax>
+            <ymax>1016</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvillechryslerdodgejeepram-ca-used-Ram-2018-Ram-1500-367b8f710a0e0ae80c59a763b1c6cf58-htm-2018-12-14-12_44_16.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>801</ymin>
+            <xmax>883</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

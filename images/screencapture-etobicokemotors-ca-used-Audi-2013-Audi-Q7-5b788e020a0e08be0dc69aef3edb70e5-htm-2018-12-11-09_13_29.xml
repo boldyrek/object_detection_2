@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-etobicokemotors-ca-used-Audi-2013-Audi-Q7-5b788e020a0e08be0dc69aef3edb70e5-htm-2018-12-11-09_13_29.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2458</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>865</xmin>
+            <ymin>952</ymin>
+            <xmax>877</xmax>
+            <ymax>962</ymax>
+        </bndbox>
+    </object>
+</annotation>

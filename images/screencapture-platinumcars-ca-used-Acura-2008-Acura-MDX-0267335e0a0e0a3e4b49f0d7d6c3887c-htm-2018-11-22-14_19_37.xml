@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-platinumcars-ca-used-Acura-2008-Acura-MDX-0267335e0a0e0a3e4b49f0d7d6c3887c-htm-2018-11-22-14_19_37.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4437</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1151</xmin>
+            <ymin>838</ymin>
+            <xmax>1191</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

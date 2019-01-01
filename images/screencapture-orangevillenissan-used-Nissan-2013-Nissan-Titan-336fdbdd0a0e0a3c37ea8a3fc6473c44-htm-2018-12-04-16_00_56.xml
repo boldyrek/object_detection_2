@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-orangevillenissan-used-Nissan-2013-Nissan-Titan-336fdbdd0a0e0a3c37ea8a3fc6473c44-htm-2018-12-04-16_00_56.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2522</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>793</ymin>
+            <xmax>983</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

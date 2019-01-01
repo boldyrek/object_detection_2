@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2013-bmw-x3-xdrive28i-id9064378-htm-2018-11-23-17_11_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2685</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1021</xmin>
+            <ymin>561</ymin>
+            <xmax>1062</xmax>
+            <ymax>601</ymax>
+        </bndbox>
+    </object>
+</annotation>

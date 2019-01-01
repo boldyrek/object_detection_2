@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-arthurchryslerdealer-used-Chrysler-2014-Chrysler-300-7e0e88ce0a0e0adf3d145ad47d9fbf79-htm-2018-12-10-13_24_44.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>819</ymin>
+            <xmax>986</xmax>
+            <ymax>843</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-platinumcars-ca-used-Volkswagen-2009-Volkswagen-Tiguan-70bec6500a0e0a3f3a33498d6cc9175a-htm-2018-12-01-20_02_16.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4437</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1031</xmin>
+            <ymin>837</ymin>
+            <xmax>1072</xmax>
+            <ymax>885</ymax>
+        </bndbox>
+    </object>
+</annotation>

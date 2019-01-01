@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lauriavolkswagen-inventory-certified-used-2015-volkswagen-jetta-2-0l-trendline-auto-backup-camera-bluetooth-fwd-sedan-3vw2k7aj1fm234198-2018-12-14-12_47_07.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4810</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>1038</ymin>
+            <xmax>957</xmax>
+            <ymax>1056</ymax>
+        </bndbox>
+    </object>
+</annotation>

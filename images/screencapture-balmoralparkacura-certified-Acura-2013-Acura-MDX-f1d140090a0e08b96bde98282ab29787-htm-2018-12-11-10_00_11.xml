@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-balmoralparkacura-certified-Acura-2013-Acura-MDX-f1d140090a0e08b96bde98282ab29787-htm-2018-12-11-10_00_11.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3561</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>800</ymin>
+            <xmax>879</xmax>
+            <ymax>831</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gtamotorcars-used-Porsche-2011-Porsche-Cayenne-8b07da8f0a0e08bc0fb4d95717263619-htm-2018-12-14-13_09_55.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1795</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>751</ymin>
+            <xmax>641</xmax>
+            <ymax>773</ymax>
+        </bndbox>
+    </object>
+</annotation>

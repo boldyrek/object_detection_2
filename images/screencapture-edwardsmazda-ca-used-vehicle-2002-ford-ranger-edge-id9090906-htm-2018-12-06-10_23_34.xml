@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-edwardsmazda-ca-used-vehicle-2002-ford-ranger-edge-id9090906-htm-2018-12-06-10_23_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>6117</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>801</ymin>
+            <xmax>934</xmax>
+            <ymax>845</ymax>
+        </bndbox>
+    </object>
+</annotation>

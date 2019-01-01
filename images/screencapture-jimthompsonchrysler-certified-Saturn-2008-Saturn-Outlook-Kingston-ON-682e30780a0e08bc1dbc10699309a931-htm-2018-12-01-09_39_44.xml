@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-jimthompsonchrysler-certified-Saturn-2008-Saturn-Outlook-Kingston-ON-682e30780a0e08bc1dbc10699309a931-htm-2018-12-01-09_39_44.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2612</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>893</ymin>
+            <xmax>983</xmax>
+            <ymax>915</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-gpvolkswagen-ca-inventory-used-2010-dodge-dakota-sxt-4x4-crew-cab-1d7cw3gp9as223603-2018-12-01-18_59_16.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3717</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>1119</ymin>
+            <xmax>1036</xmax>
+            <ymax>1119</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>1093</ymin>
+            <xmax>1068</xmax>
+            <ymax>1126</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cindoraautosales-ca-certified-Ram-2012-Ram-1500-aa10e65f0a0e0a3a02f0dcfd77ebbd87-htm-2018-11-23-16_32_53.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3663</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1070</xmin>
+            <ymin>815</ymin>
+            <xmax>1089</xmax>
+            <ymax>844</ymax>
+        </bndbox>
+    </object>
+</annotation>

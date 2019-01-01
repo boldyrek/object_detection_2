@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoexpoinc-ca-inventory-2011-toyota-camry-3130576-2018-12-06-19_35_05.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3988</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>589</xmin>
+            <ymin>489</ymin>
+            <xmax>632</xmax>
+            <ymax>531</ymax>
+        </bndbox>
+    </object>
+</annotation>

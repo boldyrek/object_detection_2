@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-417infiniti-used-Ford-2014-Ford-Escape-9a19615b0a0e08ba5e3a70a46ffb6a7c-htm-2018-12-13-19_04_52.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5378</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>947</ymin>
+            <xmax>932</xmax>
+            <ymax>983</ymax>
+        </bndbox>
+    </object>
+</annotation>

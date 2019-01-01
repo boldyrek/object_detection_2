@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mikejacksongm-VehicleDetails-certified-2012-Chevrolet-Cruze-LS-_w-1SB-Collingwood-ON-3310888343-2018-12-12-20_06_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>666</xmin>
+            <ymin>609</ymin>
+            <xmax>710</xmax>
+            <ymax>689</ymax>
+        </bndbox>
+    </object>
+</annotation>

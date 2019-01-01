@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-westtorontoauto-heavytruck-used-DODGE-2014-DODGE-Ram-Cargo-Van-d55cf2fc0a0e0a412ca6cf84cb76e0d0-htm-2018-12-11-10_02_06.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2258</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>854</xmin>
+            <ymin>782</ymin>
+            <xmax>870</xmax>
+            <ymax>811</ymax>
+        </bndbox>
+    </object>
+</annotation>

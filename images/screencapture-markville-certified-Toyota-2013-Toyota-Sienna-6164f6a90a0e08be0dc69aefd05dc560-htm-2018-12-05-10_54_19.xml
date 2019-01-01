@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-markville-certified-Toyota-2013-Toyota-Sienna-6164f6a90a0e08be0dc69aefd05dc560-htm-2018-12-05-10_54_19.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2059</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>950</xmin>
+            <ymin>549</ymin>
+            <xmax>961</xmax>
+            <ymax>570</ymax>
+        </bndbox>
+    </object>
+</annotation>

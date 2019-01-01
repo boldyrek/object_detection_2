@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-fiestamotors-ca-used-Ford-2014-Ford-Fusion-65506a9a0a0e08bb608fed850aa84e98-htm-2018-11-22-12_32_11.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2548</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1089</xmin>
+            <ymin>875</ymin>
+            <xmax>1101</xmax>
+            <ymax>885</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-drumhellerchrysler-certified-BMW-2014-BMW-M235i-3c7b7ea10a0e08b9234fccd9561d466b-htm-2018-12-10-13_09_33.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2094</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>819</ymin>
+            <xmax>986</xmax>
+            <ymax>856</ymax>
+        </bndbox>
+    </object>
+</annotation>

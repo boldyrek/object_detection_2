@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-mikejacksongm-VehicleDetails-certified-2013-Chevrolet-Trax-LS-Collingwood-ON-3280440123-2018-12-05-10_27_12.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3897</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>775</xmin>
+            <ymin>968</ymin>
+            <xmax>796</xmax>
+            <ymax>996</ymax>
+        </bndbox>
+    </object>
+</annotation>

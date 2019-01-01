@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-donnellyford-used-vehicle-2008-mazda-mazda3-id9046100-htm-2018-11-28-16_43_18.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1889</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1018</xmin>
+            <ymin>558</ymin>
+            <xmax>1063</xmax>
+            <ymax>601</ymax>
+        </bndbox>
+    </object>
+</annotation>

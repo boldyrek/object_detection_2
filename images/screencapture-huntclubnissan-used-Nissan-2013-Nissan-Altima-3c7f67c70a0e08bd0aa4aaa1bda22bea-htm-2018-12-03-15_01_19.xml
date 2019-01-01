@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-huntclubnissan-used-Nissan-2013-Nissan-Altima-3c7f67c70a0e08bd0aa4aaa1bda22bea-htm-2018-12-03-15_01_19.jpg</filename>
+    <size>
+        <width>1687</width>
+        <height>4500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>846</ymin>
+            <xmax>989</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

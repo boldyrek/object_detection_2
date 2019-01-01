@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-401dixiehyundai-used-Jeep-2011-Jeep-Grand-Cherokee-7b3220a10a0e08f704d62b6a3b8dd634-htm-2018-12-06-12_05_52.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5436</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1003</xmin>
+            <ymin>882</ymin>
+            <xmax>1033</xmax>
+            <ymax>912</ymax>
+        </bndbox>
+    </object>
+</annotation>

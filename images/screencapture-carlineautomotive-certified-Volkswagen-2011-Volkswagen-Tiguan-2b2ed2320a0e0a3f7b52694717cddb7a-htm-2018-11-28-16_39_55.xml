@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carlineautomotive-certified-Volkswagen-2011-Volkswagen-Tiguan-2b2ed2320a0e0a3f7b52694717cddb7a-htm-2018-11-28-16_39_55.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1825</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>684</ymin>
+            <xmax>1104</xmax>
+            <ymax>716</ymax>
+        </bndbox>
+    </object>
+</annotation>

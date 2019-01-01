@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-donvalleynorthhyundai-used-Lexus-2014-Lexus-IS-250-516e9a250a0e08b9234fccd9996bbd30-htm-2018-12-07-17_11_40.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2316</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>787</ymin>
+            <xmax>984</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+</annotation>

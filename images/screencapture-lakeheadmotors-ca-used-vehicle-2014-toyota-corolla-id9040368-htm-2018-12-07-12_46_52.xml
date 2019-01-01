@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-lakeheadmotors-ca-used-vehicle-2014-toyota-corolla-id9040368-htm-2018-12-07-12_46_52.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>526</ymin>
+            <xmax>943</xmax>
+            <ymax>567</ymax>
+        </bndbox>
+    </object>
+</annotation>

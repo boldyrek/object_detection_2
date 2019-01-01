@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-boltonhonda-ca-certified-Honda-2013-Honda-Civic-caeae0810a0e08bc4fbdc54c06ebb5b7-htm-2018-12-05-13_12_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1022</xmin>
+            <ymin>733</ymin>
+            <xmax>1039</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

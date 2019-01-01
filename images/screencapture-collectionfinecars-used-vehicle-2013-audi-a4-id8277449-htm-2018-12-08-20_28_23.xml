@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-collectionfinecars-used-vehicle-2013-audi-a4-id8277449-htm-2018-12-08-20_28_23.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2791</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>901</xmin>
+            <ymin>693</ymin>
+            <xmax>943</xmax>
+            <ymax>736</ymax>
+        </bndbox>
+    </object>
+</annotation>

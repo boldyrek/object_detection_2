@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autoparkbrampton-ca-used-vehicle-2013-audi-q7-30t-sport-id9018254-htm-2018-12-10-13_01_49.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2717</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>567</ymin>
+            <xmax>944</xmax>
+            <ymax>611</ymax>
+        </bndbox>
+    </object>
+</annotation>

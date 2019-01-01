@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-mycar-ca-used-vehicle-2017-chevrolet-cruze-lt-auto-id9023307-htm-2018-11-23-14_54_58.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7593</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1035</xmin>
+            <ymin>636</ymin>
+            <xmax>1052</xmax>
+            <ymax>663</ymax>
+        </bndbox>
+    </object>
+</annotation>

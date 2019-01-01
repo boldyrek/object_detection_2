@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-skafauto-ca-certified-Chevrolet-2013-Chevrolet-Silverado-1500-458809ae0a0e08b95f96b4cc23db1612-htm-2018-12-11-10_15_30.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2230</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>860</xmin>
+            <ymin>752</ymin>
+            <xmax>881</xmax>
+            <ymax>786</ymax>
+        </bndbox>
+    </object>
+</annotation>

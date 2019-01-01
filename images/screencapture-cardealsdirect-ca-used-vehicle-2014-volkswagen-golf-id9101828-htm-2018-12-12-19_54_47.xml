@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cardealsdirect-ca-used-vehicle-2014-volkswagen-golf-id9101828-htm-2018-12-12-19_54_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2579</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>792</xmin>
+            <ymin>542</ymin>
+            <xmax>844</xmax>
+            <ymax>592</ymax>
+        </bndbox>
+    </object>
+</annotation>

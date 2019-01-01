@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffvw-inventory-certified-used-2015-volkswagen-golf-gti-5-dr-2-0t-autobahn-at-dsg-tip-front-wheel-drive-5-door-hatchback-3vw4t7au4fm004073-2018-12-14-11_01_24.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3334</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>944</xmin>
+            <ymin>956</ymin>
+            <xmax>956</xmax>
+            <ymax>973</ymax>
+        </bndbox>
+    </object>
+</annotation>

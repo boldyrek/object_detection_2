@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-monteroauto-used-Toyota-2010-Toyota-Corolla-1c9c2ee00a0e08b93b55fd6ece7eb269-htm-2018-11-23-17_18_55.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3326</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1084</xmin>
+            <ymin>708</ymin>
+            <xmax>1105</xmax>
+            <ymax>743</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-belangerchrysler-ca-used-Chevrolet-2014-Chevrolet-Cruze-f42581b80a0d0cc75f7dbfb72cacf987-htm-2018-12-10-18_58_04.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4097</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>929</ymin>
+            <xmax>880</xmax>
+            <ymax>955</ymax>
+        </bndbox>
+    </object>
+</annotation>

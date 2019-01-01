@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-wonderlandautomart-used-Dodge-2010-Dodge-Grand-Caravan-16576bf40a0e0a3f57cd42fa418a86f2-htm-2018-11-23-14_44_35.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3035</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1084</xmin>
+            <ymin>742</ymin>
+            <xmax>1105</xmax>
+            <ymax>777</ymax>
+        </bndbox>
+    </object>
+</annotation>

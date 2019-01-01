@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-theleasingcompany-ca-used-vehicle-2013-volkswagen-touareg-30-tdi-execline-id9046151-htm-2018-12-04-10_28_04.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8132</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>909</xmin>
+            <ymin>515</ymin>
+            <xmax>926</xmax>
+            <ymax>539</ymax>
+        </bndbox>
+    </object>
+</annotation>

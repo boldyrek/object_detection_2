@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-khybermotors-inventory-2010-ford-ranger-3130622-2018-12-06-12_17_58.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4348</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>905</xmin>
+            <ymin>498</ymin>
+            <xmax>947</xmax>
+            <ymax>545</ymax>
+        </bndbox>
+    </object>
+</annotation>

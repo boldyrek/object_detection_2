@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2018-gmc-yukon-xl-denali-id8996343-htm-2018-12-13-11_33_25.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3127</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>1257</ymin>
+            <xmax>833</xmax>
+            <ymax>1265</ymax>
+        </bndbox>
+    </object>
+</annotation>

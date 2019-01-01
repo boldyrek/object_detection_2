@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-legacyfordponoka-ca-used-Lincoln-2017-Lincoln-MKX-c40ea01d0a0e0ae84f2540346adc1471-htm-2018-11-22-12_23_28.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3579</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>865</ymin>
+            <xmax>1105</xmax>
+            <ymax>895</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-adamsgm-used-Buick-2014-Buick-Enclave-wetaskiwin-ponoka-ab-00f4e0810a0e0a174f9ccd061fb04c4b-htm-2018-12-06-08_36_40.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5993</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>814</ymin>
+            <xmax>983</xmax>
+            <ymax>845</ymax>
+        </bndbox>
+    </object>
+</annotation>

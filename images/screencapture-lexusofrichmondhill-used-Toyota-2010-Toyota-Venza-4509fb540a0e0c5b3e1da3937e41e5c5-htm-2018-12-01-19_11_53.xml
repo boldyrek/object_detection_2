@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-lexusofrichmondhill-used-Toyota-2010-Toyota-Venza-4509fb540a0e0c5b3e1da3937e41e5c5-htm-2018-12-01-19_11_53.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2391</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>788</ymin>
+            <xmax>982</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-jpmotors-used-vehicle-2013-audi-a3-20t-progressiv-id9075183-htm-2018-12-04-11_27_58.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2937</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>505</ymin>
+            <xmax>942</xmax>
+            <ymax>547</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-torontochrysler-used-Subaru-2014-Subaru-XV-Crosstrek-5f73d8220a0e0adf45cc52b4d6ce3e7c-htm-2018-12-07-17_55_05.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5191</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1007</xmin>
+            <ymin>939</ymin>
+            <xmax>1028</xmax>
+            <ymax>975</ymax>
+        </bndbox>
+    </object>
+</annotation>

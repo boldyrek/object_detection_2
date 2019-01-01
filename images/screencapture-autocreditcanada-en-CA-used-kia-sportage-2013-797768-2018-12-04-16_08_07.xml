@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autocreditcanada-en-CA-used-kia-sportage-2013-797768-2018-12-04-16_08_07.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5901</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>988</xmin>
+            <ymin>800</ymin>
+            <xmax>1015</xmax>
+            <ymax>900</ymax>
+        </bndbox>
+    </object>
+</annotation>

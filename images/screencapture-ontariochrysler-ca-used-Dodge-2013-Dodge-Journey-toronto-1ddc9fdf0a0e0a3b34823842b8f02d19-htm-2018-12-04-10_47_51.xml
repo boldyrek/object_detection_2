@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ontariochrysler-ca-used-Dodge-2013-Dodge-Journey-toronto-1ddc9fdf0a0e0a3b34823842b8f02d19-htm-2018-12-04-10_47_51.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4604</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>858</ymin>
+            <xmax>980</xmax>
+            <ymax>883</ymax>
+        </bndbox>
+    </object>
+</annotation>

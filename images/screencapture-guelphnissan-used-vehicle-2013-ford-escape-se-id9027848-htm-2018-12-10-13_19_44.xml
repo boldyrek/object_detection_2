@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-guelphnissan-used-vehicle-2013-ford-escape-se-id9027848-htm-2018-12-10-13_19_44.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8233</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>914</xmin>
+            <ymin>536</ymin>
+            <xmax>933</xmax>
+            <ymax>559</ymax>
+        </bndbox>
+    </object>
+</annotation>

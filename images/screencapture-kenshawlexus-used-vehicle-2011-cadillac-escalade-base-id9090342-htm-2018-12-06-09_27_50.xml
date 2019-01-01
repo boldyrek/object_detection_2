@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-kenshawlexus-used-vehicle-2011-cadillac-escalade-base-id9090342-htm-2018-12-06-09_27_50.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>9029</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>912</xmin>
+            <ymin>642</ymin>
+            <xmax>931</xmax>
+            <ymax>665</ymax>
+        </bndbox>
+    </object>
+</annotation>

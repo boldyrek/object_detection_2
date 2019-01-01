@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-kiaofstcatharines-used-Toyota-2015-Toyota-Avalon-8eb65cff0a0e08f704d62b6aa6542064-htm-2018-12-14-11_04_37.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3030</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>866</xmin>
+            <ymin>768</ymin>
+            <xmax>883</xmax>
+            <ymax>798</ymax>
+        </bndbox>
+    </object>
+</annotation>

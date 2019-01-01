@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-leaseprogressive-used-Honda-2010-Honda-Ridgeline-75af97220a0e0a422d1cf3602181e0ee-htm-2018-12-06-19_57_40.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3565</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>725</ymin>
+            <xmax>986</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

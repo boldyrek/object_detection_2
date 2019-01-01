@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-ajaxhyundai-used-vehicle-2018-hyundai-elantra-gl-se-id9092518-htm-2018-12-12-18_10_00.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>7841</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>907</ymin>
+            <xmax>837</xmax>
+            <ymax>917</ymax>
+        </bndbox>
+    </object>
+</annotation>

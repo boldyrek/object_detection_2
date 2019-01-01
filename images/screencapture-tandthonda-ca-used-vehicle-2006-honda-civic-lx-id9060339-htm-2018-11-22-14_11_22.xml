@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-tandthonda-ca-used-vehicle-2006-honda-civic-lx-id9060339-htm-2018-11-22-14_11_22.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>6958</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>587</ymin>
+            <xmax>1067</xmax>
+            <ymax>633</ymax>
+        </bndbox>
+    </object>
+</annotation>

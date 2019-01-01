@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-topbillinauto-ca-used-Land-Rover-2007-Land-Rover-Range-Rover-fa7725a40a0e08bb50a701537c0420f3-htm-2018-12-01-09_10_33.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5060</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>774</ymin>
+            <xmax>982</xmax>
+            <ymax>804</ymax>
+        </bndbox>
+    </object>
+</annotation>

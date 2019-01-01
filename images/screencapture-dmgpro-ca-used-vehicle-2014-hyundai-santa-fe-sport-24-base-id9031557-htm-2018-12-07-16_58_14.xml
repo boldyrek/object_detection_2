@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-dmgpro-ca-used-vehicle-2014-hyundai-santa-fe-sport-24-base-id9031557-htm-2018-12-07-16_58_14.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>8477</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>591</ymin>
+            <xmax>945</xmax>
+            <ymax>636</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-certified-2014-Chevrolet-Equinox-FWD_4dr_LT_w-2LT-Cambridge-ON-3315925123-2018-12-14-12_15_46.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4278</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>678</xmin>
+            <ymin>850</ymin>
+            <xmax>699</xmax>
+            <ymax>879</ymax>
+        </bndbox>
+    </object>
+</annotation>

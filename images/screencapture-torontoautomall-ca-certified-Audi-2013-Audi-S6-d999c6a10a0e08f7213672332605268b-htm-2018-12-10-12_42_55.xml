@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-torontoautomall-ca-certified-Audi-2013-Audi-S6-d999c6a10a0e08f7213672332605268b-htm-2018-12-10-12_42_55.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4248</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>825</ymin>
+            <xmax>984</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

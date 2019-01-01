@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-murraychev-ca-certified-Chevrolet-2018-Chevrolet-Cruze-19ad6fc30a0e0ae84c1f819d69fec5e8-htm-2018-12-12-16_43_16.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2828</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>858</xmin>
+            <ymin>873</ymin>
+            <xmax>877</xmax>
+            <ymax>905</ymax>
+        </bndbox>
+    </object>
+</annotation>

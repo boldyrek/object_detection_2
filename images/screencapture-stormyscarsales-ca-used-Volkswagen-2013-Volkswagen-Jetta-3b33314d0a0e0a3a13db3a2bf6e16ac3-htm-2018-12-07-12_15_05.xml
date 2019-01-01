@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-stormyscarsales-ca-used-Volkswagen-2013-Volkswagen-Jetta-3b33314d0a0e0a3a13db3a2bf6e16ac3-htm-2018-12-07-12_15_05.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3252</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>852</ymin>
+            <xmax>987</xmax>
+            <ymax>888</ymax>
+        </bndbox>
+    </object>
+</annotation>

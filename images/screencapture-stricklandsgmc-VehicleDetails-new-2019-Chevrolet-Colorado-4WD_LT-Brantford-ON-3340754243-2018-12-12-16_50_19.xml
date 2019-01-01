@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-stricklandsgmc-VehicleDetails-new-2019-Chevrolet-Colorado-4WD_LT-Brantford-ON-3340754243-2018-12-12-16_50_19.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5563</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>714</ymin>
+            <xmax>696</xmax>
+            <ymax>739</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-chryslervermilion-ca-used-Dodge-2010-Dodge-Grand-Caravan-dde70c2f0a0d0cc748f2c4b73986798d-htm-2018-12-01-19_00_43.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3929</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>798</ymin>
+            <xmax>985</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+</annotation>

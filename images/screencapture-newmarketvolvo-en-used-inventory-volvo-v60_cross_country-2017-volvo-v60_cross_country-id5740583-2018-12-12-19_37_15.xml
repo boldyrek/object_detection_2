@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-newmarketvolvo-en-used-inventory-volvo-v60_cross_country-2017-volvo-v60_cross_country-id5740583-2018-12-12-19_37_15.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>5595</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1414</xmin>
+            <ymin>440</ymin>
+            <xmax>1429</xmax>
+            <ymax>463</ymax>
+        </bndbox>
+    </object>
+</annotation>

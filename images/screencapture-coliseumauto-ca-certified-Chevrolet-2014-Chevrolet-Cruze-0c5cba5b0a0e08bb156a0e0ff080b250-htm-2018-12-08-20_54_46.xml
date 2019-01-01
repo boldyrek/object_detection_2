@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-coliseumauto-ca-certified-Chevrolet-2014-Chevrolet-Cruze-0c5cba5b0a0e08bb156a0e0ff080b250-htm-2018-12-08-20_54_46.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3263</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>773</ymin>
+            <xmax>984</xmax>
+            <ymax>809</ymax>
+        </bndbox>
+    </object>
+</annotation>

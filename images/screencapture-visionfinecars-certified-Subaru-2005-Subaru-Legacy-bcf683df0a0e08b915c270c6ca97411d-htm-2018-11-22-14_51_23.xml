@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-visionfinecars-certified-Subaru-2005-Subaru-Legacy-bcf683df0a0e08b915c270c6ca97411d-htm-2018-11-22-14_51_23.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2134</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>775</ymin>
+            <xmax>1100</xmax>
+            <ymax>798</ymax>
+        </bndbox>
+    </object>
+</annotation>

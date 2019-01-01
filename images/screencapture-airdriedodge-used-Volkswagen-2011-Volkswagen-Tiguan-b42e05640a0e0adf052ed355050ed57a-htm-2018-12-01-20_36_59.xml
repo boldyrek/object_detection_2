@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-airdriedodge-used-Volkswagen-2011-Volkswagen-Tiguan-b42e05640a0e0adf052ed355050ed57a-htm-2018-12-01-20_36_59.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5667</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1003</xmin>
+            <ymin>977</ymin>
+            <xmax>1027</xmax>
+            <ymax>1013</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-rolls-royce-wraith-north-york-ontario-5_37037169_on20071128102832006-2018-12-12-16_28_38.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2665</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>595</ymin>
+            <xmax>911</xmax>
+            <ymax>609</ymax>
+        </bndbox>
+    </object>
+</annotation>

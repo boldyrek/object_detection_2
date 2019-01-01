@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-downtownmotorproducts-ca-inventory-2017-toyota-camry-3052942-2018-11-22-12_49_16.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3884</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>696</xmin>
+            <ymin>507</ymin>
+            <xmax>753</xmax>
+            <ymax>563</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-carcitycanada-ca-used-vehicle-2008-honda-civic-dx-g-id9089952-htm-2018-12-06-08_37_22.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5867</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>514</ymin>
+            <xmax>942</xmax>
+            <ymax>559</ymax>
+        </bndbox>
+    </object>
+</annotation>

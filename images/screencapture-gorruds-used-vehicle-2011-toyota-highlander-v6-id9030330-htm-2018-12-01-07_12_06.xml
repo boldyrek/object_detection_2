@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gorruds-used-vehicle-2011-toyota-highlander-v6-id9030330-htm-2018-12-01-07_12_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8632</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>529</ymin>
+            <xmax>931</xmax>
+            <ymax>554</ymax>
+        </bndbox>
+    </object>
+</annotation>

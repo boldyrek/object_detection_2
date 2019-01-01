@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bentonfryford-ca-used-Ram-2016-Ram-1500-d0cad1150a0e08bc4fbdc54c8e002214-htm-2018-11-22-12_15_34.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1081</xmin>
+            <ymin>824</ymin>
+            <xmax>1105</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+</annotation>

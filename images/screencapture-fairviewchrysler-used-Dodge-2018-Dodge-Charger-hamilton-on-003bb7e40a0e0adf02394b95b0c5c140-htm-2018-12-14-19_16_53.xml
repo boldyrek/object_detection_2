@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-fairviewchrysler-used-Dodge-2018-Dodge-Charger-hamilton-on-003bb7e40a0e0adf02394b95b0c5c140-htm-2018-12-14-19_16_53.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>850</ymin>
+            <xmax>881</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+</annotation>

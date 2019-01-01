@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-revellford-used-Mazda-2007-Mazda-CX-7-c165c5c40a0e08be358282a6211efb93-htm-2018-12-01-18_57_53.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>965</xmin>
+            <ymin>737</ymin>
+            <xmax>982</xmax>
+            <ymax>766</ymax>
+        </bndbox>
+    </object>
+</annotation>

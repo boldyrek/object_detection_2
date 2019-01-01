@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-midwaynissan-bargain-Honda-2004-Honda-Civic-8b48f1820a0e0ae76e5b1cc4084f697a-htm-2018-12-01-19_21_41.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>5673</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>824</ymin>
+            <xmax>986</xmax>
+            <ymax>853</ymax>
+        </bndbox>
+    </object>
+</annotation>

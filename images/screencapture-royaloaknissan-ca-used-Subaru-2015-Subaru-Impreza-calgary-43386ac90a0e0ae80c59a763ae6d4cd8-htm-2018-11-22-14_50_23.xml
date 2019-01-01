@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-royaloaknissan-ca-used-Subaru-2015-Subaru-Impreza-calgary-43386ac90a0e0ae80c59a763ae6d4cd8-htm-2018-11-22-14_50_23.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2507</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>865</ymin>
+            <xmax>1103</xmax>
+            <ymax>895</ymax>
+        </bndbox>
+    </object>
+</annotation>

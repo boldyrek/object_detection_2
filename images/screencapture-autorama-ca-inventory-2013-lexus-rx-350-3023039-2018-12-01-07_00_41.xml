@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autorama-ca-inventory-2013-lexus-rx-350-3023039-2018-12-01-07_00_41.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3656</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>994</xmin>
+            <ymin>815</ymin>
+            <xmax>1029</xmax>
+            <ymax>851</ymax>
+        </bndbox>
+    </object>
+</annotation>

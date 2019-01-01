@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autopricecanada-used-vehicle-2013-porsche-cayenne-base-id9003192-htm-2018-12-04-10_11_49.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>8351</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>639</ymin>
+            <xmax>942</xmax>
+            <ymax>681</ymax>
+        </bndbox>
+    </object>
+</annotation>

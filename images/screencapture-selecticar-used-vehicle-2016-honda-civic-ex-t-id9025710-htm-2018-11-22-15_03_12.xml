@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-selecticar-used-vehicle-2016-honda-civic-ex-t-id9025710-htm-2018-11-22-15_03_12.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>7771</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1030</xmin>
+            <ymin>539</ymin>
+            <xmax>1047</xmax>
+            <ymax>564</ymax>
+        </bndbox>
+    </object>
+</annotation>

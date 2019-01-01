@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-automobilecarrera-used-Hyundai-2013-Hyundai-Tucson-3fffa1ea0a0e0a427961f2ff116946d2-htm-2018-12-04-10_13_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>957</xmin>
+            <ymin>688</ymin>
+            <xmax>981</xmax>
+            <ymax>725</ymax>
+        </bndbox>
+    </object>
+</annotation>

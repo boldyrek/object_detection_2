@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-calgaryautoconnection-ca-used-Porsche-2004-Porsche-Cayenne-14a6eeb90a0e0a400a9ba112dc9dae86-htm-2018-12-01-09_36_36.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>1417</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>702</xmin>
+            <ymin>608</ymin>
+            <xmax>717</xmax>
+            <ymax>633</ymax>
+        </bndbox>
+    </object>
+</annotation>

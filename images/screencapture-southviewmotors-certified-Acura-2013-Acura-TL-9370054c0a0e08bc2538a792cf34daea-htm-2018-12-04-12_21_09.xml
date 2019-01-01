@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-southviewmotors-certified-Acura-2013-Acura-TL-9370054c0a0e08bc2538a792cf34daea-htm-2018-12-04-12_21_09.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2630</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>722</xmin>
+            <ymin>782</ymin>
+            <xmax>733</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>

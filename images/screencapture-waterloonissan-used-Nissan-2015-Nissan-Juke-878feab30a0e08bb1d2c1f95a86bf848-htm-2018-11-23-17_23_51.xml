@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-waterloonissan-used-Nissan-2015-Nissan-Juke-878feab30a0e08bb1d2c1f95a86bf848-htm-2018-11-23-17_23_51.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3677</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1088</xmin>
+            <ymin>794</ymin>
+            <xmax>1103</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

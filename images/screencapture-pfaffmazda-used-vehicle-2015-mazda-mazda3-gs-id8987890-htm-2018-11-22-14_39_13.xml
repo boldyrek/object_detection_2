@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-pfaffmazda-used-vehicle-2015-mazda-mazda3-gs-id8987890-htm-2018-11-22-14_39_13.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2957</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>658</ymin>
+            <xmax>1052</xmax>
+            <ymax>681</ymax>
+        </bndbox>
+    </object>
+</annotation>

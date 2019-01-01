@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-precisionhyundai-used-Volkswagen-2016-Volkswagen-Golf-R-f4cb09140a0e08f76a32b06dd7e72063-htm-2018-11-22-12_25_23.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2063</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1086</xmin>
+            <ymin>714</ymin>
+            <xmax>1104</xmax>
+            <ymax>747</ymax>
+        </bndbox>
+    </object>
+</annotation>

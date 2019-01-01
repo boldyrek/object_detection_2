@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-colonyfordlincoln-used-Cadillac-2013-Cadillac-XTS-brampton-toronto-11dac4560a0e08b93b55fd6e87455e40-htm-2018-12-03-12_39_46.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>897</ymin>
+            <xmax>983</xmax>
+            <ymax>925</ymax>
+        </bndbox>
+    </object>
+</annotation>

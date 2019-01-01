@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-cooksvillehyundai-used-vehicle-2018-dodge-durango-srt-id9030340-htm-2018-12-12-19_29_39.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>963</ymin>
+            <xmax>833</xmax>
+            <ymax>971</ymax>
+        </bndbox>
+    </object>
+</annotation>

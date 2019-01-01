@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-ponokachrysler-used-RAM-2013-RAM-1500-79e87db40a0e08bd07a981199239af5a-htm-2018-12-07-20_44_14.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>5012</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1007</xmin>
+            <ymin>979</ymin>
+            <xmax>1031</xmax>
+            <ymax>1015</ymax>
+        </bndbox>
+    </object>
+</annotation>

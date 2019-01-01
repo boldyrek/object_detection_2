@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-apollopreowned-ca-vehicle-stk8341-2008-chevrolet-silverado-2500hd-6-6l-duramax-sunroof-leather-2018-12-13-11_16_28.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2620</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>615</ymin>
+            <xmax>738</xmax>
+            <ymax>635</ymax>
+        </bndbox>
+    </object>
+</annotation>

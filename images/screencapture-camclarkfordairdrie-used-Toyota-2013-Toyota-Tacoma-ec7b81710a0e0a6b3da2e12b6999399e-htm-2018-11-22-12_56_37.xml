@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-camclarkfordairdrie-used-Toyota-2013-Toyota-Tacoma-ec7b81710a0e0a6b3da2e12b6999399e-htm-2018-11-22-12_56_37.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2765</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>768</ymin>
+            <xmax>1104</xmax>
+            <ymax>798</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-usedluxurycars-ca-certified-Volkswagen-2012-Volkswagen-Routan-25ff2b0b0a0e08bb1380d5ad086171b3-htm-2018-12-07-12_16_36.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3698</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>908</ymin>
+            <xmax>984</xmax>
+            <ymax>938</ymax>
+        </bndbox>
+    </object>
+</annotation>

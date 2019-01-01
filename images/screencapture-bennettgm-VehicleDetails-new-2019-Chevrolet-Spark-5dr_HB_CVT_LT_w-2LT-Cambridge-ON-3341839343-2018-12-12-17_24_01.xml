@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-new-2019-Chevrolet-Spark-5dr_HB_CVT_LT_w-2LT-Cambridge-ON-3341839343-2018-12-12-17_24_01.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>4218</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>812</ymin>
+            <xmax>913</xmax>
+            <ymax>838</ymax>
+        </bndbox>
+    </object>
+</annotation>

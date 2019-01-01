@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-vellasauto-used-vehicle-2013-mazda-mazdaspeed3-id9097118-htm-2018-12-11-10_14_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2248</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>967</ymin>
+            <xmax>833</xmax>
+            <ymax>975</ymax>
+        </bndbox>
+    </object>
+</annotation>

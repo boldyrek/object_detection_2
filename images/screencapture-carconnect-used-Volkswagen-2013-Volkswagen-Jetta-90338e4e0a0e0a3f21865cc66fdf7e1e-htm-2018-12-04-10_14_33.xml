@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-carconnect-used-Volkswagen-2013-Volkswagen-Jetta-90338e4e0a0e0a3f21865cc66fdf7e1e-htm-2018-12-04-10_14_33.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3427</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>912</ymin>
+            <xmax>985</xmax>
+            <ymax>946</ymax>
+        </bndbox>
+    </object>
+</annotation>

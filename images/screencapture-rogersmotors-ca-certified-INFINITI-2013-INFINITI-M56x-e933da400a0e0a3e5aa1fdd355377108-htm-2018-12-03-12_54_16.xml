@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-certified-INFINITI-2013-INFINITI-M56x-e933da400a0e0a3e5aa1fdd355377108-htm-2018-12-03-12_54_16.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3958</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>966</xmin>
+            <ymin>749</ymin>
+            <xmax>982</xmax>
+            <ymax>779</ymax>
+        </bndbox>
+    </object>
+</annotation>

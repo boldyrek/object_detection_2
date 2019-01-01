@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-loolooauto-ca-used-Subaru-2011-Subaru-Forester-7c9e0e740a0e0c591acea3ed01b53d69-htm-2018-12-06-09_04_06.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3173</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>964</xmin>
+            <ymin>821</ymin>
+            <xmax>983</xmax>
+            <ymax>850</ymax>
+        </bndbox>
+    </object>
+</annotation>

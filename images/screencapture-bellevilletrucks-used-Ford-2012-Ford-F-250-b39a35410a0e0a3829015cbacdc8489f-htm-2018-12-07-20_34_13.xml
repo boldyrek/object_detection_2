@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-bellevilletrucks-used-Ford-2012-Ford-F-250-b39a35410a0e0a3829015cbacdc8489f-htm-2018-12-07-20_34_13.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2358</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>1042</ymin>
+            <xmax>981</xmax>
+            <ymax>1052</ymax>
+        </bndbox>
+    </object>
+</annotation>

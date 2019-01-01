@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-miltonhyundai-used-vehicle-2014-toyota-sienna-id9047831-htm-2018-11-23-15_03_08.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3513</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1016</xmin>
+            <ymin>966</ymin>
+            <xmax>1065</xmax>
+            <ymax>1021</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-ontariohyundaicars-used-vehicle-2017-dodge-grand-caravan-crew-7-passenger-sto-go-id8946926-htm-2018-11-22-12_08_50.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3162</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1019</xmin>
+            <ymin>723</ymin>
+            <xmax>1065</xmax>
+            <ymax>772</ymax>
+        </bndbox>
+    </object>
+</annotation>

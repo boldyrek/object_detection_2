@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-orangevillenissan-used-Nissan-2015-Nissan-Juke-8f35304b0a0e0a3a003fa4f403a10e07-htm-2018-11-28-16_54_00.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2560</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>832</ymin>
+            <xmax>1104</xmax>
+            <ymax>862</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-leemunrosgarage-used-BMW-2014-BMW-4-Series-22808fb50a0e0a3c422f174ef47b7360-htm-2018-12-11-09_21_33.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2259</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>859</xmin>
+            <ymin>912</ymin>
+            <xmax>872</xmax>
+            <ymax>936</ymax>
+        </bndbox>
+    </object>
+</annotation>

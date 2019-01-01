@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-campbellfordchrysler-ca-used-Ram-2011-Ram-1500-98719b0a0a0e0a170ad74995f4cb742a-htm-2018-12-02-08_06_48.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3722</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>803</ymin>
+            <xmax>985</xmax>
+            <ymax>824</ymax>
+        </bndbox>
+    </object>
+</annotation>

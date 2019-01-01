@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-autotrader-ca-a-Hyundai-Sonata-Toronto-Ontario-5_40772846_ON20080416105119656-2018-12-08-19_31_03.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3066</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>994</xmin>
+            <ymin>472</ymin>
+            <xmax>1014</xmax>
+            <ymax>486</ymax>
+        </bndbox>
+    </object>
+</annotation>

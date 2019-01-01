@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-urbanmotors-ca-used-Volkswagen-2007-Volkswagen-Touareg-808b39a60a0e08ba5e3a70a41b07c99b-htm-2018-12-06-12_36_14.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1383</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>744</xmin>
+            <ymin>639</ymin>
+            <xmax>758</xmax>
+            <ymax>664</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-torontoautomall-ca-certified-Audi-2012-Audi-A6-07d7d4b30a0e08ba2f65f78aaffa3969-htm-2018-12-06-10_05_28.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>824</ymin>
+            <xmax>983</xmax>
+            <ymax>860</ymax>
+        </bndbox>
+    </object>
+</annotation>

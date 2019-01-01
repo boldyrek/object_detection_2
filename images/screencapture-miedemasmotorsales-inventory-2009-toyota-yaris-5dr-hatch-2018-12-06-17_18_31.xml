@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-miedemasmotorsales-inventory-2009-toyota-yaris-5dr-hatch-2018-12-06-17_18_31.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>1638</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1044</xmin>
+            <ymin>803</ymin>
+            <xmax>1069</xmax>
+            <ymax>827</ymax>
+        </bndbox>
+    </object>
+</annotation>

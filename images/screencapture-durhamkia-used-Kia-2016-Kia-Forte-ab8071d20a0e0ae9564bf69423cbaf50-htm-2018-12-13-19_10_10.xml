@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-durhamkia-used-Kia-2016-Kia-Forte-ab8071d20a0e0ae9564bf69423cbaf50-htm-2018-12-13-19_10_10.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3133</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>647</ymin>
+            <xmax>878</xmax>
+            <ymax>674</ymax>
+        </bndbox>
+    </object>
+</annotation>

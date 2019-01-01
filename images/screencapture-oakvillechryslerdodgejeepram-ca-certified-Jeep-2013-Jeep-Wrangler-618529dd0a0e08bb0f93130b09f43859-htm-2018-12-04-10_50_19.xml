@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-oakvillechryslerdodgejeepram-ca-certified-Jeep-2013-Jeep-Wrangler-618529dd0a0e08bb0f93130b09f43859-htm-2018-12-04-10_50_19.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4664</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>857</ymin>
+            <xmax>985</xmax>
+            <ymax>880</ymax>
+        </bndbox>
+    </object>
+</annotation>

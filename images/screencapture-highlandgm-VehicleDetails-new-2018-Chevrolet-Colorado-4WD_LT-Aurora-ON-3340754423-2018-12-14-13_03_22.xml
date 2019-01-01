@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-highlandgm-VehicleDetails-new-2018-Chevrolet-Colorado-4WD_LT-Aurora-ON-3340754423-2018-12-14-13_03_22.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4135</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>638</ymin>
+            <xmax>695</xmax>
+            <ymax>662</ymax>
+        </bndbox>
+    </object>
+</annotation>

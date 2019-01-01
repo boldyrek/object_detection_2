@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-bennettgm-VehicleDetails-new-2019-Chevrolet-Cruze-Sedan_LT-Cambridge-ON-3341839353-2018-12-14-12_42_53.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4161</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>679</xmin>
+            <ymin>779</ymin>
+            <xmax>696</xmax>
+            <ymax>807</ymax>
+        </bndbox>
+    </object>
+</annotation>

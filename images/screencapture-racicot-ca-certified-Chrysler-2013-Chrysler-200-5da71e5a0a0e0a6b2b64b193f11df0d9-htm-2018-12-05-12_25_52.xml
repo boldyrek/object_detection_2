@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-racicot-ca-certified-Chrysler-2013-Chrysler-200-5da71e5a0a0e0a6b2b64b193f11df0d9-htm-2018-12-05-12_25_52.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2818</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>758</ymin>
+            <xmax>985</xmax>
+            <ymax>782</ymax>
+        </bndbox>
+    </object>
+</annotation>

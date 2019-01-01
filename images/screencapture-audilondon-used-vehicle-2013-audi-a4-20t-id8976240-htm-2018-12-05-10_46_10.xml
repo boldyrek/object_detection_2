@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-audilondon-used-vehicle-2013-audi-a4-20t-id8976240-htm-2018-12-05-10_46_10.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7811</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>512</ymin>
+            <xmax>942</xmax>
+            <ymax>553</ymax>
+        </bndbox>
+    </object>
+</annotation>

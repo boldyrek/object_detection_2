@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-camclarkfordairdrie-used-Ford-2015-Ford-Focus-89d68c0a0a0e0a6b382f269e087354ce-htm-2018-11-23-16_33_46.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1087</xmin>
+            <ymin>769</ymin>
+            <xmax>1103</xmax>
+            <ymax>796</ymax>
+        </bndbox>
+    </object>
+</annotation>

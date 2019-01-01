@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-torontoautobrokers-ca-used-BMW-2011-BMW-X6-7aa9dad90a0e08bd07a9811940f05286-htm-2018-12-06-19_26_45.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4290</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>963</xmin>
+            <ymin>804</ymin>
+            <xmax>981</xmax>
+            <ymax>832</ymax>
+        </bndbox>
+    </object>
+</annotation>

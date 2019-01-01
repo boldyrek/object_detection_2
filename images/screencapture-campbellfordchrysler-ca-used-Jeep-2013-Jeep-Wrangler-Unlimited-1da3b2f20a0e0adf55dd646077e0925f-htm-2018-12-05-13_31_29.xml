@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-campbellfordchrysler-ca-used-Jeep-2013-Jeep-Wrangler-Unlimited-1da3b2f20a0e0adf55dd646077e0925f-htm-2018-12-05-13_31_29.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3932</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>799</ymin>
+            <xmax>987</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

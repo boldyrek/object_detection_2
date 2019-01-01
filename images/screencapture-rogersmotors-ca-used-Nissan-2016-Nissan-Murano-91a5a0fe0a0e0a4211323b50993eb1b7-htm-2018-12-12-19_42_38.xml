@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-rogersmotors-ca-used-Nissan-2016-Nissan-Murano-91a5a0fe0a0e0a4211323b50993eb1b7-htm-2018-12-12-19_42_38.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>4061</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>795</ymin>
+            <xmax>879</xmax>
+            <ymax>825</ymax>
+        </bndbox>
+    </object>
+</annotation>

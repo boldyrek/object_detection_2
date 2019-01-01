@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-hmpexeter-VehicleDetails-certified-2013-Buick-Encore-Premium-Exeter-ON-3334565703-2018-12-04-11_04_12.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>778</xmin>
+            <ymin>916</ymin>
+            <xmax>795</xmax>
+            <ymax>942</ymax>
+        </bndbox>
+    </object>
+</annotation>

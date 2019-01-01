@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-shawgmc-used-Toyota-2014-Toyota-Corolla-3b78dc750a0e0a174bb89ebf79d79466-htm-2018-12-07-19_50_39.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>3485</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>810</ymin>
+            <xmax>987</xmax>
+            <ymax>841</ymax>
+        </bndbox>
+    </object>
+</annotation>

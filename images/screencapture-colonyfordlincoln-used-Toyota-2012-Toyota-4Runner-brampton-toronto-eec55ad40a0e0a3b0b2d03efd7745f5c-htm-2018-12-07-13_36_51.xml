@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-colonyfordlincoln-used-Toyota-2012-Toyota-4Runner-brampton-toronto-eec55ad40a0e0a3b0b2d03efd7745f5c-htm-2018-12-07-13_36_51.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>2545</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>779</ymin>
+            <xmax>985</xmax>
+            <ymax>808</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-fiestamotors-ca-bargain-Mazda-2012-Mazda-Mazda3-85cb179b0a0e08ba5e3a70a44bd63d69-htm-2018-12-12-18_07_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2386</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>864</xmin>
+            <ymin>875</ymin>
+            <xmax>877</xmax>
+            <ymax>885</ymax>
+        </bndbox>
+    </object>
+</annotation>

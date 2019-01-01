@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-westendautomotive-used-Volvo-2010-Volvo-S40-7f3cbf310a0e0c581882bbc7f0ba88b3-htm-2018-12-06-08_43_34.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>2602</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>956</xmin>
+            <ymin>849</ymin>
+            <xmax>974</xmax>
+            <ymax>879</ymax>
+        </bndbox>
+    </object>
+</annotation>

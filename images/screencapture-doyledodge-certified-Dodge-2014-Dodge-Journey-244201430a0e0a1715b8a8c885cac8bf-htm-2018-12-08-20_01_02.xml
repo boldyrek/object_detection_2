@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-doyledodge-certified-Dodge-2014-Dodge-Journey-244201430a0e0a1715b8a8c885cac8bf-htm-2018-12-08-20_01_02.jpg</filename>
+    <size>
+        <width>1680</width>
+        <height>4290</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>969</xmin>
+            <ymin>967</ymin>
+            <xmax>988</xmax>
+            <ymax>994</ymax>
+        </bndbox>
+    </object>
+</annotation>

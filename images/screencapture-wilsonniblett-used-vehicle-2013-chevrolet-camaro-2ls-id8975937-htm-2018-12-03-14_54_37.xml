@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-wilsonniblett-used-vehicle-2013-chevrolet-camaro-2ls-id8975937-htm-2018-12-03-14_54_37.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7683</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>761</ymin>
+            <xmax>941</xmax>
+            <ymax>808</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gpchrysler-used-Nissan-2015-Nissan-Titan-14967f7b0a0e0adf55dd6460738a6afb-htm-2018-11-23-16_49_08.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>5670</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1128</xmin>
+            <ymin>981</ymin>
+            <xmax>1147</xmax>
+            <ymax>1013</ymax>
+        </bndbox>
+    </object>
+</annotation>

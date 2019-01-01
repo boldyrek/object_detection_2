@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-directnissan-ca-used-vehicle-2013-nissan-pathfinder-platinum-as-is-only-id8946648-htm-2018-12-11-08_16_08.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3090</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>796</xmin>
+            <ymin>645</ymin>
+            <xmax>840</xmax>
+            <ymax>688</ymax>
+        </bndbox>
+    </object>
+</annotation>

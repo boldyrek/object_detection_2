@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-menzieschryslerdealer-used-Buick-2013-Buick-Enclave-f99ba95d0a0e0ae9744ea1ffa96a5059-htm-2018-12-04-16_27_05.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4439</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>970</xmin>
+            <ymin>767</ymin>
+            <xmax>984</xmax>
+            <ymax>790</ymax>
+        </bndbox>
+    </object>
+</annotation>

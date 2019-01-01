@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-1000islandstoyota-inventory-used-1086-2013-Toyota-Highlander-2018-12-11-10_09_19.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>1547</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>854</xmin>
+            <ymin>471</ymin>
+            <xmax>879</xmax>
+            <ymax>504</ymax>
+        </bndbox>
+    </object>
+</annotation>

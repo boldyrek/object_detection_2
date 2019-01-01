@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-richmondhillhonda-used-vehicle-2014-honda-accord-sport-id8983647-htm-2018-12-11-08_48_47.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>8539</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>926</ymin>
+            <xmax>834</xmax>
+            <ymax>934</ymax>
+        </bndbox>
+    </object>
+</annotation>

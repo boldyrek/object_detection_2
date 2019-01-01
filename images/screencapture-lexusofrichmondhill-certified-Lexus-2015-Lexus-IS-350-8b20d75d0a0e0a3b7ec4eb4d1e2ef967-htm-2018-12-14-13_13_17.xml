@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-lexusofrichmondhill-certified-Lexus-2015-Lexus-IS-350-8b20d75d0a0e0a3b7ec4eb4d1e2ef967-htm-2018-12-14-13_13_17.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2397</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>862</xmin>
+            <ymin>835</ymin>
+            <xmax>879</xmax>
+            <ymax>869</ymax>
+        </bndbox>
+    </object>
+</annotation>

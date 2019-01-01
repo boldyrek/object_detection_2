@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autoparkbarrie-ca-used-vehicle-2014-chevrolet-cruze-1lt-id9038517-htm-2018-11-22-14_01_39.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>2822</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1050</xmin>
+            <ymin>969</ymin>
+            <xmax>1065</xmax>
+            <ymax>988</ymax>
+        </bndbox>
+    </object>
+</annotation>

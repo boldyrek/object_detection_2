@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-autotrader-ca-a-GMC-Acadia-Toronto-Ontario-5_41406928_20121031102536173-2018-12-14-11_52_32.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3246</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>890</xmin>
+            <ymin>593</ymin>
+            <xmax>912</xmax>
+            <ymax>614</ymax>
+        </bndbox>
+    </object>
+</annotation>

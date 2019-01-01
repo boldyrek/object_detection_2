@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-idealhonda-used-vehicle-2013-honda-civic-ex-id8915394-htm-2018-12-05-10_37_27.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>7743</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>913</xmin>
+            <ymin>519</ymin>
+            <xmax>931</xmax>
+            <ymax>545</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>nav</folder>
+    <filename>screencapture-gatineaugm-VehicleDetails-new-2019-GMC-Sierra_1500-Elevation-Gatineau-QC-3337354123-2018-12-14-13_00_03.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>3741</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>1046</ymin>
+            <xmax>695</xmax>
+            <ymax>1071</ymax>
+        </bndbox>
+    </object>
+</annotation>

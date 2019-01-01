@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-broadwayautosales-inventory-2010-nissan-versa-2275643-2018-11-28-17_11_39.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>3534</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>909</xmin>
+            <ymin>693</ymin>
+            <xmax>962</xmax>
+            <ymax>747</ymax>
+        </bndbox>
+    </object>
+</annotation>

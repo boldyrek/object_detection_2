@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-georgianchevrolet-VehicleDetails-used-2011-Mazda-Mazda3-GX-Barrie-ON-3313094573-2018-11-30-16_14_31.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>4193</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>760</xmin>
+            <ymin>1023</ymin>
+            <xmax>777</xmax>
+            <ymax>1048</ymax>
+        </bndbox>
+    </object>
+</annotation>

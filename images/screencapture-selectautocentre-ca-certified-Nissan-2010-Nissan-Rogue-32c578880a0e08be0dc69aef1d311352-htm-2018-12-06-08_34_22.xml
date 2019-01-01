@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-selectautocentre-ca-certified-Nissan-2010-Nissan-Rogue-32c578880a0e08be0dc69aef1d311352-htm-2018-12-06-08_34_22.jpg</filename>
+    <size>
+        <width>1677</width>
+        <height>3218</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>715</ymin>
+            <xmax>985</xmax>
+            <ymax>753</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>no-nav</folder>
+    <filename>screencapture-garstonmotors-certified-Dodge-2012-Dodge-Grand-Caravan-6d7139c50a0e0a4178c1de2c593f6df5-htm-2018-12-12-16_19_40.jpg</filename>
+    <size>
+        <width>1472</width>
+        <height>2975</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>883</xmin>
+            <ymin>776</ymin>
+            <xmax>899</xmax>
+            <ymax>805</ymax>
+        </bndbox>
+    </object>
+</annotation>
